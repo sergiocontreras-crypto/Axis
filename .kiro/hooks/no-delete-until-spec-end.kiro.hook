@@ -1,0 +1,16 @@
+{
+  "enabled": true,
+  "name": "Bloquear borrados durante la spec",
+  "description": "Antes de cualquier operación de borrado de archivos (incluidos temporales), detener y advertir que NO se debe eliminar nada hasta que el usuario lo autorice al final de la spec. Conservar los archivos temporales en su lugar.",
+  "version": "1",
+  "when": {
+    "type": "preToolUse",
+    "toolTypes": [
+      "write"
+    ]
+  },
+  "then": {
+    "type": "askAgent",
+    "prompt": "REGLA INVIOLABLE: No elimines NINGÚN archivo (ni siquiera temporales como _tmp_*.py, _smoke_*.py, scratch, o salidas .txt) hasta que el usuario lo autorice explícitamente al final de toda la spec. Si estás a punto de borrar un archivo, NO lo hagas. Déjalo en su lugar. Si es un temporal de verificación, consérvalo. Solo al final de la spec, presenta al usuario la lista completa de archivos temporales candidatos a borrado y espera su confirmación explícita antes de eliminar cualquiera."
+  }
+}

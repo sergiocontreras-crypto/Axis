@@ -1,0 +1,32 @@
+{
+  "FW1": {
+    "compania": "Bolívar",
+    "encaje": "SI",
+    "id_cobertura": null
+  },
+  "SW1": {
+    "compania": "Capitalizadora",
+    "encaje": "SI",
+    "id_cobertura": "T1"
+  },
+  "T1": {
+    "compania": "Capitalizadora",
+    "encaje": "SI",
+    "id_cobertura": "SW1"
+  },
+  "T2": {
+    "compania": "Bolívar",
+    "encaje": "SI",
+    "id_cobertura": null
+  },
+  "T3": {
+    "compania": "Comerciales",
+    "encaje": "SI",
+    "id_cobertura": null
+  },
+  "T4": {
+    "compania": "Sin Compañía",
+    "encaje": "SI",
+    "id_cobertura": null
+  }
+}

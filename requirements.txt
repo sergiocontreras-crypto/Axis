@@ -1,0 +1,42 @@
+# AXIS - Asset-Liability eXecution & Investment Simulator
+# Dependencias Python para Fase 1
+
+# Procesamiento de datos
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Lectura/escritura de archivos Excel
+openpyxl>=3.1.0
+xlrd>=2.0.1
+
+# Validación de datos
+pydantic>=2.0.0
+
+# Testing
+# Versión exacta pineada (sin >=, ^, ~, *, latest) por política de dependencias.
+pytest==8.4.2
+pytest-cov>=4.1.0
+
+# Property-based testing
+# Versión exacta pineada (sin ^, ~, *, latest) por política de dependencias.
+hypothesis==6.140.3
+
+# Dashboard (Dash) y su servidor WSGI (Flask). Antes no estaban pineados pese a que
+# app_dash.py depende de ellos. Versión exacta por política de dependencias.
+dash==4.4.1
+flask==3.1.3
+
+# Background callbacks del dashboard (DiskcacheManager): saca las corridas largas del
+# escenario a un worker y evita timeouts HTTP en horizontes largos. diskcache requiere
+# multiprocess (+ dill) y psutil (equivalente a instalar dash[diskcache]).
+diskcache==5.6.3
+multiprocess==0.70.19
+dill==0.4.1
+psutil==7.2.2
+
+# Conversión de documentos
+# Opción 1: Pandoc (requiere instalación externa)
+# Descargar desde: https://pandoc.org/installing.html
+
+# Opción 2: reportlab (solo Python, más simple)
+reportlab>=4.0.0

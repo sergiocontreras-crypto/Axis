@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AXIS — Arquitectura Real del Proyecto</title>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    font-family: 'Segoe UI', Tahoma, sans-serif;
+    background: #0f1420;
+    color: #e6e9ef;
+    padding: 32px;
+    line-height: 1.4;
+  }
+  h1 { font-size: 26px; margin-bottom: 4px; color: #fff; }
+  .sub { color: #8b93a7; font-size: 13px; margin-bottom: 28px; }
+  .leyenda {
+    display: flex; gap: 18px; flex-wrap: wrap;
+    margin-bottom: 28px; font-size: 12px;
+  }
+  .leyenda span { display: flex; align-items: center; gap: 6px; }
+  .dot { width: 12px; height: 12px; border-radius: 3px; display: inline-block; }
+
+  .capa {
+    border: 1px solid #2a3348;
+    border-radius: 12px;
+    padding: 18px 20px;
+    margin-bottom: 22px;
+    background: #151b2b;
+  }
+  .capa-titulo {
+    font-size: 13px; font-weight: 700; letter-spacing: .08em;
+    text-transform: uppercase; color: #6ea8fe; margin-bottom: 14px;
+  }
+  .fila { display: flex; gap: 14px; flex-wrap: wrap; align-items: stretch; }
+
+  .box {
+    border-radius: 10px;
+    padding: 12px 14px;
+    min-width: 165px;
+    flex: 1;
+    border: 1px solid transparent;
+  }
+  .box .nombre { font-weight: 700; font-size: 14px; margin-bottom: 4px; }
+  .box .desc { font-size: 11.5px; color: #b8c0d4; }
+
+  .inputs  { background: #1e2b25; border-color: #2f6b4f; }
+  .etl     { background: #1e2536; border-color: #3a6ea5; }
+  .valora  { background: #2b2436; border-color: #7a5aa5; }
+  .dash    { background: #362b1e; border-color: #a5793a; }
+  .proy    { background: #24303a; border-color: #3a92a5; }
+  .db      { background: #2b2030; border-color: #a53a7a; text-align:center; }
+
+  .arrow-row { text-align:center; color:#4f5a75; font-size:22px; margin: -8px 0 8px; }
+
+  .nota { font-size: 11px; color: #8b93a7; margin-top: 6px; font-style: italic; }
+  .obsoleto {
+    border: 1px dashed #6b3a3a; background: #2b1a1a;
+    border-radius: 10px; padding: 12px 14px; min-width: 200px; flex:1;
+  }
+  .obsoleto .nombre { color:#e58a8a; font-weight:700; font-size:13px; }
+  .obsoleto .desc { color:#a58080; font-size:11px; }
+  .col { display:flex; flex-direction:column; gap:10px; flex:1; }
+</style>
+</head>
+<body>
+  <h1>AXIS — Arquitectura Real del Proyecto</h1>
+  <div class="sub">Mapa de módulos que realmente se ejecutan y cómo se conectan · Base de datos única: <b>portafolio.db</b></div>
+
+  <div class="leyenda">
+    <span><i class="dot inputs"></i> Inputs / Tablas maestras</span>
+    <span><i class="dot etl"></i> ETL / Clasificación</span>
+    <span><i class="dot valora"></i> Valoración</span>
+    <span><i class="dot dash"></i> Dashboards (UI)</span>
+    <span><i class="dot proy"></i> Proyección</span>
+    <span><i class="dot db"></i> Base de datos</span>
+  </div>
+
+  <!-- CAPA 1: INPUTS -->
+  <div class="capa">
+    <div class="capa-titulo">1 · Fuentes de datos (Inputs Py/)</div>
+    <div class="fila">
+      <div class="box inputs"><div class="nombre">Archivos crudos</div><div class="desc">597, Master Trader, base manual, PFTIT695 (swaps), Informe Opciones, TRM, curvas PIP</div></div>
+      <div class="box inputs"><div class="nombre">Tablas maestras (CSV)</div><div class="desc">mapeo_emisores, mapeo_especies, mapeo_excepciones, matriz_asset_class, matriz_reglas_solvencia, categorias_regimen, diccionario_swaps, objetivo_derivados…</div></div>
+    </div>
+  </div>
+
+  <div class="arrow-row">▼</div>
+
+  <!-- CAPA 2: ETL -->
+  <div class="capa">
+    <div class="capa-titulo">2 · ETL y Clasificación (raíz)</div>
+    <div class="fila">
+      <div class="box etl"><div class="nombre">init_db.py</div><div class="desc">Crea portafolio.db y carga las tablas maestras (param_*)</div></div>
+      <div class="box etl"><div class="nombre">portfolio_loader_beta.py</div><div class="desc">Limpia y carga los crudos a las tablas hist_* · usa libro_de_funciones</div></div>
+    </div>
+    <div class="arrow-row">▼</div>
+    <div class="fila">
+      <div class="box etl"><div class="nombre">diccionario_titulos.py</div><div class="desc">Genera diccionario_clasificado (atributos atemporales: régimen, emisor, especie)</div></div>
+      <div class="box etl"><div class="nombre">clasificar_portafolio.py</div><div class="desc">Genera portafolio_clasificado (asset class, solvencia, encaje). Se llama en vivo desde app_dash</div></div>
+    </div>
+    <div class="nota">Base transversal: <b>libro_de_funciones.py</b> (limpieza + utilidades de valoración)</div>
+  </div>
+
+  <div class="arrow-row">▼</div>
+
+  <!-- CAPA 3: VALORACION -->
+  <div class="capa">
+    <div class="capa-titulo">3 · Valoración</div>
+    <div class="fila">
+      <div class="box valora"><div class="nombre">valorar_bonos.py</div><div class="desc">Bonos TF, IPC, UVR, yankee, amortizable</div></div>
+      <div class="box valora"><div class="nombre">valoracion_derivados.py</div><div class="desc">Forwards, opciones (Black-Scholes) y swaps (CCS) + proyección de curvas · usa valorar_bonos + libro_de_funciones</div></div>
+      <div class="box valora"><div class="nombre">gestor_informes.py</div><div class="desc">Carga y gestión de informes (usado por dashboards)</div></div>
+    </div>
+  </div>
+
+  <div class="arrow-row">▼</div>
+
+  <!-- CAPA 4: PROYECCION -->
+  <div class="capa">
+    <div class="capa-titulo">4 · Motores de Proyección</div>
+    <div class="fila">
+      <div class="col">
+        <div class="box proy"><div class="nombre">proyeccion_renta_variable.py</div><div class="desc">RV local, internacional, PEI (tasa EA)</div></div>
+        <div class="box proy"><div class="nombre">proyeccion_alternativos.py</div><div class="desc">FCP; FCP 4G infra con IPC+spread (usa es_ipc)</div></div>
+        <div class="box proy"><div class="nombre">proyeccion_creditos.py</div><div class="desc">Créditos COP/USD (IPC/IBR/SOFR)</div></div>
+        <div class="box proy"><div class="nombre">proyeccion_simultaneas_pasivas.py</div><div class="desc">Simultáneas pasivas (raíz)</div></div>
+      </div>
+      <div class="col">
+        <div class="box proy"><div class="nombre">curvas_rendimiento.py</div><div class="desc">Curvas PIP + sendas lineales</div></div>
+        <div class="box proy"><div class="nombre">motor_proyeccion.py</div><div class="desc">Simula RF mes a mes re-valorando · usa curvas + valorar_bonos(scripts)</div></div>
+        <div class="box proy"><div class="nombre">orquestador_valoracion_rf.py</div><div class="desc">Exporta Excel RF mensual</div></div>
+        <div class="box proy"><div class="nombre">causacion_cierre.py</div><div class="desc">Causación RF a cierre (sendas planas)</div></div>
+        <div class="box proy"><div class="nombre">calcular_encaje.py</div><div class="desc">Ratio encaje por ramo + escenarios</div></div>
+      </div>
+    </div>
+    <div class="nota">scripts/valorar_bonos.py es una copia local usada por este subsistema.</div>
+  </div>
+
+  <div class="arrow-row">▼</div>
+
+  <!-- CAPA 5: UI -->
+  <div class="capa">
+    <div class="capa-titulo">5 · Dashboards (interfaz de usuario)</div>
+    <div class="fila">
+      <div class="box dash"><div class="nombre">app_dash.py — puerto 8060</div><div class="desc">Dashboard PRINCIPAL. Diccionario, Portafolio, Alertas, Inputs, Proyecciones. Llama clasificar_portafolio, valoracion_derivados, proyecciones y simultáneas pasivas</div></div>
+      <div class="box dash"><div class="nombre">app_proyecciones.py</div><div class="desc">Dashboard alterno simplificado de proyecciones (RV, créditos, alternativos)</div></div>
+    </div>
+    <div class="fila" style="margin-top:12px;">
+      <div class="box dash"><div class="nombre">dashboard_causacion.py — 8070</div><div class="desc">Dash. Causación RF a cierre 2026 · usa causacion_cierre + gestor_informes</div></div>
+      <div class="box dash"><div class="nombre">dashboard_encaje.py — Streamlit</div><div class="desc">Encaje por ramo + sensibilización · usa calcular_encaje + valorar_bonos</div></div>
+    </div>
+  </div>
+
+  <!-- DB -->
+  <div class="capa">
+    <div class="capa-titulo">Persistencia</div>
+    <div class="fila">
+      <div class="box db"><div class="nombre">portafolio.db (SQLite)</div><div class="desc">Tablas param_* (maestras), hist_* (crudos), diccionario_clasificado, portafolio_clasificado. Consumida por todas las capas.</div></div>
+    </div>
+  </div>
+
+  <!-- OBSOLETOS -->
+  <div class="capa" style="border-color:#6b3a3a;">
+    <div class="capa-titulo" style="color:#e58a8a;">Obsoletos / No conectados (candidatos a eliminar)</div>
+    <div class="fila">
+      <div class="obsoleto"><div class="nombre">motor_kiro.py</div><div class="desc">Versión vieja de init_db. Apunta a axis_portfolio.db (no existe)</div></div>
+      <div class="obsoleto"><div class="nombre">scripts/crear_tablas_swaps.py</div><div class="desc">Apunta a axis_portfolio.db y a CSV inexistentes</div></div>
+      <div class="obsoleto"><div class="nombre">scripts/generar_diccionario_swaps.py</div><div class="desc">Flujo manual anterior; hoy vive en Inputs Py/diccionario_swaps.csv</div></div>
+      <div class="obsoleto"><div class="nombre">src/ (carpeta)</div><div class="desc">Vacía tras reorganización, solo __pycache__</div></div>
+    </div>
+  </div>
+
+</body>
+</html>

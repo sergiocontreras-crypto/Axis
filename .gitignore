@@ -1,0 +1,149 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+venv/
+ENV/
+env/
+.venv
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+.hypothesis/
+
+# Dash background callbacks (DiskcacheManager)
+cache/
+
+# Data files (no subir archivos grandes de datos)
+*.xlsx
+*.xls
+*.csv
+!requirements.txt
+
+# Bases de datos SQLite (datos generados, no versionar)
+*.db
+*.sqlite
+*.sqlite3
+
+# Carpeta de archivos obsoletos / históricos
+archive/
+
+# Salidas generadas por el modelo
+outputs/
+valoracion_*.xlsx
+validacion_*.xlsx
+sabana_*.xlsx
+detalle_*.xlsx
+Causacion_*.xlsx
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Archivos temporales de Excel
+~$*.xlsx
+~$*.xls
+
+# Archivos de Google
+*.gdoc
+*.gsheet
+
+# Archivos temporales de diagnóstico / scratch (no versionar; no se eliminan del disco)
+_tmp_*
+_out_*
+_pbt_*
+_reg*.txt
+_rv_spec_result.txt
+_baseline_revert.py
+_diag_*
+_run_*.py
+_run_*.ps1
+_task*_out.txt
+__anchor_probe.py
+__patch_settings.py
+__pbt_*
+_chk*.txt
+_atom_*.txt
+_evidencia_*.py
+_probe_*.py
+_smoke_*.py
+_obs_*.py
+_verif_*.py
+_salida_*.txt
+_new_tests_out.txt
+_trm_*.txt
+_trm_*.out
+_trm_*.err*
+_prim_final.txt
+_pres_result.txt
+_prop*_run*.txt
+_pytest_*.txt
+_resultado_tarea*.txt
+exportar_parcial.py
+
+# Backups puntuales (no versionar; no se eliminan del disco)
+*.bak_*
+*.bak
+
+# Archivos scratch / diagnóstico con prefijo "_" (en cualquier carpeta)
+_*.txt
+_*.out
+_*.err
+_*.csv
+_*.json
+_*.py
+_cap_*
+_run_*
+_verif_*
+_imp_*
+_cmp_*
+_df_*
+_chk*
+tools/_*
+
+# Excel con macros (inputs, no versionar binarios grandes)
+*.xlsm
+*.xlsb
+
+# Archivos de diagnóstico puntuales en raíz
+_srv.out
+_srv.err
+_psnap.txt
+_cleanup.txt
+_rf_e.txt
+_rf_o.txt

@@ -1,0 +1,4922 @@
+[
+  {
+    "mes": 1,
+    "vm_total": 10842555801855.895,
+    "vtir_total": 12664595286159.076,
+    "pnl_mercado_mes": -2206996467137.0664,
+    "pnl_tir_mes": -384956982833.88477,
+    "pnl_mercado_acum": -2206996467137.0664,
+    "pnl_tir_acum": -384956982833.88477,
+    "n_titulos": 1443,
+    "n_reinversiones_mes": 206,
+    "cupones_cobrados_mes": 40999345899.98641,
+    "reinversiones": [
+      {
+        "id_posicion": "723324_R20260825",
+        "especie": "BN ORD GRUP INV SURAMERICANA",
+        "nominal": 297326820.0713591,
+        "valor_mercado": 175036073.00762585,
+        "valor_tir": 320524072.0587306,
+        "tasa_compra": 6.576773584905649,
+        "fecha_vencimiento": "2049-11-25"
+      },
+      {
+        "id_posicion": "723325_R20260825",
+        "especie": "BN ORD GRUP INV SURAMERICANA",
+        "nominal": 297326820.0713591,
+        "valor_mercado": 175036073.00762585,
+        "valor_tir": 320524072.0587306,
+        "tasa_compra": 6.576773584905649,
+        "fecha_vencimiento": "2049-11-25"
+      },
+      {
+        "id_posicion": "751085_R20260825",
+        "especie": "BN ORD GRUP INV SURAMERICANA",
+        "nominal": 237861456.0570873,
+        "valor_mercado": 140028858.4061007,
+        "valor_tir": 256419257.64698452,
+        "tasa_compra": 6.576773584905649,
+        "fecha_vencimiento": "2049-11-25"
+      },
+      {
+        "id_posicion": "755825_R20260827",
+        "especie": "Bonos Ecopetrol",
+        "nominal": 906136570.6768996,
+        "valor_mercado": 460737227.22252244,
+        "valor_tir": 837816399.2164265,
+        "tasa_compra": 6.230943396226407,
+        "fecha_vencimiento": "2043-08-27"
+      },
+      {
+        "id_posicion": "755828_R20260827",
+        "especie": "Bonos Ecopetrol",
+        "nominal": 302045523.5589665,
+        "valor_mercado": 153579075.7408408,
+        "valor_tir": 279272133.0721422,
+        "tasa_compra": 6.230943396226407,
+        "fecha_vencimiento": "2043-08-27"
+      },
+      {
+        "id_posicion": "755832_R20260827",
+        "especie": "Bonos Ecopetrol",
+        "nominal": 302045523.5589665,
+        "valor_mercado": 153579075.7408408,
+        "valor_tir": 279272133.0721422,
+        "tasa_compra": 6.230943396226407,
+        "fecha_vencimiento": "2043-08-27"
+      },
+      {
+        "id_posicion": "755842_R20260827",
+        "especie": "Bonos Ecopetrol",
+        "nominal": 60409104.711793296,
+        "valor_mercado": 30715815.148168154,
+        "valor_tir": 55854426.61442842,
+        "tasa_compra": 6.230943396226407,
+        "fecha_vencimiento": "2043-08-27"
+      },
+      {
+        "id_posicion": "755844_R20260827",
+        "especie": "Bonos Ecopetrol",
+        "nominal": 181227314.13537988,
+        "valor_mercado": 92147445.44450447,
+        "valor_tir": 167563279.84328526,
+        "tasa_compra": 6.230943396226407,
+        "fecha_vencimiento": "2043-08-27"
+      },
+      {
+        "id_posicion": "755905_R20260827",
+        "especie": "Bonos Ecopetrol",
+        "nominal": 181227314.13537988,
+        "valor_mercado": 92147445.44450447,
+        "valor_tir": 167563279.84328526,
+        "tasa_compra": 6.230943396226407,
+        "fecha_vencimiento": "2043-08-27"
+      },
+      {
+        "id_posicion": "755916_R20260827",
+        "especie": "Bonos Ecopetrol",
+        "nominal": 302045523.5589665,
+        "valor_mercado": 153579075.7408408,
+        "valor_tir": 279272133.0721422,
+        "tasa_compra": 6.230943396226407,
+        "fecha_vencimiento": "2043-08-27"
+      },
+      {
+        "id_posicion": "756063_R20260827",
+        "especie": "Bonos Ecopetrol",
+        "nominal": 181227314.13537988,
+        "valor_mercado": 92147445.44450447,
+        "valor_tir": 167563279.84328526,
+        "tasa_compra": 6.230943396226407,
+        "fecha_vencimiento": "2043-08-27"
+      },
+      {
+        "id_posicion": "756064_R20260827",
+        "especie": "Bonos Ecopetrol",
+        "nominal": 120818209.42358659,
+        "valor_mercado": 61431630.29633631,
+        "valor_tir": 111708853.22885685,
+        "tasa_compra": 6.230943396226407,
+        "fecha_vencimiento": "2043-08-27"
+      },
+      {
+        "id_posicion": "756234_R20260827",
+        "especie": "Bonos Ecopetrol",
+        "nominal": 604091047.117933,
+        "valor_mercado": 307158151.4816816,
+        "valor_tir": 558544266.1442844,
+        "tasa_compra": 6.230943396226407,
+        "fecha_vencimiento": "2043-08-27"
+      },
+      {
+        "id_posicion": "756235_R20260827",
+        "especie": "Bonos Ecopetrol",
+        "nominal": 302045523.5589665,
+        "valor_mercado": 153579075.7408408,
+        "valor_tir": 279272133.0721422,
+        "tasa_compra": 6.230943396226407,
+        "fecha_vencimiento": "2043-08-27"
+      },
+      {
+        "id_posicion": "758705_R20260827",
+        "especie": "Bonos Ecopetrol",
+        "nominal": 60409104.711793296,
+        "valor_mercado": 30715815.148168154,
+        "valor_tir": 55854426.61442842,
+        "tasa_compra": 6.230943396226407,
+        "fecha_vencimiento": "2043-08-27"
+      },
+      {
+        "id_posicion": "758706_R20260827",
+        "especie": "Bonos Ecopetrol",
+        "nominal": 120818209.42358659,
+        "valor_mercado": 61431630.29633631,
+        "valor_tir": 111708853.22885685,
+        "tasa_compra": 6.230943396226407,
+        "fecha_vencimiento": "2043-08-27"
+      },
+      {
+        "id_posicion": "763934_R20260827",
+        "especie": "Bonos Ecopetrol",
+        "nominal": 166125037.95743155,
+        "valor_mercado": 84468491.65746242,
+        "valor_tir": 153599673.18967816,
+        "tasa_compra": 6.230943396226407,
+        "fecha_vencimiento": "2043-08-27"
+      },
+      {
+        "id_posicion": "771111_R20260825",
+        "especie": "BN ORD GRUP INV SURAMERICANA",
+        "nominal": 118930728.02854365,
+        "valor_mercado": 70014429.20305035,
+        "valor_tir": 128209628.82349226,
+        "tasa_compra": 6.576773584905649,
+        "fecha_vencimiento": "2049-11-25"
+      },
+      {
+        "id_posicion": "771798_R20260825",
+        "especie": "BN ORD GRUP INV SURAMERICANA",
+        "nominal": 29732682.007135913,
+        "valor_mercado": 17503607.300762586,
+        "valor_tir": 32052407.205873065,
+        "tasa_compra": 6.576773584905649,
+        "fecha_vencimiento": "2049-11-25"
+      },
+      {
+        "id_posicion": "773145_R20260827",
+        "especie": "Bonos Ecopetrol",
+        "nominal": 241636418.84717318,
+        "valor_mercado": 122863260.59267262,
+        "valor_tir": 223417706.4577137,
+        "tasa_compra": 6.230943396226407,
+        "fecha_vencimiento": "2043-08-27"
+      },
+      {
+        "id_posicion": "774047_R20260826",
+        "especie": "BONO MUNICIPIO DE MEDELLIN",
+        "nominal": 325615989.6945857,
+        "valor_mercado": 146648454.75712582,
+        "valor_tir": 267230423.25055164,
+        "tasa_compra": 6.948339622641497,
+        "fecha_vencimiento": "2044-08-26"
+      },
+      {
+        "id_posicion": "784039_R20260827",
+        "especie": "BO ORGANIZACION TERPEL",
+        "nominal": 50844664.01915606,
+        "valor_mercado": 36017055.82553806,
+        "valor_tir": 46289589.43498951,
+        "tasa_compra": 6.55660377358489,
+        "fecha_vencimiento": "2031-02-27"
+      },
+      {
+        "id_posicion": "785661_R20260825",
+        "especie": "BN ORD GRUP INV SURAMERICANA",
+        "nominal": 104064387.02497569,
+        "valor_mercado": 61262625.55266905,
+        "valor_tir": 112183425.22055572,
+        "tasa_compra": 6.576773584905649,
+        "fecha_vencimiento": "2049-11-25"
+      },
+      {
+        "id_posicion": "785806_R20260825",
+        "especie": "BN ORD GRUP INV SURAMERICANA",
+        "nominal": 133797069.03211161,
+        "valor_mercado": 78766232.85343164,
+        "valor_tir": 144235832.4264288,
+        "tasa_compra": 6.576773584905649,
+        "fecha_vencimiento": "2049-11-25"
+      },
+      {
+        "id_posicion": "786166_R20260827",
+        "especie": "BO ORGANIZACION TERPEL",
+        "nominal": 127111660.04789011,
+        "valor_mercado": 90042639.56384511,
+        "valor_tir": 115723973.58747391,
+        "tasa_compra": 6.55660377358489,
+        "fecha_vencimiento": "2031-02-27"
+      },
+      {
+        "id_posicion": "786474_R20260825",
+        "especie": "BN ORD GRUP INV SURAMERICANA",
+        "nominal": 59465364.014271826,
+        "valor_mercado": 35007214.60152517,
+        "valor_tir": 64104814.41174613,
+        "tasa_compra": 6.576773584905649,
+        "fecha_vencimiento": "2049-11-25"
+      },
+      {
+        "id_posicion": "788779_R20260807",
+        "especie": "Bn ISA ESP",
+        "nominal": 115141836.38251722,
+        "valor_mercado": 67893678.58605242,
+        "valor_tir": 102297978.39041282,
+        "tasa_compra": 6.593103773584907,
+        "fecha_vencimiento": "2035-05-07"
+      },
+      {
+        "id_posicion": "788781_R20260807",
+        "especie": "Bn ISA ESP",
+        "nominal": 28785459.095629305,
+        "valor_mercado": 16973419.646513104,
+        "valor_tir": 25574494.597603206,
+        "tasa_compra": 6.593103773584907,
+        "fecha_vencimiento": "2035-05-07"
+      },
+      {
+        "id_posicion": "793798_R20260807",
+        "especie": "BN ORD GRUP INV SURAMERICANA",
+        "nominal": 41174892.53635212,
+        "valor_mercado": 32082980.10687051,
+        "valor_tir": 39364132.71054148,
+        "tasa_compra": 6.505132075471698,
+        "fecha_vencimiento": "2030-05-07"
+      },
+      {
+        "id_posicion": "796596_R20260818",
+        "especie": "Bn ISA ESP",
+        "nominal": 120617729.28095624,
+        "valor_mercado": 65763257.46125031,
+        "valor_tir": 112586907.85839286,
+        "tasa_compra": 6.54759433962262,
+        "fecha_vencimiento": "2041-02-18"
+      },
+      {
+        "id_posicion": "796599_R20260818",
+        "especie": "Bn ISA ESP",
+        "nominal": 120617729.28095624,
+        "valor_mercado": 65763257.46125031,
+        "valor_tir": 112586907.85839286,
+        "tasa_compra": 6.54759433962262,
+        "fecha_vencimiento": "2041-02-18"
+      },
+      {
+        "id_posicion": "796604_R20260818",
+        "especie": "Bn ISA ESP",
+        "nominal": 120617729.28095624,
+        "valor_mercado": 65763257.46125031,
+        "valor_tir": 112586907.85839286,
+        "tasa_compra": 6.54759433962262,
+        "fecha_vencimiento": "2041-02-18"
+      },
+      {
+        "id_posicion": "796606_R20260818",
+        "especie": "Bn ISA ESP",
+        "nominal": 120617729.28095624,
+        "valor_mercado": 65763257.46125031,
+        "valor_tir": 112586907.85839286,
+        "tasa_compra": 6.54759433962262,
+        "fecha_vencimiento": "2041-02-18"
+      },
+      {
+        "id_posicion": "796608_R20260818",
+        "especie": "Bn ISA ESP",
+        "nominal": 120617729.28095624,
+        "valor_mercado": 65763257.46125031,
+        "valor_tir": 112586907.85839286,
+        "tasa_compra": 6.54759433962262,
+        "fecha_vencimiento": "2041-02-18"
+      },
+      {
+        "id_posicion": "796610_R20260818",
+        "especie": "Bn ISA ESP",
+        "nominal": 120617729.28095624,
+        "valor_mercado": 65763257.46125031,
+        "valor_tir": 112586907.85839286,
+        "tasa_compra": 6.54759433962262,
+        "fecha_vencimiento": "2041-02-18"
+      },
+      {
+        "id_posicion": "796612_R20260818",
+        "especie": "Bn ISA ESP",
+        "nominal": 120617729.28095624,
+        "valor_mercado": 65763257.46125031,
+        "valor_tir": 112586907.85839286,
+        "tasa_compra": 6.54759433962262,
+        "fecha_vencimiento": "2041-02-18"
+      },
+      {
+        "id_posicion": "796614_R20260818",
+        "especie": "Bn ISA ESP",
+        "nominal": 60308864.64047812,
+        "valor_mercado": 32881628.730625156,
+        "valor_tir": 56293453.92919643,
+        "tasa_compra": 6.54759433962262,
+        "fecha_vencimiento": "2041-02-18"
+      },
+      {
+        "id_posicion": "796616_R20260818",
+        "especie": "Bn ISA ESP",
+        "nominal": 90463296.96071717,
+        "valor_mercado": 49322443.09593773,
+        "valor_tir": 84440180.89379464,
+        "tasa_compra": 6.54759433962262,
+        "fecha_vencimiento": "2041-02-18"
+      },
+      {
+        "id_posicion": "796618_R20260818",
+        "especie": "Bn ISA ESP",
+        "nominal": 60308864.64047812,
+        "valor_mercado": 32881628.730625156,
+        "valor_tir": 55260379.42699137,
+        "tasa_compra": 6.54759433962262,
+        "fecha_vencimiento": "2041-02-18"
+      },
+      {
+        "id_posicion": "796670_R20260818",
+        "especie": "Bn ISA ESP",
+        "nominal": 60308864.64047812,
+        "valor_mercado": 32881628.730625156,
+        "valor_tir": 56293453.92919643,
+        "tasa_compra": 6.54759433962262,
+        "fecha_vencimiento": "2041-02-18"
+      },
+      {
+        "id_posicion": "797343_R20260826",
+        "especie": "BONO MUNICIPIO DE MEDELLIN",
+        "nominal": 325615989.6945857,
+        "valor_mercado": 146648454.75712582,
+        "valor_tir": 267230423.25055164,
+        "tasa_compra": 6.948339622641497,
+        "fecha_vencimiento": "2044-08-26"
+      },
+      {
+        "id_posicion": "797344_R20260826",
+        "especie": "BONO MUNICIPIO DE MEDELLIN",
+        "nominal": 325615989.6945857,
+        "valor_mercado": 146648454.75712582,
+        "valor_tir": 267230423.25055164,
+        "tasa_compra": 6.948339622641497,
+        "fecha_vencimiento": "2044-08-26"
+      },
+      {
+        "id_posicion": "797762_R20260821",
+        "especie": "B SUBOR BBVA COLOMBIA",
+        "nominal": 49593125.09292262,
+        "valor_mercado": 44577583.8984,
+        "valor_tir": 48864780.735149555,
+        "tasa_compra": 7.267226415094319,
+        "fecha_vencimiento": "2028-02-21"
+      },
+      {
+        "id_posicion": "806321_R20260811",
+        "especie": "BONOS HIP CREDIFAMILIA",
+        "nominal": 6529.726911754577,
+        "valor_mercado": 2451885.683483505,
+        "valor_tir": 2451885.683483505,
+        "tasa_compra": 7.56247,
+        "fecha_vencimiento": "2030-12-11"
+      },
+      {
+        "id_posicion": "807948_R20260823",
+        "especie": "BN ORD GRUP INV SURAMERICANA",
+        "nominal": 171353970.98886102,
+        "valor_mercado": 142779095.8803794,
+        "valor_tir": 162380598.76726067,
+        "tasa_compra": 6.494858490566036,
+        "fecha_vencimiento": "2029-02-23"
+      },
+      {
+        "id_posicion": "807949_R20260823",
+        "especie": "BN ORD GRUP INV SURAMERICANA",
+        "nominal": 73437416.1380833,
+        "valor_mercado": 61191041.09159118,
+        "valor_tir": 69591685.18596886,
+        "tasa_compra": 6.494858490566036,
+        "fecha_vencimiento": "2029-02-23"
+      },
+      {
+        "id_posicion": "808098_R20260828",
+        "especie": "BN ORDINARIO EEB",
+        "nominal": 80984581.62230632,
+        "valor_mercado": 35120771.39637495,
+        "valor_tir": 62244614.190653324,
+        "tasa_compra": 6.66982075471696,
+        "fecha_vencimiento": "2042-02-28"
+      },
+      {
+        "id_posicion": "813244_R20260811",
+        "especie": "CDT CORFICOL B360 R274",
+        "nominal": 316149416.0202816,
+        "valor_mercado": 139749432.7444237,
+        "valor_tir": 254055997.45022833,
+        "tasa_compra": 6.496528301886784,
+        "fecha_vencimiento": "2042-08-11"
+      },
+      {
+        "id_posicion": "813523_R20260828",
+        "especie": "BN ORDINARIO EEB",
+        "nominal": 133255105.14412136,
+        "valor_mercado": 90566766.91620056,
+        "valor_tir": 119205314.48927042,
+        "tasa_compra": 6.497650943396227,
+        "fecha_vencimiento": "2032-02-28"
+      },
+      {
+        "id_posicion": "816077_R20260828",
+        "especie": "BN ORDINARIO EEB",
+        "nominal": 66549313.199715205,
+        "valor_mercado": 25983149.155460473,
+        "valor_tir": 50076359.38755853,
+        "tasa_compra": 6.68578301886793,
+        "fecha_vencimiento": "2047-02-28"
+      },
+      {
+        "id_posicion": "816095_R20260828",
+        "especie": "BN ORDINARIO EEB",
+        "nominal": 133255105.14412136,
+        "valor_mercado": 90566766.91620056,
+        "valor_tir": 121613969.41379581,
+        "tasa_compra": 6.497650943396227,
+        "fecha_vencimiento": "2032-02-28"
+      },
+      {
+        "id_posicion": "816097_R20260828",
+        "especie": "BN ORDINARIO EEB",
+        "nominal": 266197252.79886082,
+        "valor_mercado": 103932596.6218419,
+        "valor_tir": 200305437.5502341,
+        "tasa_compra": 6.68578301886793,
+        "fecha_vencimiento": "2047-02-28"
+      },
+      {
+        "id_posicion": "816106_R20260828",
+        "especie": "BN ORDINARIO EEB",
+        "nominal": 332746565.99857605,
+        "valor_mercado": 129915745.77730235,
+        "valor_tir": 250381796.93779263,
+        "tasa_compra": 6.68578301886793,
+        "fecha_vencimiento": "2047-02-28"
+      },
+      {
+        "id_posicion": "816450_R20260828",
+        "especie": "Bn ISA ESP",
+        "nominal": 32173971.047825415,
+        "valor_mercado": 12531589.592382891,
+        "valor_tir": 24152641.64756507,
+        "tasa_compra": 6.3017735849056455,
+        "fecha_vencimiento": "2047-11-28"
+      },
+      {
+        "id_posicion": "816460_R20260828",
+        "especie": "Bn ISA ESP",
+        "nominal": 321739710.47825414,
+        "valor_mercado": 125315895.92382893,
+        "valor_tir": 247078888.14478987,
+        "tasa_compra": 6.3017735849056455,
+        "fecha_vencimiento": "2047-11-28"
+      },
+      {
+        "id_posicion": "818163_R20260828",
+        "especie": "Bn ISA ESP",
+        "nominal": 160869855.23912707,
+        "valor_mercado": 62657947.961914465,
+        "valor_tir": 123539444.07239494,
+        "tasa_compra": 6.3017735849056455,
+        "fecha_vencimiento": "2047-11-28"
+      },
+      {
+        "id_posicion": "818564_R20260828",
+        "especie": "BN ORDINARIO EEB",
+        "nominal": 33274656.599857602,
+        "valor_mercado": 12991574.577730237,
+        "valor_tir": 25038179.693779264,
+        "tasa_compra": 6.68578301886793,
+        "fecha_vencimiento": "2047-02-28"
+      },
+      {
+        "id_posicion": "819345_R20260828",
+        "especie": "Bn ISA ESP",
+        "nominal": 96521913.14347623,
+        "valor_mercado": 37594768.77714867,
+        "valor_tir": 74123666.44343695,
+        "tasa_compra": 6.3017735849056455,
+        "fecha_vencimiento": "2047-11-28"
+      },
+      {
+        "id_posicion": "819346_R20260828",
+        "especie": "Bn ISA ESP",
+        "nominal": 64347942.09565083,
+        "valor_mercado": 25063179.184765782,
+        "valor_tir": 49415777.62895798,
+        "tasa_compra": 6.3017735849056455,
+        "fecha_vencimiento": "2047-11-28"
+      },
+      {
+        "id_posicion": "819595_R20260827",
+        "especie": "BO ISAGEN",
+        "nominal": 335195410.13707936,
+        "valor_mercado": 126682248.27981627,
+        "valor_tir": 247666503.20056507,
+        "tasa_compra": 6.621792452830189,
+        "fecha_vencimiento": "2048-02-27"
+      },
+      {
+        "id_posicion": "819597_R20260827",
+        "especie": "BO ISAGEN",
+        "nominal": 67039082.02741587,
+        "valor_mercado": 25336449.655963253,
+        "valor_tir": 49533300.64011301,
+        "tasa_compra": 6.621792452830189,
+        "fecha_vencimiento": "2048-02-27"
+      },
+      {
+        "id_posicion": "819606_R20260827",
+        "especie": "BO ISAGEN",
+        "nominal": 67039082.02741587,
+        "valor_mercado": 25336449.655963253,
+        "valor_tir": 49533300.64011301,
+        "tasa_compra": 6.621792452830189,
+        "fecha_vencimiento": "2048-02-27"
+      },
+      {
+        "id_posicion": "820281_R20260827",
+        "especie": "BO ISAGEN",
+        "nominal": 167597705.06853968,
+        "valor_mercado": 63341124.139908135,
+        "valor_tir": 123833251.60028253,
+        "tasa_compra": 6.621792452830189,
+        "fecha_vencimiento": "2048-02-27"
+      },
+      {
+        "id_posicion": "820282_R20260827",
+        "especie": "BO ISAGEN",
+        "nominal": 167597705.06853968,
+        "valor_mercado": 63341124.139908135,
+        "valor_tir": 123833251.60028253,
+        "tasa_compra": 6.621792452830189,
+        "fecha_vencimiento": "2048-02-27"
+      },
+      {
+        "id_posicion": "820543_R20260827",
+        "especie": "BO ISAGEN",
+        "nominal": 234636787.09595555,
+        "valor_mercado": 88677573.79587139,
+        "valor_tir": 173366552.24039555,
+        "tasa_compra": 6.621792452830189,
+        "fecha_vencimiento": "2048-02-27"
+      },
+      {
+        "id_posicion": "820544_R20260827",
+        "especie": "BO ISAGEN",
+        "nominal": 100558623.0411238,
+        "valor_mercado": 38004674.48394488,
+        "valor_tir": 74299950.96016951,
+        "tasa_compra": 6.621792452830189,
+        "fecha_vencimiento": "2048-02-27"
+      },
+      {
+        "id_posicion": "820891_R20260828",
+        "especie": "BN ORDINARIO EEB",
+        "nominal": 266197252.79886082,
+        "valor_mercado": 103932596.6218419,
+        "valor_tir": 200305437.5502341,
+        "tasa_compra": 6.68578301886793,
+        "fecha_vencimiento": "2047-02-28"
+      },
+      {
+        "id_posicion": "820892_R20260828",
+        "especie": "BN ORDINARIO EEB",
+        "nominal": 66549313.199715205,
+        "valor_mercado": 25983149.155460473,
+        "valor_tir": 50076359.38755853,
+        "tasa_compra": 6.68578301886793,
+        "fecha_vencimiento": "2047-02-28"
+      },
+      {
+        "id_posicion": "820915_R20260828",
+        "especie": "BN ORDINARIO EEB",
+        "nominal": 66549313.199715205,
+        "valor_mercado": 25983149.155460473,
+        "valor_tir": 50076359.38755853,
+        "tasa_compra": 6.68578301886793,
+        "fecha_vencimiento": "2047-02-28"
+      },
+      {
+        "id_posicion": "822751_R20260828",
+        "especie": "BN ORDINARIO EEB",
+        "nominal": 166373282.99928802,
+        "valor_mercado": 64957872.88865118,
+        "valor_tir": 125190898.46889631,
+        "tasa_compra": 6.68578301886793,
+        "fecha_vencimiento": "2047-02-28"
+      },
+      {
+        "id_posicion": "822752_R20260828",
+        "especie": "BN ORDINARIO EEB",
+        "nominal": 99823969.79957283,
+        "valor_mercado": 38974723.733190715,
+        "valor_tir": 75114539.0813378,
+        "tasa_compra": 6.68578301886793,
+        "fecha_vencimiento": "2047-02-28"
+      },
+      {
+        "id_posicion": "824010_R20260825",
+        "especie": "TIPS U3 A 2028",
+        "nominal": 1714.853243104504,
+        "valor_mercado": 659243.7760118535,
+        "valor_tir": 659243.7760118535,
+        "tasa_compra": 7.19015,
+        "fecha_vencimiento": "2028-07-25"
+      },
+      {
+        "id_posicion": "824852_R20260828",
+        "especie": "BONO ORD PEI",
+        "nominal": 202306976.58505863,
+        "valor_mercado": 174336505.60836154,
+        "valor_tir": 193113860.29312682,
+        "tasa_compra": 7.218433962264137,
+        "fecha_vencimiento": "2028-08-28"
+      },
+      {
+        "id_posicion": "824855_R20260828",
+        "especie": "BONO ORD PEI",
+        "nominal": 174540768.39093208,
+        "valor_mercado": 70739861.90579051,
+        "valor_tir": 127972204.1087896,
+        "tasa_compra": 7.533886792452837,
+        "fecha_vencimiento": "2043-08-28"
+      },
+      {
+        "id_posicion": "824857_R20260828",
+        "especie": "BONO ORD PEI",
+        "nominal": 139632614.71274567,
+        "valor_mercado": 56591889.52463241,
+        "valor_tir": 102377763.2870317,
+        "tasa_compra": 7.533886792452837,
+        "fecha_vencimiento": "2043-08-28"
+      },
+      {
+        "id_posicion": "824864_R20260828",
+        "especie": "BONO ORD PEI",
+        "nominal": 209448922.0691185,
+        "valor_mercado": 84887834.2869486,
+        "valor_tir": 153566644.93054754,
+        "tasa_compra": 7.533886792452837,
+        "fecha_vencimiento": "2043-08-28"
+      },
+      {
+        "id_posicion": "824867_R20260828",
+        "especie": "BONO ORD PEI",
+        "nominal": 174540768.39093208,
+        "valor_mercado": 70739861.90579051,
+        "valor_tir": 127972204.1087896,
+        "tasa_compra": 7.533886792452837,
+        "fecha_vencimiento": "2043-08-28"
+      },
+      {
+        "id_posicion": "825384_R20260828",
+        "especie": "BN ORDINARIO EEB",
+        "nominal": 133098626.39943041,
+        "valor_mercado": 51966298.31092095,
+        "valor_tir": 100152718.77511705,
+        "tasa_compra": 6.68578301886793,
+        "fecha_vencimiento": "2047-02-28"
+      },
+      {
+        "id_posicion": "825385_R20260828",
+        "especie": "BN ORDINARIO EEB",
+        "nominal": 66549313.199715205,
+        "valor_mercado": 25983149.155460473,
+        "valor_tir": 50076359.38755853,
+        "tasa_compra": 6.68578301886793,
+        "fecha_vencimiento": "2047-02-28"
+      },
+      {
+        "id_posicion": "833591_R20260818",
+        "especie": "BO ORGANIZACION TERPEL",
+        "nominal": 103939586.66832319,
+        "valor_mercado": 81689158.27735764,
+        "valor_tir": 97606935.34728055,
+        "tasa_compra": 6.552216981132064,
+        "fecha_vencimiento": "2030-02-18"
+      },
+      {
+        "id_posicion": "833593_R20260818",
+        "especie": "BO ORGANIZACION TERPEL",
+        "nominal": 77954690.00124238,
+        "valor_mercado": 61266868.70801823,
+        "valor_tir": 73205201.51046039,
+        "tasa_compra": 6.552216981132064,
+        "fecha_vencimiento": "2030-02-18"
+      },
+      {
+        "id_posicion": "834062_R20260815",
+        "especie": "TIPS U4 2029",
+        "nominal": 1830.4748495017375,
+        "valor_mercado": 661242.7481563422,
+        "valor_tir": 661242.7481563422,
+        "tasa_compra": 7.25914,
+        "fecha_vencimiento": "2029-08-15"
+      },
+      {
+        "id_posicion": "834064_R20260815",
+        "especie": "TIPS U4 2029",
+        "nominal": 1830.4748495017375,
+        "valor_mercado": 661242.7481563422,
+        "valor_tir": 661242.7481563422,
+        "tasa_compra": 7.25914,
+        "fecha_vencimiento": "2029-08-15"
+      },
+      {
+        "id_posicion": "834204_R20260829",
+        "especie": "BN ORD CORFICOLOMBIANA  365",
+        "nominal": 588048174.6792201,
+        "valor_mercado": 281510898.50145775,
+        "valor_tir": 489297344.60040855,
+        "tasa_compra": 6.204660377358495,
+        "fecha_vencimiento": "2039-08-29"
+      },
+      {
+        "id_posicion": "834208_R20260829",
+        "especie": "BN ORD CORFICOLOMBIANA  365",
+        "nominal": 705657809.615064,
+        "valor_mercado": 337813078.2017492,
+        "valor_tir": 587156813.5204902,
+        "tasa_compra": 6.204660377358495,
+        "fecha_vencimiento": "2039-08-29"
+      },
+      {
+        "id_posicion": "834231_R20260828",
+        "especie": "BONOS GRUPO ARGOS",
+        "nominal": 548633198.5961993,
+        "valor_mercado": 302183325.3543964,
+        "valor_tir": 454348879.39829123,
+        "tasa_compra": 6.53331132075472,
+        "fecha_vencimiento": "2034-08-28"
+      },
+      {
+        "id_posicion": "836561_R20260808",
+        "especie": "BONO ORD PEI",
+        "nominal": 145316205.01450154,
+        "valor_mercado": 52449867.21105873,
+        "valor_tir": 97412955.93480942,
+        "tasa_compra": 7.536509433962246,
+        "fecha_vencimiento": "2044-11-08"
+      },
+      {
+        "id_posicion": "836564_R20260808",
+        "especie": "BONO ORD PEI",
+        "nominal": 363290512.53625387,
+        "valor_mercado": 131124668.02764682,
+        "valor_tir": 243532389.83702356,
+        "tasa_compra": 7.536509433962246,
+        "fecha_vencimiento": "2044-11-08"
+      },
+      {
+        "id_posicion": "836566_R20260808",
+        "especie": "BONO ORD PEI",
+        "nominal": 363290512.53625387,
+        "valor_mercado": 131124668.02764682,
+        "valor_tir": 243532389.83702356,
+        "tasa_compra": 7.536509433962246,
+        "fecha_vencimiento": "2044-11-08"
+      },
+      {
+        "id_posicion": "836568_R20260808",
+        "especie": "BONO ORD PEI",
+        "nominal": 363290512.53625387,
+        "valor_mercado": 131124668.02764682,
+        "valor_tir": 243532389.83702356,
+        "tasa_compra": 7.536509433962246,
+        "fecha_vencimiento": "2044-11-08"
+      },
+      {
+        "id_posicion": "836571_R20260808",
+        "especie": "BONO ORD PEI",
+        "nominal": 363290512.53625387,
+        "valor_mercado": 131124668.02764682,
+        "valor_tir": 243532389.83702356,
+        "tasa_compra": 7.536509433962246,
+        "fecha_vencimiento": "2044-11-08"
+      },
+      {
+        "id_posicion": "836783_R20260815",
+        "especie": "BO GRUPO AVAL B365",
+        "nominal": 307144517.9925171,
+        "valor_mercado": 137442229.8463569,
+        "valor_tir": 239834002.71350324,
+        "tasa_compra": 6.610641509433957,
+        "fecha_vencimiento": "2039-11-15"
+      },
+      {
+        "id_posicion": "836784_R20260815",
+        "especie": "BO GRUPO AVAL B365",
+        "nominal": 307144517.9925171,
+        "valor_mercado": 137442229.8463569,
+        "valor_tir": 239834002.71350324,
+        "tasa_compra": 6.610641509433957,
+        "fecha_vencimiento": "2039-11-15"
+      },
+      {
+        "id_posicion": "836786_R20260815",
+        "especie": "BO GRUPO AVAL B365",
+        "nominal": 614289035.9850342,
+        "valor_mercado": 274884459.6927138,
+        "valor_tir": 479668005.4270065,
+        "tasa_compra": 6.610641509433957,
+        "fecha_vencimiento": "2039-11-15"
+      },
+      {
+        "id_posicion": "838077_R20260829",
+        "especie": "BN ORD CORFICOLOMBIANA  365",
+        "nominal": 44103613.1009415,
+        "valor_mercado": 21113317.387609325,
+        "valor_tir": 36697300.845030636,
+        "tasa_compra": 6.204660377358495,
+        "fecha_vencimiento": "2039-08-29"
+      },
+      {
+        "id_posicion": "838078_R20260829",
+        "especie": "BN ORD CORFICOLOMBIANA  365",
+        "nominal": 543944561.5782785,
+        "valor_mercado": 260397581.1138484,
+        "valor_tir": 452600043.7553779,
+        "tasa_compra": 6.204660377358495,
+        "fecha_vencimiento": "2039-08-29"
+      },
+      {
+        "id_posicion": "839184_R20260827",
+        "especie": "BO ORGANIZACION TERPEL",
+        "nominal": 322859024.59873116,
+        "valor_mercado": 118531947.21937652,
+        "valor_tir": 232655241.8852581,
+        "tasa_compra": 6.303858490566028,
+        "fecha_vencimiento": "2045-02-27"
+      },
+      {
+        "id_posicion": "839192_R20260826",
+        "especie": "BO ORGANIZACION TERPEL",
+        "nominal": 277757366.41891676,
+        "valor_mercado": 144738410.9331307,
+        "valor_tir": 222517750.2824593,
+        "tasa_compra": 6.624518867924523,
+        "fecha_vencimiento": "2035-02-26"
+      },
+      {
+        "id_posicion": "839194_R20260826",
+        "especie": "BO ORGANIZACION TERPEL",
+        "nominal": 277757366.41891676,
+        "valor_mercado": 144738410.9331307,
+        "valor_tir": 222517750.2824593,
+        "tasa_compra": 6.624518867924523,
+        "fecha_vencimiento": "2035-02-26"
+      },
+      {
+        "id_posicion": "839199_R20260827",
+        "especie": "BO ORGANIZACION TERPEL",
+        "nominal": 322859024.59873116,
+        "valor_mercado": 118531947.21937652,
+        "valor_tir": 232655241.8852581,
+        "tasa_compra": 6.303858490566028,
+        "fecha_vencimiento": "2045-02-27"
+      },
+      {
+        "id_posicion": "839214_R20260826",
+        "especie": "BO ORGANIZACION TERPEL",
+        "nominal": 277757366.41891676,
+        "valor_mercado": 144738410.9331307,
+        "valor_tir": 222517750.2824593,
+        "tasa_compra": 6.624518867924523,
+        "fecha_vencimiento": "2035-02-26"
+      },
+      {
+        "id_posicion": "840124_R20260826",
+        "especie": "BN YANKEES",
+        "nominal": 16.877698001291694,
+        "valor_mercado": 56974.725651743785,
+        "valor_tir": 56974.725651743785,
+        "tasa_compra": 7.46657,
+        "fecha_vencimiento": "2044-02-26"
+      },
+      {
+        "id_posicion": "840209_R20260811",
+        "especie": "BN ORD ITAU CORPBANCA",
+        "nominal": 134768484.66958028,
+        "valor_mercado": 96741523.06362453,
+        "valor_tir": 126022710.398033,
+        "tasa_compra": 6.555169811320738,
+        "fecha_vencimiento": "2031-08-11"
+      },
+      {
+        "id_posicion": "840248_R20260827",
+        "especie": "BO ORGANIZACION TERPEL",
+        "nominal": 161429512.29936558,
+        "valor_mercado": 59265973.60968826,
+        "valor_tir": 116327620.94262905,
+        "tasa_compra": 6.303858490566028,
+        "fecha_vencimiento": "2045-02-27"
+      },
+      {
+        "id_posicion": "840254_R20260827",
+        "especie": "BO ORGANIZACION TERPEL",
+        "nominal": 129143609.83949246,
+        "valor_mercado": 47412778.8877506,
+        "valor_tir": 93062096.75410324,
+        "tasa_compra": 6.303858490566028,
+        "fecha_vencimiento": "2045-02-27"
+      },
+      {
+        "id_posicion": "840257_R20260827",
+        "especie": "BO ORGANIZACION TERPEL",
+        "nominal": 16142951.229936557,
+        "valor_mercado": 5926597.360968825,
+        "valor_tir": 11632762.094262905,
+        "tasa_compra": 6.303858490566028,
+        "fecha_vencimiento": "2045-02-27"
+      },
+      {
+        "id_posicion": "840329_R20260828",
+        "especie": "BN ORDINARIO EEB",
+        "nominal": 99823969.79957283,
+        "valor_mercado": 38974723.733190715,
+        "valor_tir": 75114539.0813378,
+        "tasa_compra": 6.68578301886793,
+        "fecha_vencimiento": "2047-02-28"
+      },
+      {
+        "id_posicion": "840331_R20260824",
+        "especie": "BN ORD ITAU CORPBANCA",
+        "nominal": 67703071.25564052,
+        "valor_mercado": 47624563.69007757,
+        "valor_tir": 62998964.41389356,
+        "tasa_compra": 6.563405660377364,
+        "fecha_vencimiento": "2031-11-24"
+      },
+      {
+        "id_posicion": "841321_R20260826",
+        "especie": "BN ORD GRUP INV SURAMERICANA",
+        "nominal": 29031452.73414527,
+        "valor_mercado": 24521315.812754814,
+        "valor_tir": 28851727.719704,
+        "tasa_compra": 6.520509433962252,
+        "fecha_vencimiento": "2029-11-26"
+      },
+      {
+        "id_posicion": "841323_R20260826",
+        "especie": "BN ORD GRUP INV SURAMERICANA",
+        "nominal": 29031452.73414527,
+        "valor_mercado": 24521315.812754814,
+        "valor_tir": 28851727.719704,
+        "tasa_compra": 6.520509433962252,
+        "fecha_vencimiento": "2029-11-26"
+      },
+      {
+        "id_posicion": "843020_R20260828",
+        "especie": "Bn ISA ESP",
+        "nominal": 193043826.28695247,
+        "valor_mercado": 75189537.55429734,
+        "valor_tir": 148247332.8868739,
+        "tasa_compra": 6.3017735849056455,
+        "fecha_vencimiento": "2047-11-28"
+      },
+      {
+        "id_posicion": "843056_R20260828",
+        "especie": "Bn ISA ESP",
+        "nominal": 321739710.47825414,
+        "valor_mercado": 125315895.92382893,
+        "valor_tir": 247078888.14478987,
+        "tasa_compra": 6.3017735849056455,
+        "fecha_vencimiento": "2047-11-28"
+      },
+      {
+        "id_posicion": "843791_R20260811",
+        "especie": "BN ORD GRUP INV SURAMERICANA",
+        "nominal": 128142290.87087744,
+        "valor_mercado": 84395263.68138438,
+        "valor_tir": 115751605.0444471,
+        "tasa_compra": 5.973849056603764,
+        "fecha_vencimiento": "2032-08-11"
+      },
+      {
+        "id_posicion": "843835_R20260813",
+        "especie": "BN VERDES ISA",
+        "nominal": 1761867.8261271766,
+        "valor_mercado": 542871119.2558709,
+        "valor_tir": 542871119.2558709,
+        "tasa_compra": 6.57379,
+        "fecha_vencimiento": "2040-08-13"
+      },
+      {
+        "id_posicion": "843837_R20260813",
+        "especie": "BN VERDES ISA",
+        "nominal": 1761867.8261271766,
+        "valor_mercado": 542871119.2558709,
+        "valor_tir": 542871119.2558709,
+        "tasa_compra": 6.57379,
+        "fecha_vencimiento": "2040-08-13"
+      },
+      {
+        "id_posicion": "843924_R20260820",
+        "especie": "BO OCCIDENTE 365",
+        "nominal": 131392513.68013698,
+        "valor_mercado": 83408823.04941502,
+        "valor_tir": 112605022.68852296,
+        "tasa_compra": 6.556584905660379,
+        "fecha_vencimiento": "2032-08-20"
+      },
+      {
+        "id_posicion": "843926_R20260820",
+        "especie": "BO OCCIDENTE 365",
+        "nominal": 131392513.68013698,
+        "valor_mercado": 83408823.04941502,
+        "valor_tir": 114793565.83978651,
+        "tasa_compra": 6.556584905660379,
+        "fecha_vencimiento": "2032-08-20"
+      },
+      {
+        "id_posicion": "844071_R20260828",
+        "especie": "BO ISAGEN",
+        "nominal": 657700999.6235273,
+        "valor_mercado": 255890793.9881063,
+        "valor_tir": 490643464.41435534,
+        "tasa_compra": 6.61978301886792,
+        "fecha_vencimiento": "2045-08-28"
+      },
+      {
+        "id_posicion": "844073_R20260828",
+        "especie": "BO ISAGEN",
+        "nominal": 657700999.6235273,
+        "valor_mercado": 255890793.9881063,
+        "valor_tir": 490643464.41435534,
+        "tasa_compra": 6.61978301886792,
+        "fecha_vencimiento": "2045-08-28"
+      },
+      {
+        "id_posicion": "847414_R20260818",
+        "especie": "BO UNE EPM TELCO B365",
+        "nominal": 227882050.81044087,
+        "valor_mercado": 94738275.49285868,
+        "valor_tir": 145277124.9521128,
+        "tasa_compra": 9.415962264150934,
+        "fecha_vencimiento": "2036-02-18"
+      },
+      {
+        "id_posicion": "847416_R20260817",
+        "especie": "BO UNE EPM TELCO B365",
+        "nominal": 219999915.2758702,
+        "valor_mercado": 148481832.41818684,
+        "valor_tir": 187533632.37895486,
+        "tasa_compra": 6.9085660377358415,
+        "fecha_vencimiento": "2031-02-17"
+      },
+      {
+        "id_posicion": "847418_R20260817",
+        "especie": "BO UNE EPM TELCO B365",
+        "nominal": 97777740.12260897,
+        "valor_mercado": 65307681.782703154,
+        "valor_tir": 82885572.34661806,
+        "tasa_compra": 6.9085660377358415,
+        "fecha_vencimiento": "2031-02-17"
+      },
+      {
+        "id_posicion": "847636_R20260825",
+        "especie": "Bono Distrito de Bogot\u00e1",
+        "nominal": 182090460.37110355,
+        "valor_mercado": 124689254.21582131,
+        "valor_tir": 160784688.9509359,
+        "tasa_compra": 6.571028301886783,
+        "fecha_vencimiento": "2031-02-25"
+      },
+      {
+        "id_posicion": "849633_R20260821",
+        "especie": "BO ISAGEN",
+        "nominal": 216998587.58173582,
+        "valor_mercado": 176747265.68285218,
+        "valor_tir": 207431348.4259308,
+        "tasa_compra": 6.380320754716973,
+        "fecha_vencimiento": "2029-05-21"
+      },
+      {
+        "id_posicion": "849635_R20260820",
+        "especie": "BO ISAGEN",
+        "nominal": 216315917.67854595,
+        "valor_mercado": 102787256.41935416,
+        "valor_tir": 181084388.92325073,
+        "tasa_compra": 6.611811320754701,
+        "fecha_vencimiento": "2041-05-20"
+      },
+      {
+        "id_posicion": "849637_R20260820",
+        "especie": "BO ISAGEN",
+        "nominal": 865263670.7141838,
+        "valor_mercado": 411149025.6774166,
+        "valor_tir": 724337555.6930029,
+        "tasa_compra": 6.611811320754701,
+        "fecha_vencimiento": "2041-05-20"
+      },
+      {
+        "id_posicion": "849718_R20260819",
+        "especie": "BO OCCIDENTE 365",
+        "nominal": 9805659.31025087,
+        "valor_mercado": 9196376.530311204,
+        "valor_tir": 9761509.329206467,
+        "tasa_compra": 6.134801886792451,
+        "fecha_vencimiento": "2027-11-19"
+      },
+      {
+        "id_posicion": "850708_R20260811",
+        "especie": "BN ORD GRUP INV SURAMERICANA",
+        "nominal": 21094393.378429707,
+        "valor_mercado": 19747400.34205339,
+        "valor_tir": 20654521.274842396,
+        "tasa_compra": 6.168443396226397,
+        "fecha_vencimiento": "2027-08-11"
+      },
+      {
+        "id_posicion": "851466_R20260815",
+        "especie": "BO GRUPO AVAL B365",
+        "nominal": 153572258.99625856,
+        "valor_mercado": 68721114.92317845,
+        "valor_tir": 119917001.35675162,
+        "tasa_compra": 6.610641509433957,
+        "fecha_vencimiento": "2039-11-15"
+      },
+      {
+        "id_posicion": "851616_R20260827",
+        "especie": "CDT BANCOLOMBIA B360 RES 274",
+        "nominal": 24869256.617229864,
+        "valor_mercado": 20805441.276019424,
+        "valor_tir": 23674810.593775798,
+        "tasa_compra": 6.324688679245272,
+        "fecha_vencimiento": "2029-02-27"
+      },
+      {
+        "id_posicion": "855379_R20260827",
+        "especie": "Bonos Ecopetrol",
+        "nominal": 302045523.5589665,
+        "valor_mercado": 153579075.7408408,
+        "valor_tir": 279272133.0721422,
+        "tasa_compra": 6.230943396226407,
+        "fecha_vencimiento": "2043-08-27"
+      },
+      {
+        "id_posicion": "855495_R20260828",
+        "especie": "BONO PAT AUT UNION DEL SUR",
+        "nominal": 2856874.2207678477,
+        "valor_mercado": 1010771526.992593,
+        "valor_tir": 1010771526.992593,
+        "tasa_compra": 8.67645,
+        "fecha_vencimiento": "2041-02-28"
+      },
+      {
+        "id_posicion": "856421_R20260827",
+        "especie": "BN ORD CORFICOLOMBIANA  365",
+        "nominal": 71259894.88582058,
+        "valor_mercado": 56227766.8550402,
+        "valor_tir": 65762035.08581393,
+        "tasa_compra": 6.429820754716986,
+        "fecha_vencimiento": "2029-08-27"
+      },
+      {
+        "id_posicion": "856467_R20260821",
+        "especie": "BO ISAGEN",
+        "nominal": 120554770.87874213,
+        "valor_mercado": 98192925.37936233,
+        "valor_tir": 115239638.014406,
+        "tasa_compra": 6.380320754716973,
+        "fecha_vencimiento": "2029-05-21"
+      },
+      {
+        "id_posicion": "860397_R20260826",
+        "especie": "BONO MUNICIPIO DE MEDELLIN",
+        "nominal": 325615989.6945857,
+        "valor_mercado": 146648454.75712582,
+        "valor_tir": 267230423.25055164,
+        "tasa_compra": 6.948339622641497,
+        "fecha_vencimiento": "2044-08-26"
+      },
+      {
+        "id_posicion": "860585_R20260819",
+        "especie": "BO OCCIDENTE 365",
+        "nominal": 38911346.46924949,
+        "valor_mercado": 36493557.6599651,
+        "valor_tir": 39384728.65106018,
+        "tasa_compra": 6.134801886792451,
+        "fecha_vencimiento": "2027-11-19"
+      },
+      {
+        "id_posicion": "860820_R20260821",
+        "especie": "BO ISAGEN",
+        "nominal": 36166431.263622634,
+        "valor_mercado": 29457877.613808695,
+        "valor_tir": 34571891.4043218,
+        "tasa_compra": 6.380320754716973,
+        "fecha_vencimiento": "2029-05-21"
+      },
+      {
+        "id_posicion": "860831_R20260830",
+        "especie": "CDT Bco ITAU CORPBANCA",
+        "nominal": 97061820.8443982,
+        "valor_mercado": 94271561.38574728,
+        "valor_tir": 101876231.2755356,
+        "tasa_compra": 6.139613207547168,
+        "fecha_vencimiento": "2027-11-30"
+      },
+      {
+        "id_posicion": "861203_R20260817",
+        "especie": "BO UNE EPM TELCO B365",
+        "nominal": 48888870.06130449,
+        "valor_mercado": 32995962.759597078,
+        "valor_tir": 41674140.52865663,
+        "tasa_compra": 6.9085660377358415,
+        "fecha_vencimiento": "2031-02-17"
+      },
+      {
+        "id_posicion": "862145_R20260802",
+        "especie": "BN YANKEES",
+        "nominal": 26.676875377168294,
+        "valor_mercado": 114328.80202905116,
+        "valor_tir": 114328.80202905116,
+        "tasa_compra": 6.67362,
+        "fecha_vencimiento": "2034-02-02"
+      },
+      {
+        "id_posicion": "862670_R20260821",
+        "especie": "CDT BANCOLOMBIA B360 RES 274",
+        "nominal": 615030365.9299147,
+        "valor_mercado": 484170564.0813312,
+        "valor_tir": 658272265.5655756,
+        "tasa_compra": 6.565150943396225,
+        "fecha_vencimiento": "2033-02-21"
+      },
+      {
+        "id_posicion": "864856_R20260827",
+        "especie": "BN ORD CORFICOLOMBIANA  365",
+        "nominal": 23753298.295273528,
+        "valor_mercado": 18742588.951680068,
+        "valor_tir": 22346081.010533996,
+        "tasa_compra": 6.429820754716986,
+        "fecha_vencimiento": "2029-08-27"
+      },
+      {
+        "id_posicion": "866477_R20260815",
+        "especie": "Nota Morgan Stanley  UVR",
+        "nominal": 6225432.40124864,
+        "valor_mercado": 2348859380.2505527,
+        "valor_tir": 2348859380.2505527,
+        "tasa_compra": 6.66092,
+        "fecha_vencimiento": "2033-08-15"
+      },
+      {
+        "id_posicion": "866678_R20260823",
+        "especie": "Nota Morgan Stanley  UVR",
+        "nominal": 1320308.5022549166,
+        "valor_mercado": 529729160.1024091,
+        "valor_tir": 529729160.1024091,
+        "tasa_compra": 6.94626,
+        "fecha_vencimiento": "2028-08-23"
+      },
+      {
+        "id_posicion": "866705_R20260823",
+        "especie": "CDT BCO DE OCCIDENTE B360",
+        "nominal": 79942934.33297671,
+        "valor_mercado": 50696685.58352944,
+        "valor_tir": 69839540.33926253,
+        "tasa_compra": 6.556641509433958,
+        "fecha_vencimiento": "2032-08-23"
+      },
+      {
+        "id_posicion": "866709_R20260823",
+        "especie": "Nota Morgan Stanley  UVR",
+        "nominal": 1760411.3365110718,
+        "valor_mercado": 706305546.8718934,
+        "valor_tir": 706305546.8718934,
+        "tasa_compra": 6.94626,
+        "fecha_vencimiento": "2028-08-23"
+      },
+      {
+        "id_posicion": "867168_R20260825",
+        "especie": "CDT BANCOLOMBIA B360 RES 274",
+        "nominal": 59285353.297917746,
+        "valor_mercado": 32967158.56337171,
+        "valor_tir": 52654549.45659623,
+        "tasa_compra": 6.477207547169805,
+        "fecha_vencimiento": "2037-02-25"
+      },
+      {
+        "id_posicion": "867705_R20260803",
+        "especie": "CDT BCO BOGOTA B360 RES 274",
+        "nominal": 159644332.78055057,
+        "valor_mercado": 154075224.84299746,
+        "valor_tir": 167565752.63360727,
+        "tasa_compra": 6.158490566037744,
+        "fecha_vencimiento": "2028-02-03"
+      },
+      {
+        "id_posicion": "868182_R20260811",
+        "especie": "BN ORD GRUP INV SURAMERICANA",
+        "nominal": 126566360.27057825,
+        "valor_mercado": 118484402.05232035,
+        "valor_tir": 123927127.6490544,
+        "tasa_compra": 6.168443396226397,
+        "fecha_vencimiento": "2027-08-11"
+      },
+      {
+        "id_posicion": "868221_R20260803",
+        "especie": "CDT BCO BOGOTA B360 RES 274",
+        "nominal": 191573199.33666068,
+        "valor_mercado": 184890269.81159696,
+        "valor_tir": 201078903.16032872,
+        "tasa_compra": 6.158490566037744,
+        "fecha_vencimiento": "2028-02-03"
+      },
+      {
+        "id_posicion": "868745_R20260822",
+        "especie": "Bn ISA ESP",
+        "nominal": 406261890.14193386,
+        "valor_mercado": 206656128.2431553,
+        "valor_tir": 376098373.62015516,
+        "tasa_compra": 6.392801886792454,
+        "fecha_vencimiento": "2044-11-22"
+      },
+      {
+        "id_posicion": "868749_R20260823",
+        "especie": "Bn ISA ESP",
+        "nominal": 148878989.63920286,
+        "valor_mercado": 87468901.62489803,
+        "valor_tir": 140094666.29532903,
+        "tasa_compra": 6.589320754716965,
+        "fecha_vencimiento": "2037-11-23"
+      },
+      {
+        "id_posicion": "870591_R20260807",
+        "especie": "TIPS N 22 2039 PESOS",
+        "nominal": 5538548.47596334,
+        "valor_mercado": 4590099.908353452,
+        "valor_tir": 4590099.908353452,
+        "tasa_compra": 14.18113,
+        "fecha_vencimiento": "2039-03-07"
+      },
+      {
+        "id_posicion": "872643_R20260821",
+        "especie": "CDT BANCOLOMBIA B360 RES 274",
+        "nominal": 153757591.48247868,
+        "valor_mercado": 121042641.0203328,
+        "valor_tir": 164568066.3913939,
+        "tasa_compra": 6.565150943396225,
+        "fecha_vencimiento": "2033-02-21"
+      },
+      {
+        "id_posicion": "872719_R20260821",
+        "especie": "CDT BANCOLOMBIA B360 RES 274",
+        "nominal": 307515182.96495736,
+        "valor_mercado": 242085282.0406656,
+        "valor_tir": 329136132.7827878,
+        "tasa_compra": 6.565150943396225,
+        "fecha_vencimiento": "2033-02-21"
+      },
+      {
+        "id_posicion": "873384_R20260827",
+        "especie": "BO ISAGEN",
+        "nominal": 150221309.14463237,
+        "valor_mercado": 115804241.70789696,
+        "valor_tir": 138786508.1589357,
+        "tasa_compra": 6.476830188679239,
+        "fecha_vencimiento": "2030-02-27"
+      },
+      {
+        "id_posicion": "873695_R20260818",
+        "especie": "TIPS N 23 2039 PESOS",
+        "nominal": 24153647.19330307,
+        "valor_mercado": 21584728.560379,
+        "valor_tir": 21584728.560379,
+        "tasa_compra": 13.61134,
+        "fecha_vencimiento": "2039-07-18"
+      },
+      {
+        "id_posicion": "873696_R20260818",
+        "especie": "TIPS N 23 2039 PESOS",
+        "nominal": 24153647.19330307,
+        "valor_mercado": 21584728.560379,
+        "valor_tir": 21584728.560379,
+        "tasa_compra": 13.61134,
+        "fecha_vencimiento": "2039-07-18"
+      },
+      {
+        "id_posicion": "873697_R20260818",
+        "especie": "TIPS N 23 2039 PESOS",
+        "nominal": 24153647.19330307,
+        "valor_mercado": 21584728.560379,
+        "valor_tir": 21584728.560379,
+        "tasa_compra": 13.61134,
+        "fecha_vencimiento": "2039-07-18"
+      },
+      {
+        "id_posicion": "873698_R20260818",
+        "especie": "TIPS N 23 2039 PESOS",
+        "nominal": 24153647.19330307,
+        "valor_mercado": 21584728.560379,
+        "valor_tir": 21584728.560379,
+        "tasa_compra": 13.61134,
+        "fecha_vencimiento": "2039-07-18"
+      },
+      {
+        "id_posicion": "873908_R20260811",
+        "especie": "CDT BBVA BASE 360 RES274",
+        "nominal": 294981937.2368889,
+        "valor_mercado": 300641156.8533205,
+        "valor_tir": 300641156.8533205,
+        "tasa_compra": 13.18758,
+        "fecha_vencimiento": "2030-08-11"
+      },
+      {
+        "id_posicion": "874169_R20260821",
+        "especie": "CDT BANCOLOMBIA B360 RES 274",
+        "nominal": 153757591.48247868,
+        "valor_mercado": 121042641.0203328,
+        "valor_tir": 164568066.3913939,
+        "tasa_compra": 6.565150943396225,
+        "fecha_vencimiento": "2033-02-21"
+      },
+      {
+        "id_posicion": "874178_R20260813",
+        "especie": "BN ORD GRUP INV SURAMERICANA",
+        "nominal": 305923244.0110768,
+        "valor_mercado": 136602498.9013437,
+        "valor_tir": 241996203.304939,
+        "tasa_compra": 6.468773584905652,
+        "fecha_vencimiento": "2040-08-13"
+      },
+      {
+        "id_posicion": "875827_R20260802",
+        "especie": "BN ORD GASES DEL CARIBE B365",
+        "nominal": 1376442097.030794,
+        "valor_mercado": 767811101.1852715,
+        "valor_tir": 1391087546.4632714,
+        "tasa_compra": 6.842283018867912,
+        "fecha_vencimiento": "2049-11-02"
+      },
+      {
+        "id_posicion": "875829_R20260802",
+        "especie": "BN ORD GASES DEL CARIBE B365",
+        "nominal": 305876021.5623987,
+        "valor_mercado": 170624689.15228257,
+        "valor_tir": 309130565.880727,
+        "tasa_compra": 6.842283018867912,
+        "fecha_vencimiento": "2049-11-02"
+      },
+      {
+        "id_posicion": "878288_R20260825",
+        "especie": "CDT FINDETER B360",
+        "nominal": 81268172.9679127,
+        "valor_mercado": 80301783.86660898,
+        "valor_tir": 83054393.71084845,
+        "tasa_compra": 5.93782075471696,
+        "fecha_vencimiento": "2027-02-25"
+      },
+      {
+        "id_posicion": "878310_R20260811",
+        "especie": "BN ORD ITAU CORPBANCA",
+        "nominal": 134768484.66958028,
+        "valor_mercado": 96741523.06362453,
+        "valor_tir": 126022710.398033,
+        "tasa_compra": 6.555169811320738,
+        "fecha_vencimiento": "2031-08-11"
+      },
+      {
+        "id_posicion": "878388_R20260828",
+        "especie": "Bn ISA ESP",
+        "nominal": 132222870.2333086,
+        "valor_mercado": 90595240.52045132,
+        "valor_tir": 120376702.1502899,
+        "tasa_compra": 6.555018867924534,
+        "fecha_vencimiento": "2031-11-28"
+      },
+      {
+        "id_posicion": "879589_R20260822",
+        "especie": "BN YANKEES",
+        "nominal": 104.70412102830491,
+        "valor_mercado": 313362.2418210437,
+        "valor_tir": 313362.2418210437,
+        "tasa_compra": 7.01458,
+        "fecha_vencimiento": "2042-02-22"
+      },
+      {
+        "id_posicion": "881677_R20260803",
+        "especie": "CDT BCO BOGOTA B360 RES 274",
+        "nominal": 95786599.66833034,
+        "valor_mercado": 92445134.90579848,
+        "valor_tir": 99088200.92167826,
+        "tasa_compra": 6.158490566037744,
+        "fecha_vencimiento": "2028-02-03"
+      },
+      {
+        "id_posicion": "881841_R20260813",
+        "especie": "Bn ISA ESP",
+        "nominal": 27045682.219713975,
+        "valor_mercado": 23480270.75786439,
+        "valor_tir": 23480270.75786439,
+        "tasa_compra": 13.01362,
+        "fecha_vencimiento": "2029-08-13"
+      },
+      {
+        "id_posicion": "882107_R20260830",
+        "especie": "CDT BCO BOGOTA B360 RES 274",
+        "nominal": 2484284.5675689005,
+        "valor_mercado": 2472635.906288644,
+        "valor_tir": 2472635.906288644,
+        "tasa_compra": 12.93812,
+        "fecha_vencimiento": "2027-08-30"
+      },
+      {
+        "id_posicion": "882109_R20260830",
+        "especie": "CDT BCO BOGOTA B360 RES 274",
+        "nominal": 9937138.270275602,
+        "valor_mercado": 9890543.625154575,
+        "valor_tir": 9890543.625154575,
+        "tasa_compra": 12.93812,
+        "fecha_vencimiento": "2027-08-30"
+      },
+      {
+        "id_posicion": "882768_R20260811",
+        "especie": "BO BCO POPULAR",
+        "nominal": 89166.9051128119,
+        "valor_mercado": 89609.83368893834,
+        "valor_tir": 90971.27779884468,
+        "tasa_compra": 5.648490566037734,
+        "fecha_vencimiento": "2026-11-11"
+      },
+      {
+        "id_posicion": "883454_R20260810",
+        "especie": "PATRIMONIO AUT\u00d3NOMO TRONCALES",
+        "nominal": 6877136.472381923,
+        "valor_mercado": 2939844488.6366496,
+        "valor_tir": 2939844488.6366496,
+        "tasa_compra": 7.64431,
+        "fecha_vencimiento": "2039-08-10"
+      },
+      {
+        "id_posicion": "883456_R20260810",
+        "especie": "PATRIMONIO AUT\u00d3NOMO TRONCALES",
+        "nominal": 1299014.667005475,
+        "valor_mercado": 555303958.9647007,
+        "valor_tir": 555303958.9647007,
+        "tasa_compra": 7.64431,
+        "fecha_vencimiento": "2039-08-10"
+      },
+      {
+        "id_posicion": "883458_R20260810",
+        "especie": "PATRIMONIO AUT\u00d3NOMO TRONCALES",
+        "nominal": 993364.1571218335,
+        "valor_mercado": 424644203.9141827,
+        "valor_tir": 424644203.9141827,
+        "tasa_compra": 7.64431,
+        "fecha_vencimiento": "2039-08-10"
+      },
+      {
+        "id_posicion": "883874_R20260811",
+        "especie": "BO BCO POPULAR",
+        "nominal": 312738.0611116403,
+        "valor_mercado": 314291.55928378686,
+        "valor_tir": 314851.63562267047,
+        "tasa_compra": 5.648490566037734,
+        "fecha_vencimiento": "2026-11-11"
+      },
+      {
+        "id_posicion": "885624_R20260811",
+        "especie": "BO BCO POPULAR",
+        "nominal": 172437.440757427,
+        "valor_mercado": 173294.00822501985,
+        "valor_tir": 175926.86777924016,
+        "tasa_compra": 5.648490566037734,
+        "fecha_vencimiento": "2026-11-11"
+      },
+      {
+        "id_posicion": "885684_R20260817",
+        "especie": "CDT BANCOLOMBIA B360 RES 274",
+        "nominal": 15978772.202371089,
+        "valor_mercado": 16485233.928007944,
+        "valor_tir": 16485233.928007944,
+        "tasa_compra": 12.97232,
+        "fecha_vencimiento": "2028-02-17"
+      },
+      {
+        "id_posicion": "885686_R20260817",
+        "especie": "CDT BANCOLOMBIA B360 RES 274",
+        "nominal": 9587263.321422653,
+        "valor_mercado": 9891140.356804766,
+        "valor_tir": 9891140.356804766,
+        "tasa_compra": 12.97232,
+        "fecha_vencimiento": "2028-02-17"
+      },
+      {
+        "id_posicion": "885914_R20260817",
+        "especie": "CDT Bco ITAU CORPBANCA",
+        "nominal": 1022201.3544365295,
+        "valor_mercado": 997132.0195491768,
+        "valor_tir": 1073846.550804051,
+        "tasa_compra": 6.129547169811311,
+        "fecha_vencimiento": "2027-11-17"
+      },
+      {
+        "id_posicion": "886559_R20260811",
+        "especie": "BO BCO POPULAR",
+        "nominal": 11190591.192516826,
+        "valor_mercado": 11246179.447112447,
+        "valor_tir": 11417042.890742637,
+        "tasa_compra": 5.648490566037734,
+        "fecha_vencimiento": "2026-11-11"
+      },
+      {
+        "id_posicion": "886670_R20260828",
+        "especie": "BONO PAT AUT UNION DEL SUR",
+        "nominal": 18707.098015399562,
+        "valor_mercado": 6618633.011271817,
+        "valor_tir": 6618633.011271817,
+        "tasa_compra": 8.67645,
+        "fecha_vencimiento": "2041-02-28"
+      },
+      {
+        "id_posicion": "887045_R20260817",
+        "especie": "CDT Bco ITAU CORPBANCA",
+        "nominal": 16622803.916690903,
+        "valor_mercado": 16215132.144054646,
+        "valor_tir": 17462646.25179477,
+        "tasa_compra": 6.129547169811311,
+        "fecha_vencimiento": "2027-11-17"
+      },
+      {
+        "id_posicion": "887110_R20260819",
+        "especie": "BO OCCIDENTE 365",
+        "nominal": 92819857.40106136,
+        "valor_mercado": 87052418.52096477,
+        "valor_tir": 92401935.99311309,
+        "tasa_compra": 6.134801886792451,
+        "fecha_vencimiento": "2027-11-19"
+      },
+      {
+        "id_posicion": "887125_R20260819",
+        "especie": "BO OCCIDENTE 365",
+        "nominal": 27078971.519519404,
+        "valor_mercado": 25396397.1486077,
+        "valor_tir": 26957048.450252768,
+        "tasa_compra": 6.134801886792451,
+        "fecha_vencimiento": "2027-11-19"
+      },
+      {
+        "id_posicion": "887293_R20260817",
+        "especie": "CDT Bco ITAU CORPBANCA",
+        "nominal": 470443.4137071352,
+        "valor_mercado": 458905.85955247976,
+        "valor_tir": 494211.86438983364,
+        "tasa_compra": 6.129547169811311,
+        "fecha_vencimiento": "2027-11-17"
+      },
+      {
+        "id_posicion": "887864_R20260811",
+        "especie": "BO BCO POPULAR",
+        "nominal": 79747.84463120913,
+        "valor_mercado": 80143.98487210865,
+        "valor_tir": 81361.6141395316,
+        "tasa_compra": 5.648490566037734,
+        "fecha_vencimiento": "2026-11-11"
+      },
+      {
+        "id_posicion": "888110_R20260811",
+        "especie": "BO BCO POPULAR",
+        "nominal": 157276741.4420398,
+        "valor_mercado": 158057999.5002464,
+        "valor_tir": 160459378.04972753,
+        "tasa_compra": 5.648490566037734,
+        "fecha_vencimiento": "2026-11-11"
+      },
+      {
+        "id_posicion": "888134_R20260811",
+        "especie": "BO BCO POPULAR",
+        "nominal": 74948.57827486208,
+        "valor_mercado": 75320.87859207041,
+        "valor_tir": 76465.23030315727,
+        "tasa_compra": 5.648490566037734,
+        "fecha_vencimiento": "2026-11-11"
+      },
+      {
+        "id_posicion": "888318_R20260827",
+        "especie": "BO ISAGEN",
+        "nominal": 75110654.57231618,
+        "valor_mercado": 57902120.85394848,
+        "valor_tir": 69393254.07946785,
+        "tasa_compra": 6.476830188679239,
+        "fecha_vencimiento": "2030-02-27"
+      },
+      {
+        "id_posicion": "888408_R20260827",
+        "especie": "BN ORD CORFICOLOMBIANA  365",
+        "nominal": 47506596.590547055,
+        "valor_mercado": 37485177.903360136,
+        "valor_tir": 43841356.723875955,
+        "tasa_compra": 6.429820754716986,
+        "fecha_vencimiento": "2029-08-27"
+      },
+      {
+        "id_posicion": "888412_R20260827",
+        "especie": "BN ORD CORFICOLOMBIANA  365",
+        "nominal": 71259894.88582058,
+        "valor_mercado": 56227766.8550402,
+        "valor_tir": 65762035.08581393,
+        "tasa_compra": 6.429820754716986,
+        "fecha_vencimiento": "2029-08-27"
+      },
+      {
+        "id_posicion": "888656_R20260824",
+        "especie": "BO GRUPO AVAL B365",
+        "nominal": 85825713.66806677,
+        "valor_mercado": 47090398.557369575,
+        "valor_tir": 73755490.83733052,
+        "tasa_compra": 6.277122641509436,
+        "fecha_vencimiento": "2036-11-24"
+      },
+      {
+        "id_posicion": "888657_R20260827",
+        "especie": "BN ORD CORFICOLOMBIANA  365",
+        "nominal": 118766491.47636765,
+        "valor_mercado": 93712944.75840035,
+        "valor_tir": 109603391.80968991,
+        "tasa_compra": 6.429820754716986,
+        "fecha_vencimiento": "2029-08-27"
+      },
+      {
+        "id_posicion": "888660_R20260820",
+        "especie": "CDT FINDETER B360",
+        "nominal": 131693923.62912822,
+        "valor_mercado": 112615181.2792177,
+        "valor_tir": 127854442.59716891,
+        "tasa_compra": 6.310584905660366,
+        "fecha_vencimiento": "2029-02-20"
+      },
+      {
+        "id_posicion": "888680_R20260828",
+        "especie": "Bn ISA ESP",
+        "nominal": 64347942.09565083,
+        "valor_mercado": 25063179.184765782,
+        "valor_tir": 48305283.29513014,
+        "tasa_compra": 6.3017735849056455,
+        "fecha_vencimiento": "2047-11-28"
+      },
+      {
+        "id_posicion": "888688_R20260822",
+        "especie": "Bn ISA ESP",
+        "nominal": 83643417.81413312,
+        "valor_mercado": 65428577.24157108,
+        "valor_tir": 80777826.94075388,
+        "tasa_compra": 6.485764150943396,
+        "fecha_vencimiento": "2030-11-22"
+      },
+      {
+        "id_posicion": "888691_R20260821",
+        "especie": "Bono Distrito de Bogot\u00e1",
+        "nominal": 127095381.62646239,
+        "valor_mercado": 96961069.18473579,
+        "valor_tir": 117497588.3236829,
+        "tasa_compra": 6.460547169811304,
+        "fecha_vencimiento": "2030-05-21"
+      },
+      {
+        "id_posicion": "888695_R20260817",
+        "especie": "CDT Bco ITAU CORPBANCA",
+        "nominal": 20633740.51806733,
+        "valor_mercado": 20127701.12692281,
+        "valor_tir": 21676229.433022343,
+        "tasa_compra": 6.129547169811311,
+        "fecha_vencimiento": "2027-11-17"
+      },
+      {
+        "id_posicion": "888868_R20260817",
+        "especie": "CDT Bco ITAU CORPBANCA",
+        "nominal": 11795777.05463497,
+        "valor_mercado": 11506487.391736604,
+        "valor_tir": 12391741.068623135,
+        "tasa_compra": 6.129547169811311,
+        "fecha_vencimiento": "2027-11-17"
+      },
+      {
+        "id_posicion": "888869_R20260817",
+        "especie": "CDT Bco ITAU CORPBANCA",
+        "nominal": 111207261.311774,
+        "valor_mercado": 108479919.90919195,
+        "valor_tir": 116825842.05715638,
+        "tasa_compra": 6.129547169811311,
+        "fecha_vencimiento": "2027-11-17"
+      },
+      {
+        "id_posicion": "889050_R20260824",
+        "especie": "CDT BBVA BASE 360 RES274",
+        "nominal": 46414672.73831874,
+        "valor_mercado": 47419683.14906737,
+        "valor_tir": 47419683.14906737,
+        "tasa_compra": 13.01311,
+        "fecha_vencimiento": "2028-08-24"
+      },
+      {
+        "id_posicion": "889052_R20260824",
+        "especie": "CDT BBVA BASE 360 RES274",
+        "nominal": 15471557.579439582,
+        "valor_mercado": 15646240.128583701,
+        "valor_tir": 15646240.128583701,
+        "tasa_compra": 13.01311,
+        "fecha_vencimiento": "2028-08-24"
+      },
+      {
+        "id_posicion": "889149_R20260822",
+        "especie": "TFIT05220829",
+        "nominal": 3760304594.2023797,
+        "valor_mercado": 3712638446.723627,
+        "valor_tir": 3712638446.723627,
+        "tasa_compra": 12.45403,
+        "fecha_vencimiento": "2029-08-22"
+      }
+    ]
+  },
+  {
+    "mes": 2,
+    "vm_total": 10884748573710.008,
+    "vtir_total": 12708712075469.717,
+    "pnl_mercado_mes": 42192771854.11328,
+    "pnl_tir_mes": 44116789310.640625,
+    "pnl_mercado_acum": -2164803695282.9531,
+    "pnl_tir_acum": -340840193523.24414,
+    "n_titulos": 1646,
+    "n_reinversiones_mes": 203,
+    "cupones_cobrados_mes": 25744023501.56849,
+    "reinversiones": [
+      {
+        "id_posicion": "775363_R20260910",
+        "especie": "BONOS GRUPO ARGOS",
+        "nominal": 78146987.81622136,
+        "valor_mercado": 63514893.51531904,
+        "valor_tir": 75100514.22514597,
+        "tasa_compra": 6.545622641509419,
+        "fecha_vencimiento": "2029-09-10"
+      },
+      {
+        "id_posicion": "776571_R20260925",
+        "especie": "BO SUB BANCOLOMBIA",
+        "nominal": 152653020.8941634,
+        "valor_mercado": 90352662.32510112,
+        "valor_tir": 132238028.24921171,
+        "tasa_compra": 7.538613207547162,
+        "fecha_vencimiento": "2034-09-25"
+      },
+      {
+        "id_posicion": "776575_R20260925",
+        "especie": "BO SUB BANCOLOMBIA",
+        "nominal": 152653020.8941634,
+        "valor_mercado": 90352662.32510112,
+        "valor_tir": 132238028.24921171,
+        "tasa_compra": 7.538613207547162,
+        "fecha_vencimiento": "2034-09-25"
+      },
+      {
+        "id_posicion": "776587_R20260925",
+        "especie": "BO SUB BANCOLOMBIA",
+        "nominal": 152653020.8941634,
+        "valor_mercado": 90352662.32510112,
+        "valor_tir": 132238028.24921171,
+        "tasa_compra": 7.538613207547162,
+        "fecha_vencimiento": "2034-09-25"
+      },
+      {
+        "id_posicion": "776589_R20260925",
+        "especie": "BO SUB BANCOLOMBIA",
+        "nominal": 152653020.8941634,
+        "valor_mercado": 90352662.32510112,
+        "valor_tir": 132238028.24921171,
+        "tasa_compra": 7.538613207547162,
+        "fecha_vencimiento": "2034-09-25"
+      },
+      {
+        "id_posicion": "776597_R20260925",
+        "especie": "BO SUB BANCOLOMBIA",
+        "nominal": 152653020.8941634,
+        "valor_mercado": 90352662.32510112,
+        "valor_tir": 132238028.24921171,
+        "tasa_compra": 7.538613207547162,
+        "fecha_vencimiento": "2034-09-25"
+      },
+      {
+        "id_posicion": "776599_R20260925",
+        "especie": "BO SUB BANCOLOMBIA",
+        "nominal": 152653020.8941634,
+        "valor_mercado": 90352662.32510112,
+        "valor_tir": 132238028.24921171,
+        "tasa_compra": 7.538613207547162,
+        "fecha_vencimiento": "2034-09-25"
+      },
+      {
+        "id_posicion": "776602_R20260925",
+        "especie": "BO SUB BANCOLOMBIA",
+        "nominal": 152653020.8941634,
+        "valor_mercado": 90352662.32510112,
+        "valor_tir": 132238028.24921171,
+        "tasa_compra": 7.538613207547162,
+        "fecha_vencimiento": "2034-09-25"
+      },
+      {
+        "id_posicion": "776606_R20260925",
+        "especie": "BO SUB BANCOLOMBIA",
+        "nominal": 152653020.8941634,
+        "valor_mercado": 90352662.32510112,
+        "valor_tir": 132238028.24921171,
+        "tasa_compra": 7.538613207547162,
+        "fecha_vencimiento": "2034-09-25"
+      },
+      {
+        "id_posicion": "776609_R20260925",
+        "especie": "BO SUB BANCOLOMBIA",
+        "nominal": 152653020.8941634,
+        "valor_mercado": 90352662.32510112,
+        "valor_tir": 132238028.24921171,
+        "tasa_compra": 7.538613207547162,
+        "fecha_vencimiento": "2034-09-25"
+      },
+      {
+        "id_posicion": "776611_R20260925",
+        "especie": "BO SUB BANCOLOMBIA",
+        "nominal": 137387718.80474705,
+        "valor_mercado": 81317396.092591,
+        "valor_tir": 119014225.42429052,
+        "tasa_compra": 7.538613207547162,
+        "fecha_vencimiento": "2034-09-25"
+      },
+      {
+        "id_posicion": "786915_R20260911",
+        "especie": "BO  PROMIGAS",
+        "nominal": 159004936.675237,
+        "valor_mercado": 125487662.77411203,
+        "valor_tir": 152130342.34501475,
+        "tasa_compra": 6.52950000000001,
+        "fecha_vencimiento": "2030-03-11"
+      },
+      {
+        "id_posicion": "787284_R20260919",
+        "especie": "BN EPM MEDELLIN ESP",
+        "nominal": 121168490.53302822,
+        "valor_mercado": 68463506.26263739,
+        "valor_tir": 102237061.9296245,
+        "tasa_compra": 7.3976886792452845,
+        "fecha_vencimiento": "2035-03-19"
+      },
+      {
+        "id_posicion": "787287_R20260919",
+        "especie": "BN EPM MEDELLIN ESP",
+        "nominal": 60584245.26651411,
+        "valor_mercado": 34231753.131318696,
+        "valor_tir": 51118530.96481225,
+        "tasa_compra": 7.3976886792452845,
+        "fecha_vencimiento": "2035-03-19"
+      },
+      {
+        "id_posicion": "787319_R20260919",
+        "especie": "BN EPM MEDELLIN ESP",
+        "nominal": 302921226.33257055,
+        "valor_mercado": 171158765.6565935,
+        "valor_tir": 255592654.82406124,
+        "tasa_compra": 7.3976886792452845,
+        "fecha_vencimiento": "2035-03-19"
+      },
+      {
+        "id_posicion": "787320_R20260919",
+        "especie": "BN EPM MEDELLIN ESP",
+        "nominal": 60584245.26651411,
+        "valor_mercado": 34231753.131318696,
+        "valor_tir": 51118530.96481225,
+        "tasa_compra": 7.3976886792452845,
+        "fecha_vencimiento": "2035-03-19"
+      },
+      {
+        "id_posicion": "787353_R20260918",
+        "especie": "TFIT16180930",
+        "nominal": 6398292.023801342,
+        "valor_mercado": 5548398.128619738,
+        "valor_tir": 5548398.128619738,
+        "tasa_compra": 12.57704,
+        "fecha_vencimiento": "2030-09-18"
+      },
+      {
+        "id_posicion": "787357_R20260918",
+        "especie": "TFIT16180930",
+        "nominal": 5618896.678125825,
+        "valor_mercado": 4872530.934481923,
+        "valor_tir": 4872530.934481923,
+        "tasa_compra": 12.57704,
+        "fecha_vencimiento": "2030-09-18"
+      },
+      {
+        "id_posicion": "787360_R20260918",
+        "especie": "TFIT16180930",
+        "nominal": 1812547.3155244594,
+        "valor_mercado": 1571784.1724135233,
+        "valor_tir": 1571784.1724135233,
+        "tasa_compra": 12.57704,
+        "fecha_vencimiento": "2030-09-18"
+      },
+      {
+        "id_posicion": "800329_R20260923",
+        "especie": "BN SURAMERICANA S.A",
+        "nominal": 136415315.0336464,
+        "valor_mercado": 97421444.6735119,
+        "valor_tir": 124099755.39809345,
+        "tasa_compra": 6.845235849056586,
+        "fecha_vencimiento": "2031-06-23"
+      },
+      {
+        "id_posicion": "800334_R20260923",
+        "especie": "BN SURAMERICANA S.A",
+        "nominal": 38632817.21752866,
+        "valor_mercado": 27589753.131538566,
+        "valor_tir": 35145050.72874007,
+        "tasa_compra": 6.845235849056586,
+        "fecha_vencimiento": "2031-06-23"
+      },
+      {
+        "id_posicion": "800513_R20260916",
+        "especie": "BN EPM MEDELLIN ESP",
+        "nominal": 85443055.39588884,
+        "valor_mercado": 64011055.10834142,
+        "valor_tir": 79349272.91923457,
+        "tasa_compra": 7.310915094339632,
+        "fecha_vencimiento": "2030-12-16"
+      },
+      {
+        "id_posicion": "802961_R20260908",
+        "especie": "BO  PROMIGAS",
+        "nominal": 146441636.96112707,
+        "valor_mercado": 78650599.06880464,
+        "valor_tir": 122327359.12651755,
+        "tasa_compra": 6.634122641509443,
+        "fecha_vencimiento": "2036-09-08"
+      },
+      {
+        "id_posicion": "802963_R20260908",
+        "especie": "BO  PROMIGAS",
+        "nominal": 146441636.96112707,
+        "valor_mercado": 78650599.06880464,
+        "valor_tir": 122327359.12651755,
+        "tasa_compra": 6.634122641509443,
+        "fecha_vencimiento": "2036-09-08"
+      },
+      {
+        "id_posicion": "802969_R20260908",
+        "especie": "BO  PROMIGAS",
+        "nominal": 439324910.88338125,
+        "valor_mercado": 235951797.20641392,
+        "valor_tir": 371484390.11102605,
+        "tasa_compra": 6.634122641509443,
+        "fecha_vencimiento": "2036-09-08"
+      },
+      {
+        "id_posicion": "806321_R20260811_R20260911",
+        "especie": "BONOS HIP CREDIFAMILIA",
+        "nominal": 28.135332011818463,
+        "valor_mercado": 10564.701815576584,
+        "valor_tir": 10564.701815576584,
+        "tasa_compra": 7.56247,
+        "fecha_vencimiento": "2030-12-11"
+      },
+      {
+        "id_posicion": "806321_R20260911",
+        "especie": "BONOS HIP CREDIFAMILIA",
+        "nominal": 6517.992954429617,
+        "valor_mercado": 2447479.630617208,
+        "valor_tir": 2447479.630617208,
+        "tasa_compra": 7.56247,
+        "fecha_vencimiento": "2030-12-11"
+      },
+      {
+        "id_posicion": "817075_R20260914",
+        "especie": "BO OCCIDENTE 365",
+        "nominal": 135658841.97973412,
+        "valor_mercado": 87113827.31500158,
+        "valor_tir": 120285000.782381,
+        "tasa_compra": 6.569358490566035,
+        "fecha_vencimiento": "2032-12-14"
+      },
+      {
+        "id_posicion": "817077_R20260914",
+        "especie": "BO OCCIDENTE 365",
+        "nominal": 81395305.18784048,
+        "valor_mercado": 52268296.38900095,
+        "valor_tir": 72171000.4694286,
+        "tasa_compra": 6.569358490566035,
+        "fecha_vencimiento": "2032-12-14"
+      },
+      {
+        "id_posicion": "817079_R20260914",
+        "especie": "BO OCCIDENTE 365",
+        "nominal": 54263536.791893646,
+        "valor_mercado": 34845530.92600063,
+        "valor_tir": 48114000.31295241,
+        "tasa_compra": 6.569358490566035,
+        "fecha_vencimiento": "2032-12-14"
+      },
+      {
+        "id_posicion": "818070_R20260925",
+        "especie": "BO SUB BANCOLOMBIA",
+        "nominal": 122122416.71533072,
+        "valor_mercado": 72282129.86008091,
+        "valor_tir": 105790422.59936938,
+        "tasa_compra": 7.538613207547162,
+        "fecha_vencimiento": "2034-09-25"
+      },
+      {
+        "id_posicion": "819607_R20260914",
+        "especie": "BO OCCIDENTE 365",
+        "nominal": 135658841.97973412,
+        "valor_mercado": 87113827.31500158,
+        "valor_tir": 118759966.54586798,
+        "tasa_compra": 6.569358490566035,
+        "fecha_vencimiento": "2032-12-14"
+      },
+      {
+        "id_posicion": "819907_R20260902",
+        "especie": "BN ORD GASES DE OCCIDENTE",
+        "nominal": 90961288.66304967,
+        "valor_mercado": 40455141.37682485,
+        "valor_tir": 74282244.60666482,
+        "tasa_compra": 6.188537735849042,
+        "fecha_vencimiento": "2043-03-02"
+      },
+      {
+        "id_posicion": "819909_R20260902",
+        "especie": "BN ORD GASES DE OCCIDENTE",
+        "nominal": 181922577.32609934,
+        "valor_mercado": 80910282.7536497,
+        "valor_tir": 148564489.21332964,
+        "tasa_compra": 6.188537735849042,
+        "fecha_vencimiento": "2043-03-02"
+      },
+      {
+        "id_posicion": "820066_R20260908",
+        "especie": "BO  PROMIGAS",
+        "nominal": 263594946.53002873,
+        "valor_mercado": 141571078.32384834,
+        "valor_tir": 222890634.06661564,
+        "tasa_compra": 6.634122641509443,
+        "fecha_vencimiento": "2036-09-08"
+      },
+      {
+        "id_posicion": "820122_R20260902",
+        "especie": "BN ORD GASES DE OCCIDENTE",
+        "nominal": 151602147.77174944,
+        "valor_mercado": 67425235.62804142,
+        "valor_tir": 123803741.01110801,
+        "tasa_compra": 6.188537735849042,
+        "fecha_vencimiento": "2043-03-02"
+      },
+      {
+        "id_posicion": "821317_R20260902",
+        "especie": "BN ORD GASES DE OCCIDENTE",
+        "nominal": 151602147.77174944,
+        "valor_mercado": 67425235.62804142,
+        "valor_tir": 123803741.01110801,
+        "tasa_compra": 6.188537735849042,
+        "fecha_vencimiento": "2043-03-02"
+      },
+      {
+        "id_posicion": "821318_R20260902",
+        "especie": "BN ORD GASES DE OCCIDENTE",
+        "nominal": 151602147.77174944,
+        "valor_mercado": 67425235.62804142,
+        "valor_tir": 123803741.01110801,
+        "tasa_compra": 6.188537735849042,
+        "fecha_vencimiento": "2043-03-02"
+      },
+      {
+        "id_posicion": "822181_R20260902",
+        "especie": "BN ORD GASES DE OCCIDENTE",
+        "nominal": 151602147.77174944,
+        "valor_mercado": 67425235.62804142,
+        "valor_tir": 123803741.01110801,
+        "tasa_compra": 6.188537735849042,
+        "fecha_vencimiento": "2043-03-02"
+      },
+      {
+        "id_posicion": "822182_R20260902",
+        "especie": "BN ORD GASES DE OCCIDENTE",
+        "nominal": 60640859.10869978,
+        "valor_mercado": 26970094.251216568,
+        "valor_tir": 49521496.40444322,
+        "tasa_compra": 6.188537735849042,
+        "fecha_vencimiento": "2043-03-02"
+      },
+      {
+        "id_posicion": "823330_R20260928",
+        "especie": "BONOS CEMENTOS ARGOS",
+        "nominal": 297418849.4140695,
+        "valor_mercado": 147026914.37914538,
+        "valor_tir": 245640220.1223545,
+        "tasa_compra": 6.521188679245271,
+        "fecha_vencimiento": "2038-06-28"
+      },
+      {
+        "id_posicion": "823333_R20260927",
+        "especie": "BONOS CEMENTOS ARGOS",
+        "nominal": 121699853.63103521,
+        "valor_mercado": 106874286.18681228,
+        "valor_tir": 118980311.57880543,
+        "tasa_compra": 6.392103773584901,
+        "fecha_vencimiento": "2028-06-27"
+      },
+      {
+        "id_posicion": "824010_R20260825_R20260925",
+        "especie": "TIPS U3 A 2028",
+        "nominal": 4.725207878947704,
+        "valor_mercado": 1816.5192252364723,
+        "valor_tir": 1816.5192252364723,
+        "tasa_compra": 7.19015,
+        "fecha_vencimiento": "2028-07-25"
+      },
+      {
+        "id_posicion": "824010_R20260925",
+        "especie": "TIPS U3 A 2028",
+        "nominal": 1709.5345409769634,
+        "valor_mercado": 657199.0988430396,
+        "valor_tir": 657199.0988430396,
+        "tasa_compra": 7.19015,
+        "fecha_vencimiento": "2028-07-25"
+      },
+      {
+        "id_posicion": "824295_R20260928",
+        "especie": "BONOS CEMENTOS ARGOS",
+        "nominal": 148709424.70703474,
+        "valor_mercado": 73513457.18957269,
+        "valor_tir": 122820110.06117725,
+        "tasa_compra": 6.521188679245271,
+        "fecha_vencimiento": "2038-06-28"
+      },
+      {
+        "id_posicion": "824297_R20260928",
+        "especie": "BONOS CEMENTOS ARGOS",
+        "nominal": 118967539.76562779,
+        "valor_mercado": 58810765.75165816,
+        "valor_tir": 98256088.0489418,
+        "tasa_compra": 6.521188679245271,
+        "fecha_vencimiento": "2038-06-28"
+      },
+      {
+        "id_posicion": "824440_R20260908",
+        "especie": "BO  PROMIGAS",
+        "nominal": 87864982.17667624,
+        "valor_mercado": 47190359.44128278,
+        "valor_tir": 74296878.0222052,
+        "tasa_compra": 6.634122641509443,
+        "fecha_vencimiento": "2036-09-08"
+      },
+      {
+        "id_posicion": "824441_R20260908",
+        "especie": "BO  PROMIGAS",
+        "nominal": 87864982.17667624,
+        "valor_mercado": 47190359.44128278,
+        "valor_tir": 74296878.0222052,
+        "tasa_compra": 6.634122641509443,
+        "fecha_vencimiento": "2036-09-08"
+      },
+      {
+        "id_posicion": "825244_R20260911",
+        "especie": "CDT CORFICOL B360 R274",
+        "nominal": 149596834.0778739,
+        "valor_mercado": 77119087.2945252,
+        "valor_tir": 125309082.11159745,
+        "tasa_compra": 6.547113207547173,
+        "fecha_vencimiento": "2037-09-11"
+      },
+      {
+        "id_posicion": "825245_R20260911",
+        "especie": "CDT CORFICOL B360 R274",
+        "nominal": 299193668.1557478,
+        "valor_mercado": 154238174.5890504,
+        "valor_tir": 250618164.2231949,
+        "tasa_compra": 6.547113207547173,
+        "fecha_vencimiento": "2037-09-11"
+      },
+      {
+        "id_posicion": "825831_R20260928",
+        "especie": "BONOS CEMENTOS ARGOS",
+        "nominal": 89225654.82422084,
+        "valor_mercado": 44108074.31374361,
+        "valor_tir": 73692066.03670634,
+        "tasa_compra": 6.521188679245271,
+        "fecha_vencimiento": "2038-06-28"
+      },
+      {
+        "id_posicion": "825832_R20260928",
+        "especie": "BONOS CEMENTOS ARGOS",
+        "nominal": 59483769.88281389,
+        "valor_mercado": 29405382.87582908,
+        "valor_tir": 49128044.0244709,
+        "tasa_compra": 6.521188679245271,
+        "fecha_vencimiento": "2038-06-28"
+      },
+      {
+        "id_posicion": "827909_R20260905",
+        "especie": "Bn GOBERN DE CUNDINAMARCA B365",
+        "nominal": 72949622.14946803,
+        "valor_mercado": 60395537.84071826,
+        "valor_tir": 67867428.42174529,
+        "tasa_compra": 8.198311320754703,
+        "fecha_vencimiento": "2028-12-05"
+      },
+      {
+        "id_posicion": "827912_R20260905",
+        "especie": "Bn GOBERN DE CUNDINAMARCA B365",
+        "nominal": 203216804.5592324,
+        "valor_mercado": 168244712.5562866,
+        "valor_tir": 191151223.56855735,
+        "tasa_compra": 8.198311320754703,
+        "fecha_vencimiento": "2028-12-05"
+      },
+      {
+        "id_posicion": "829932_R20260928",
+        "especie": "BONOS CEMENTOS ARGOS",
+        "nominal": 118967539.76562779,
+        "valor_mercado": 58810765.75165816,
+        "valor_tir": 98256088.0489418,
+        "tasa_compra": 6.521188679245271,
+        "fecha_vencimiento": "2038-06-28"
+      },
+      {
+        "id_posicion": "831993_R20260913",
+        "especie": "BO EMGESA SA ESP",
+        "nominal": 23726222.836581156,
+        "valor_mercado": 21812760.145007923,
+        "valor_tir": 23251546.05749892,
+        "tasa_compra": 6.07453773584905,
+        "fecha_vencimiento": "2027-12-13"
+      },
+      {
+        "id_posicion": "832583_R20260907",
+        "especie": "BO ISAGEN",
+        "nominal": 678412481.3620985,
+        "valor_mercado": 249676728.95042706,
+        "valor_tir": 488776135.9878308,
+        "tasa_compra": 6.622584905660367,
+        "fecha_vencimiento": "2049-06-07"
+      },
+      {
+        "id_posicion": "832584_R20260907",
+        "especie": "BO ISAGEN",
+        "nominal": 678412481.3620985,
+        "valor_mercado": 249676728.95042706,
+        "valor_tir": 488776135.9878308,
+        "tasa_compra": 6.622584905660367,
+        "fecha_vencimiento": "2049-06-07"
+      },
+      {
+        "id_posicion": "832588_R20260907",
+        "especie": "BO ISAGEN",
+        "nominal": 678412481.3620985,
+        "valor_mercado": 249676728.95042706,
+        "valor_tir": 488776135.9878308,
+        "tasa_compra": 6.622584905660367,
+        "fecha_vencimiento": "2049-06-07"
+      },
+      {
+        "id_posicion": "832590_R20260907",
+        "especie": "BO ISAGEN",
+        "nominal": 339206240.6810492,
+        "valor_mercado": 124838364.47521353,
+        "valor_tir": 244388067.9939154,
+        "tasa_compra": 6.622584905660367,
+        "fecha_vencimiento": "2049-06-07"
+      },
+      {
+        "id_posicion": "833512_R20260911",
+        "especie": "BO  PROMIGAS",
+        "nominal": 13250411.389603082,
+        "valor_mercado": 10351941.404912839,
+        "valor_tir": 12464227.910722494,
+        "tasa_compra": 6.52950000000001,
+        "fecha_vencimiento": "2030-03-11"
+      },
+      {
+        "id_posicion": "834062_R20260815_R20260915",
+        "especie": "TIPS U4 2029",
+        "nominal": 3.8005989680713106,
+        "valor_mercado": 1372.932551884945,
+        "valor_tir": 1372.932551884945,
+        "tasa_compra": 7.25914,
+        "fecha_vencimiento": "2029-08-15"
+      },
+      {
+        "id_posicion": "834062_R20260915",
+        "especie": "TIPS U4 2029",
+        "nominal": 1823.4286929612906,
+        "valor_mercado": 658697.3868168988,
+        "valor_tir": 658697.3868168988,
+        "tasa_compra": 7.25914,
+        "fecha_vencimiento": "2029-08-15"
+      },
+      {
+        "id_posicion": "834064_R20260815_R20260915",
+        "especie": "TIPS U4 2029",
+        "nominal": 3.8005989680713106,
+        "valor_mercado": 1372.932551884945,
+        "valor_tir": 1372.932551884945,
+        "tasa_compra": 7.25914,
+        "fecha_vencimiento": "2029-08-15"
+      },
+      {
+        "id_posicion": "834064_R20260915",
+        "especie": "TIPS U4 2029",
+        "nominal": 1823.4286929612906,
+        "valor_mercado": 658697.3868168988,
+        "valor_tir": 658697.3868168988,
+        "tasa_compra": 7.25914,
+        "fecha_vencimiento": "2029-08-15"
+      },
+      {
+        "id_posicion": "834557_R20260912",
+        "especie": "PAT AUT TITULARIZACION BMP SUR",
+        "nominal": 177896.62487953197,
+        "valor_mercado": 68017991.77753958,
+        "valor_tir": 68017991.77753958,
+        "tasa_compra": 8.44718,
+        "fecha_vencimiento": "2028-12-12"
+      },
+      {
+        "id_posicion": "834558_R20260912",
+        "especie": "PAT AUT TITULARIZACION BMP SUR",
+        "nominal": 177896.62487953197,
+        "valor_mercado": 68017991.77753958,
+        "valor_tir": 68017991.77753958,
+        "tasa_compra": 8.44718,
+        "fecha_vencimiento": "2028-12-12"
+      },
+      {
+        "id_posicion": "834559_R20260912",
+        "especie": "PAT AUT TITULARIZACION BMP SUR",
+        "nominal": 129379.36354875055,
+        "valor_mercado": 49467630.38366515,
+        "valor_tir": 49467630.38366515,
+        "tasa_compra": 8.44718,
+        "fecha_vencimiento": "2028-12-12"
+      },
+      {
+        "id_posicion": "835499_R20260912",
+        "especie": "PAT AUT TITULARIZACION BMP SUR",
+        "nominal": 7827.451494699407,
+        "valor_mercado": 2992791.6382117416,
+        "valor_tir": 2992791.6382117416,
+        "tasa_compra": 8.44718,
+        "fecha_vencimiento": "2028-12-12"
+      },
+      {
+        "id_posicion": "835501_R20260912",
+        "especie": "PAT AUT TITULARIZACION BMP SUR",
+        "nominal": 89207.07116686348,
+        "valor_mercado": 34107931.14953712,
+        "valor_tir": 34107931.14953712,
+        "tasa_compra": 8.44718,
+        "fecha_vencimiento": "2028-12-12"
+      },
+      {
+        "id_posicion": "840119_R20260918",
+        "especie": "BN YANKEES",
+        "nominal": 44.24074582696571,
+        "valor_mercado": 185824.7515444513,
+        "valor_tir": 185824.7515444513,
+        "tasa_compra": 6.94388,
+        "fecha_vencimiento": "2037-09-18"
+      },
+      {
+        "id_posicion": "840192_R20260918",
+        "especie": "BN YANKEES",
+        "nominal": 17.696298330786284,
+        "valor_mercado": 74329.90061778054,
+        "valor_tir": 74329.90061778054,
+        "tasa_compra": 6.94388,
+        "fecha_vencimiento": "2037-09-18"
+      },
+      {
+        "id_posicion": "840244_R20260906",
+        "especie": "BO ISAGEN",
+        "nominal": 180657155.80059382,
+        "valor_mercado": 104922156.88758989,
+        "valor_tir": 153850898.17218485,
+        "tasa_compra": 6.5774056603773445,
+        "fecha_vencimiento": "2034-06-06"
+      },
+      {
+        "id_posicion": "840322_R20260907",
+        "especie": "BO ISAGEN",
+        "nominal": 305285616.6129443,
+        "valor_mercado": 112354528.02769218,
+        "valor_tir": 219949261.1945239,
+        "tasa_compra": 6.622584905660367,
+        "fecha_vencimiento": "2049-06-07"
+      },
+      {
+        "id_posicion": "840515_R20260918",
+        "especie": "BN YANKEES",
+        "nominal": 8.848149165393142,
+        "valor_mercado": 37164.95030889027,
+        "valor_tir": 37164.95030889027,
+        "tasa_compra": 6.94388,
+        "fecha_vencimiento": "2037-09-18"
+      },
+      {
+        "id_posicion": "840517_R20260918",
+        "especie": "BN YANKEES",
+        "nominal": 8.848149165393142,
+        "valor_mercado": 37164.95030889027,
+        "valor_tir": 37164.95030889027,
+        "tasa_compra": 6.94388,
+        "fecha_vencimiento": "2037-09-18"
+      },
+      {
+        "id_posicion": "840743_R20260929",
+        "especie": "CDT CORFICOL B360 R274",
+        "nominal": 557913097.6537226,
+        "valor_mercado": 389621390.1537035,
+        "valor_tir": 520710966.0848588,
+        "tasa_compra": 6.504377358490565,
+        "fecha_vencimiento": "2032-03-29"
+      },
+      {
+        "id_posicion": "844656_R20260918",
+        "especie": "TFIT16180930",
+        "nominal": 906273657.7622297,
+        "valor_mercado": 785892086.2067616,
+        "valor_tir": 785892086.2067616,
+        "tasa_compra": 12.57704,
+        "fecha_vencimiento": "2030-09-18"
+      },
+      {
+        "id_posicion": "845037_R20260918",
+        "especie": "BO OCCIDENTE 365",
+        "nominal": 22841346.14709838,
+        "valor_mercado": 17491058.66329434,
+        "valor_tir": 20648273.583900105,
+        "tasa_compra": 6.379433962264147,
+        "fecha_vencimiento": "2029-09-18"
+      },
+      {
+        "id_posicion": "846015_R20260915",
+        "especie": "BN YANKEES",
+        "nominal": 1.4377990788229624,
+        "valor_mercado": 5662.940009460386,
+        "valor_tir": 5662.940009460386,
+        "tasa_compra": 5.52503,
+        "fecha_vencimiento": "2029-03-15"
+      },
+      {
+        "id_posicion": "851252_R20260907",
+        "especie": "BO ORGANIZACION TERPEL",
+        "nominal": 77476207.14433375,
+        "valor_mercado": 33181516.193871826,
+        "valor_tir": 61310969.94979744,
+        "tasa_compra": 6.339905660377343,
+        "fecha_vencimiento": "2043-06-07"
+      },
+      {
+        "id_posicion": "851620_R20260911",
+        "especie": "BO  PROMIGAS",
+        "nominal": 53001645.55841233,
+        "valor_mercado": 41829220.924704,
+        "valor_tir": 50120400.313503884,
+        "tasa_compra": 6.52950000000001,
+        "fecha_vencimiento": "2030-03-11"
+      },
+      {
+        "id_posicion": "852349_R20260918",
+        "especie": "BN YANKEES",
+        "nominal": 17.696298330786284,
+        "valor_mercado": 74329.90061778054,
+        "valor_tir": 74329.90061778054,
+        "tasa_compra": 6.94388,
+        "fecha_vencimiento": "2037-09-18"
+      },
+      {
+        "id_posicion": "853790_R20260901",
+        "especie": "CDT BANCOLOMBIA B360 RES 274",
+        "nominal": 274206414.56929356,
+        "valor_mercado": 192703041.11344925,
+        "valor_tir": 252959152.5058971,
+        "tasa_compra": 6.529292452830204,
+        "fecha_vencimiento": "2031-12-01"
+      },
+      {
+        "id_posicion": "853834_R20260902",
+        "especie": "Bono Distrito de Bogot\u00e1",
+        "nominal": 141065462.66186142,
+        "valor_mercado": 88910694.66556998,
+        "valor_tir": 126620527.57445838,
+        "tasa_compra": 6.612358490566028,
+        "fecha_vencimiento": "2033-12-02"
+      },
+      {
+        "id_posicion": "854099_R20260915",
+        "especie": "BONO ICETEX SOCIAL",
+        "nominal": 137834720.09562764,
+        "valor_mercado": 94894129.71144569,
+        "valor_tir": 125162327.89422694,
+        "tasa_compra": 6.859575471698109,
+        "fecha_vencimiento": "2031-12-15"
+      },
+      {
+        "id_posicion": "855249_R20260918",
+        "especie": "BN YANKEES",
+        "nominal": 88.48149165393141,
+        "valor_mercado": 371649.5030889026,
+        "valor_tir": 371649.5030889026,
+        "tasa_compra": 6.94388,
+        "fecha_vencimiento": "2037-09-18"
+      },
+      {
+        "id_posicion": "855336_R20260918",
+        "especie": "BN YANKEES",
+        "nominal": 44.24074582696571,
+        "valor_mercado": 185824.7515444513,
+        "valor_tir": 185824.7515444513,
+        "tasa_compra": 6.94388,
+        "fecha_vencimiento": "2037-09-18"
+      },
+      {
+        "id_posicion": "855654_R20260928",
+        "especie": "BONOS CEMENTOS ARGOS",
+        "nominal": 59483769.88281389,
+        "valor_mercado": 29405382.87582908,
+        "valor_tir": 49128044.0244709,
+        "tasa_compra": 6.521188679245271,
+        "fecha_vencimiento": "2038-06-28"
+      },
+      {
+        "id_posicion": "855655_R20260928",
+        "especie": "BONOS CEMENTOS ARGOS",
+        "nominal": 89225654.82422084,
+        "valor_mercado": 44108074.31374361,
+        "valor_tir": 73692066.03670634,
+        "tasa_compra": 6.521188679245271,
+        "fecha_vencimiento": "2038-06-28"
+      },
+      {
+        "id_posicion": "855997_R20260903",
+        "especie": "BO ISAGEN",
+        "nominal": 177056511.46721232,
+        "valor_mercado": 97813233.75789548,
+        "valor_tir": 153080811.19685614,
+        "tasa_compra": 6.596122641509439,
+        "fecha_vencimiento": "2037-03-03"
+      },
+      {
+        "id_posicion": "856432_R20260918",
+        "especie": "CDT BANCOLOMBIA B360 RES 274",
+        "nominal": 26766529.322496824,
+        "valor_mercado": 20907234.07332555,
+        "valor_tir": 25413470.126377225,
+        "tasa_compra": 6.653320754716985,
+        "fecha_vencimiento": "2030-03-18"
+      },
+      {
+        "id_posicion": "857437_R20260925",
+        "especie": "BN ORDINARIO EEB",
+        "nominal": 142560379.2950789,
+        "valor_mercado": 79071372.41030204,
+        "valor_tir": 118899596.07777604,
+        "tasa_compra": 6.601537735849061,
+        "fecha_vencimiento": "2035-06-25"
+      },
+      {
+        "id_posicion": "857804_R20260909",
+        "especie": "CDT BANCOLOMBIA B360 RES 274",
+        "nominal": 297575014.5963349,
+        "valor_mercado": 199325341.57084584,
+        "valor_tir": 308652475.48292124,
+        "tasa_compra": 6.378339622641516,
+        "fecha_vencimiento": "2037-06-09"
+      },
+      {
+        "id_posicion": "857808_R20260909",
+        "especie": "CDT BANCOLOMBIA B360 RES 274",
+        "nominal": 148787507.29816744,
+        "valor_mercado": 99662670.78542292,
+        "valor_tir": 154326237.74146062,
+        "tasa_compra": 6.378339622641516,
+        "fecha_vencimiento": "2037-06-09"
+      },
+      {
+        "id_posicion": "858663_R20260901",
+        "especie": "CDT BANCOLOMBIA B360 RES 274",
+        "nominal": 311385639.10600704,
+        "valor_mercado": 172067488.00842598,
+        "valor_tir": 270998077.395982,
+        "tasa_compra": 6.531311320754707,
+        "fecha_vencimiento": "2036-12-01"
+      },
+      {
+        "id_posicion": "859370_R20260915",
+        "especie": "BN YANKEES",
+        "nominal": 5.75119631529185,
+        "valor_mercado": 22651.760037841545,
+        "valor_tir": 22651.760037841545,
+        "tasa_compra": 5.52503,
+        "fecha_vencimiento": "2029-03-15"
+      },
+      {
+        "id_posicion": "859608_R20260918",
+        "especie": "BN YANKEES",
+        "nominal": 44.24074582696571,
+        "valor_mercado": 185824.7515444513,
+        "valor_tir": 185824.7515444513,
+        "tasa_compra": 6.94388,
+        "fecha_vencimiento": "2037-09-18"
+      },
+      {
+        "id_posicion": "859658_R20260928",
+        "especie": "CDT BANCOLOMBIA B360 RES 274",
+        "nominal": 603163668.3254329,
+        "valor_mercado": 418366425.84534353,
+        "valor_tir": 649200879.1737245,
+        "tasa_compra": 6.547613207547176,
+        "fecha_vencimiento": "2037-09-28"
+      },
+      {
+        "id_posicion": "861039_R20260912",
+        "especie": "CDT BANCOLOMBIA B360 RES 274",
+        "nominal": 186437219.86451906,
+        "valor_mercado": 151801940.42717016,
+        "valor_tir": 215222227.69884977,
+        "tasa_compra": 6.57516037735848,
+        "fecha_vencimiento": "2034-12-12"
+      },
+      {
+        "id_posicion": "861040_R20260912",
+        "especie": "CDT BANCOLOMBIA B360 RES 274",
+        "nominal": 621457399.5483968,
+        "valor_mercado": 506006468.0905672,
+        "valor_tir": 717407425.6628325,
+        "tasa_compra": 6.57516037735848,
+        "fecha_vencimiento": "2034-12-12"
+      },
+      {
+        "id_posicion": "862688_R20260918",
+        "especie": "BN YANKEES",
+        "nominal": 44.24074582696571,
+        "valor_mercado": 185824.7515444513,
+        "valor_tir": 185824.7515444513,
+        "tasa_compra": 6.94388,
+        "fecha_vencimiento": "2037-09-18"
+      },
+      {
+        "id_posicion": "862827_R20260918",
+        "especie": "BN YANKEES",
+        "nominal": 44.24074582696571,
+        "valor_mercado": 185824.7515444513,
+        "valor_tir": 185824.7515444513,
+        "tasa_compra": 6.94388,
+        "fecha_vencimiento": "2037-09-18"
+      },
+      {
+        "id_posicion": "862876_R20260918",
+        "especie": "BN YANKEES",
+        "nominal": 44.24074582696571,
+        "valor_mercado": 185824.7515444513,
+        "valor_tir": 185824.7515444513,
+        "tasa_compra": 6.94388,
+        "fecha_vencimiento": "2037-09-18"
+      },
+      {
+        "id_posicion": "864073_R20260918",
+        "especie": "BN YANKEES",
+        "nominal": 44.24074582696571,
+        "valor_mercado": 185824.7515444513,
+        "valor_tir": 185824.7515444513,
+        "tasa_compra": 6.94388,
+        "fecha_vencimiento": "2037-09-18"
+      },
+      {
+        "id_posicion": "864378_R20260916",
+        "especie": "CDT BANCOLOMBIA B360 RES 274",
+        "nominal": 310658987.8406325,
+        "valor_mercado": 252655289.03472987,
+        "valor_tir": 354643777.32400316,
+        "tasa_compra": 6.571283018867913,
+        "fecha_vencimiento": "2034-12-16"
+      },
+      {
+        "id_posicion": "864695_R20260909",
+        "especie": "CDT BANCOLOMBIA B360 RES 274",
+        "nominal": 148787507.29816744,
+        "valor_mercado": 99662670.78542292,
+        "valor_tir": 154326237.74146062,
+        "tasa_compra": 6.378339622641516,
+        "fecha_vencimiento": "2037-06-09"
+      },
+      {
+        "id_posicion": "864697_R20260909",
+        "especie": "CDT BANCOLOMBIA B360 RES 274",
+        "nominal": 208302510.21743447,
+        "valor_mercado": 139527739.09959212,
+        "valor_tir": 216056732.83804494,
+        "tasa_compra": 6.378339622641516,
+        "fecha_vencimiento": "2037-06-09"
+      },
+      {
+        "id_posicion": "864699_R20260909",
+        "especie": "CDT BANCOLOMBIA B360 RES 274",
+        "nominal": 223181260.9472512,
+        "valor_mercado": 149494006.1781344,
+        "valor_tir": 231489356.61219096,
+        "tasa_compra": 6.378339622641516,
+        "fecha_vencimiento": "2037-06-09"
+      },
+      {
+        "id_posicion": "864739_R20260916",
+        "especie": "CDT BANCOLOMBIA B360 RES 274",
+        "nominal": 155329493.92031625,
+        "valor_mercado": 126327644.51736493,
+        "valor_tir": 179343385.1781205,
+        "tasa_compra": 6.571283018867913,
+        "fecha_vencimiento": "2034-12-16"
+      },
+      {
+        "id_posicion": "864758_R20260916",
+        "especie": "CDT BANCOLOMBIA B360 RES 274",
+        "nominal": 155329493.92031625,
+        "valor_mercado": 126327644.51736493,
+        "valor_tir": 179343385.1781205,
+        "tasa_compra": 6.571283018867913,
+        "fecha_vencimiento": "2034-12-16"
+      },
+      {
+        "id_posicion": "865121_R20260906",
+        "especie": "CDT CORFICOL B360 R274",
+        "nominal": 295853839.660926,
+        "valor_mercado": 207322128.40249175,
+        "valor_tir": 286625227.3418587,
+        "tasa_compra": 6.6461981132075465,
+        "fecha_vencimiento": "2033-06-06"
+      },
+      {
+        "id_posicion": "865123_R20260906",
+        "especie": "CDT CORFICOL B360 R274",
+        "nominal": 147926919.830463,
+        "valor_mercado": 103661064.20124587,
+        "valor_tir": 143312613.67092934,
+        "tasa_compra": 6.6461981132075465,
+        "fecha_vencimiento": "2033-06-06"
+      },
+      {
+        "id_posicion": "865362_R20260916",
+        "especie": "CDT CORFICOL B360 R274",
+        "nominal": 295890598.1801456,
+        "valor_mercado": 206618857.2013672,
+        "valor_tir": 286592806.5497599,
+        "tasa_compra": 6.648547169811314,
+        "fecha_vencimiento": "2033-06-16"
+      },
+      {
+        "id_posicion": "865541_R20260918",
+        "especie": "BN YANKEES",
+        "nominal": 44.24074582696571,
+        "valor_mercado": 185824.7515444513,
+        "valor_tir": 185824.7515444513,
+        "tasa_compra": 6.94388,
+        "fecha_vencimiento": "2037-09-18"
+      },
+      {
+        "id_posicion": "866539_R20260909",
+        "especie": "CDT BANCOLOMBIA B360 RES 274",
+        "nominal": 59515002.919267,
+        "valor_mercado": 39865068.31416918,
+        "valor_tir": 61730495.096584275,
+        "tasa_compra": 6.378339622641516,
+        "fecha_vencimiento": "2037-06-09"
+      },
+      {
+        "id_posicion": "866541_R20260909",
+        "especie": "CDT BANCOLOMBIA B360 RES 274",
+        "nominal": 59515002.919267,
+        "valor_mercado": 39865068.31416918,
+        "valor_tir": 61730495.096584275,
+        "tasa_compra": 6.378339622641516,
+        "fecha_vencimiento": "2037-06-09"
+      },
+      {
+        "id_posicion": "866543_R20260901",
+        "especie": "CDT BANCOLOMBIA B360 RES 274",
+        "nominal": 44483662.72942957,
+        "valor_mercado": 24581069.715489425,
+        "valor_tir": 38714011.05656886,
+        "tasa_compra": 6.531311320754707,
+        "fecha_vencimiento": "2036-12-01"
+      },
+      {
+        "id_posicion": "866587_R20260909",
+        "especie": "CDT BANCOLOMBIA B360 RES 274",
+        "nominal": 89272504.3789005,
+        "valor_mercado": 59797602.471253775,
+        "valor_tir": 92595742.6448764,
+        "tasa_compra": 6.378339622641516,
+        "fecha_vencimiento": "2037-06-09"
+      },
+      {
+        "id_posicion": "866589_R20260909",
+        "especie": "CDT BANCOLOMBIA B360 RES 274",
+        "nominal": 148787507.29816744,
+        "valor_mercado": 99662670.78542292,
+        "valor_tir": 154326237.74146062,
+        "tasa_compra": 6.378339622641516,
+        "fecha_vencimiento": "2037-06-09"
+      },
+      {
+        "id_posicion": "867097_R20260909",
+        "especie": "CDT BANCOLOMBIA B360 RES 274",
+        "nominal": 148787507.29816744,
+        "valor_mercado": 99662670.78542292,
+        "valor_tir": 154326237.74146062,
+        "tasa_compra": 6.378339622641516,
+        "fecha_vencimiento": "2037-06-09"
+      },
+      {
+        "id_posicion": "867105_R20260909",
+        "especie": "CDT BANCOLOMBIA B360 RES 274",
+        "nominal": 148787507.29816744,
+        "valor_mercado": 99662670.78542292,
+        "valor_tir": 154326237.74146062,
+        "tasa_compra": 6.378339622641516,
+        "fecha_vencimiento": "2037-06-09"
+      },
+      {
+        "id_posicion": "867198_R20260913",
+        "especie": "Nota Morgan Stanley  UVR",
+        "nominal": 6237533.568870391,
+        "valor_mercado": 2359948370.6612644,
+        "valor_tir": 2359948370.6612644,
+        "tasa_compra": 6.59425,
+        "fecha_vencimiento": "2033-09-13"
+      },
+      {
+        "id_posicion": "867264_R20260909",
+        "especie": "CDT BANCOLOMBIA B360 RES 274",
+        "nominal": 148787507.29816744,
+        "valor_mercado": 99662670.78542292,
+        "valor_tir": 154326237.74146062,
+        "tasa_compra": 6.378339622641516,
+        "fecha_vencimiento": "2037-06-09"
+      },
+      {
+        "id_posicion": "867437_R20260909",
+        "especie": "CDT BANCOLOMBIA B360 RES 274",
+        "nominal": 148787507.29816744,
+        "valor_mercado": 99662670.78542292,
+        "valor_tir": 154326237.74146062,
+        "tasa_compra": 6.378339622641516,
+        "fecha_vencimiento": "2037-06-09"
+      },
+      {
+        "id_posicion": "867440_R20260909",
+        "especie": "CDT BANCOLOMBIA B360 RES 274",
+        "nominal": 297575014.5963349,
+        "valor_mercado": 199325341.57084584,
+        "valor_tir": 308652475.48292124,
+        "tasa_compra": 6.378339622641516,
+        "fecha_vencimiento": "2037-06-09"
+      },
+      {
+        "id_posicion": "867513_R20260909",
+        "especie": "CDT BANCOLOMBIA B360 RES 274",
+        "nominal": 148787507.29816744,
+        "valor_mercado": 99662670.78542292,
+        "valor_tir": 154326237.74146062,
+        "tasa_compra": 6.378339622641516,
+        "fecha_vencimiento": "2037-06-09"
+      },
+      {
+        "id_posicion": "867615_R20260909",
+        "especie": "CDT BANCOLOMBIA B360 RES 274",
+        "nominal": 148787507.29816744,
+        "valor_mercado": 99662670.78542292,
+        "valor_tir": 154326237.74146062,
+        "tasa_compra": 6.378339622641516,
+        "fecha_vencimiento": "2037-06-09"
+      },
+      {
+        "id_posicion": "867635_R20260909",
+        "especie": "CDT BANCOLOMBIA B360 RES 274",
+        "nominal": 148787507.29816744,
+        "valor_mercado": 99662670.78542292,
+        "valor_tir": 154326237.74146062,
+        "tasa_compra": 6.378339622641516,
+        "fecha_vencimiento": "2037-06-09"
+      },
+      {
+        "id_posicion": "868249_R20260916",
+        "especie": "BO BANCOLOMBIA  B365",
+        "nominal": 54753754.92075712,
+        "valor_mercado": 33181799.377195835,
+        "valor_tir": 47376708.633293636,
+        "tasa_compra": 6.572018867924534,
+        "fecha_vencimiento": "2033-09-16"
+      },
+      {
+        "id_posicion": "868337_R20260916",
+        "especie": "BO BANCOLOMBIA  B365",
+        "nominal": 54753754.92075712,
+        "valor_mercado": 33181799.377195835,
+        "valor_tir": 47376708.633293636,
+        "tasa_compra": 6.572018867924534,
+        "fecha_vencimiento": "2033-09-16"
+      },
+      {
+        "id_posicion": "869700_R20260918",
+        "especie": "BN YANKEES",
+        "nominal": 88.48149165393141,
+        "valor_mercado": 371649.5030889026,
+        "valor_tir": 371649.5030889026,
+        "tasa_compra": 6.94388,
+        "fecha_vencimiento": "2037-09-18"
+      },
+      {
+        "id_posicion": "870205_R20260909",
+        "especie": "CDT BANCOLOMBIA B360 RES 274",
+        "nominal": 357090017.515602,
+        "valor_mercado": 239190409.8850151,
+        "valor_tir": 370382970.5795056,
+        "tasa_compra": 6.378339622641516,
+        "fecha_vencimiento": "2037-06-09"
+      },
+      {
+        "id_posicion": "870207_R20260909",
+        "especie": "CDT BANCOLOMBIA B360 RES 274",
+        "nominal": 119030005.838534,
+        "valor_mercado": 79730136.62833837,
+        "valor_tir": 123460990.19316855,
+        "tasa_compra": 6.378339622641516,
+        "fecha_vencimiento": "2037-06-09"
+      },
+      {
+        "id_posicion": "870591_R20260807_R20260907",
+        "especie": "TIPS N 22 2039 PESOS",
+        "nominal": 58394.60180643327,
+        "valor_mercado": 48394.81997192865,
+        "valor_tir": 48394.81997192865,
+        "tasa_compra": 14.18113,
+        "fecha_vencimiento": "2039-03-07"
+      },
+      {
+        "id_posicion": "870591_R20260907",
+        "especie": "TIPS N 22 2039 PESOS",
+        "nominal": 5535429.998544804,
+        "valor_mercado": 4587515.454506898,
+        "valor_tir": 4587515.454506898,
+        "tasa_compra": 14.18113,
+        "fecha_vencimiento": "2039-03-07"
+      },
+      {
+        "id_posicion": "870789_R20260909",
+        "especie": "CDT BANCOLOMBIA B360 RES 274",
+        "nominal": 148787507.29816744,
+        "valor_mercado": 99662670.78542292,
+        "valor_tir": 152655492.97702077,
+        "tasa_compra": 6.378339622641516,
+        "fecha_vencimiento": "2037-06-09"
+      },
+      {
+        "id_posicion": "870795_R20260902",
+        "especie": "CDT Bco ITAU CORPBANCA",
+        "nominal": 2219779.986107735,
+        "valor_mercado": 2154496.767265703,
+        "valor_tir": 2289307.868239202,
+        "tasa_compra": 6.141141509433945,
+        "fecha_vencimiento": "2027-12-02"
+      },
+      {
+        "id_posicion": "871187_R20260928",
+        "especie": "CDT BANCOLOMBIA B360 RES 274",
+        "nominal": 392056384.4115314,
+        "valor_mercado": 271938176.79947335,
+        "valor_tir": 421980571.46292096,
+        "tasa_compra": 6.547613207547176,
+        "fecha_vencimiento": "2037-09-28"
+      },
+      {
+        "id_posicion": "871189_R20260928",
+        "especie": "CDT BANCOLOMBIA B360 RES 274",
+        "nominal": 392056384.4115314,
+        "valor_mercado": 271938176.79947335,
+        "valor_tir": 421980571.46292096,
+        "tasa_compra": 6.547613207547176,
+        "fecha_vencimiento": "2037-09-28"
+      },
+      {
+        "id_posicion": "871322_R20260928",
+        "especie": "CDT BANCOLOMBIA B360 RES 274",
+        "nominal": 452372751.24407464,
+        "valor_mercado": 313774819.3840077,
+        "valor_tir": 486900659.38029337,
+        "tasa_compra": 6.547613207547176,
+        "fecha_vencimiento": "2037-09-28"
+      },
+      {
+        "id_posicion": "871548_R20260909",
+        "especie": "CDT BANCOLOMBIA B360 RES 274",
+        "nominal": 148787507.29816744,
+        "valor_mercado": 99662670.78542292,
+        "valor_tir": 154326237.74146062,
+        "tasa_compra": 6.378339622641516,
+        "fecha_vencimiento": "2037-06-09"
+      },
+      {
+        "id_posicion": "871679_R20260909",
+        "especie": "CDT BANCOLOMBIA B360 RES 274",
+        "nominal": 282696263.86651826,
+        "valor_mercado": 189359074.4923036,
+        "valor_tir": 293219851.7087753,
+        "tasa_compra": 6.378339622641516,
+        "fecha_vencimiento": "2037-06-09"
+      },
+      {
+        "id_posicion": "871902_R20260915",
+        "especie": "BUS$ PFZER INC",
+        "nominal": 115.45018849242527,
+        "valor_mercado": 412730.31845171755,
+        "valor_tir": 412730.31845171755,
+        "tasa_compra": 5.45329,
+        "fecha_vencimiento": "2038-09-15"
+      },
+      {
+        "id_posicion": "872071_R20260909",
+        "especie": "CDT BANCOLOMBIA B360 RES 274",
+        "nominal": 148787507.29816744,
+        "valor_mercado": 99662670.78542292,
+        "valor_tir": 154326237.74146062,
+        "tasa_compra": 6.378339622641516,
+        "fecha_vencimiento": "2037-06-09"
+      },
+      {
+        "id_posicion": "872073_R20260909",
+        "especie": "CDT BANCOLOMBIA B360 RES 274",
+        "nominal": 148787507.29816744,
+        "valor_mercado": 99662670.78542292,
+        "valor_tir": 154326237.74146062,
+        "tasa_compra": 6.378339622641516,
+        "fecha_vencimiento": "2037-06-09"
+      },
+      {
+        "id_posicion": "873664_R20260911",
+        "especie": "CDT BBVA BASE 360 RES274",
+        "nominal": 1095294.4771646303,
+        "valor_mercado": 1098614.5995014803,
+        "valor_tir": 1098614.5995014803,
+        "tasa_compra": 12.36719,
+        "fecha_vencimiento": "2026-12-11"
+      },
+      {
+        "id_posicion": "873695_R20260818_R20260918",
+        "especie": "TIPS N 23 2039 PESOS",
+        "nominal": 250493.55854493548,
+        "valor_mercado": 223851.7199512195,
+        "valor_tir": 223851.7199512195,
+        "tasa_compra": 13.61134,
+        "fecha_vencimiento": "2039-07-18"
+      },
+      {
+        "id_posicion": "873695_R20260918",
+        "especie": "TIPS N 23 2039 PESOS",
+        "nominal": 24145991.896572687,
+        "valor_mercado": 21577887.460951988,
+        "valor_tir": 21577887.460951988,
+        "tasa_compra": 13.61134,
+        "fecha_vencimiento": "2039-07-18"
+      },
+      {
+        "id_posicion": "873696_R20260818_R20260918",
+        "especie": "TIPS N 23 2039 PESOS",
+        "nominal": 250493.55854493548,
+        "valor_mercado": 223851.7199512195,
+        "valor_tir": 223851.7199512195,
+        "tasa_compra": 13.61134,
+        "fecha_vencimiento": "2039-07-18"
+      },
+      {
+        "id_posicion": "873696_R20260918",
+        "especie": "TIPS N 23 2039 PESOS",
+        "nominal": 24145991.896572687,
+        "valor_mercado": 21577887.460951988,
+        "valor_tir": 21577887.460951988,
+        "tasa_compra": 13.61134,
+        "fecha_vencimiento": "2039-07-18"
+      },
+      {
+        "id_posicion": "873697_R20260818_R20260918",
+        "especie": "TIPS N 23 2039 PESOS",
+        "nominal": 250493.55854493548,
+        "valor_mercado": 223851.7199512195,
+        "valor_tir": 223851.7199512195,
+        "tasa_compra": 13.61134,
+        "fecha_vencimiento": "2039-07-18"
+      },
+      {
+        "id_posicion": "873697_R20260918",
+        "especie": "TIPS N 23 2039 PESOS",
+        "nominal": 24145991.896572687,
+        "valor_mercado": 21577887.460951988,
+        "valor_tir": 21577887.460951988,
+        "tasa_compra": 13.61134,
+        "fecha_vencimiento": "2039-07-18"
+      },
+      {
+        "id_posicion": "873698_R20260818_R20260918",
+        "especie": "TIPS N 23 2039 PESOS",
+        "nominal": 250493.55854493548,
+        "valor_mercado": 223851.7199512195,
+        "valor_tir": 223851.7199512195,
+        "tasa_compra": 13.61134,
+        "fecha_vencimiento": "2039-07-18"
+      },
+      {
+        "id_posicion": "873698_R20260918",
+        "especie": "TIPS N 23 2039 PESOS",
+        "nominal": 24145991.896572687,
+        "valor_mercado": 21577887.460951988,
+        "valor_tir": 21577887.460951988,
+        "tasa_compra": 13.61134,
+        "fecha_vencimiento": "2039-07-18"
+      },
+      {
+        "id_posicion": "874300_R20260918",
+        "especie": "BN YANKEES",
+        "nominal": 88.48149165393141,
+        "valor_mercado": 371649.5030889026,
+        "valor_tir": 371649.5030889026,
+        "tasa_compra": 6.94388,
+        "fecha_vencimiento": "2037-09-18"
+      },
+      {
+        "id_posicion": "874365_R20260925",
+        "especie": "Bn ISA ESP",
+        "nominal": 289052884.73481846,
+        "valor_mercado": 235649323.68967572,
+        "valor_tir": 289053214.8125839,
+        "tasa_compra": 6.568952830188679,
+        "fecha_vencimiento": "2030-06-25"
+      },
+      {
+        "id_posicion": "874413_R20260909",
+        "especie": "CDT BANCOLOMBIA B360 RES 274",
+        "nominal": 148787507.29816744,
+        "valor_mercado": 99662670.78542292,
+        "valor_tir": 154326237.74146062,
+        "tasa_compra": 6.378339622641516,
+        "fecha_vencimiento": "2037-06-09"
+      },
+      {
+        "id_posicion": "874433_R20260909",
+        "especie": "CDT BANCOLOMBIA B360 RES 274",
+        "nominal": 297575014.5963349,
+        "valor_mercado": 199325341.57084584,
+        "valor_tir": 308652475.48292124,
+        "tasa_compra": 6.378339622641516,
+        "fecha_vencimiento": "2037-06-09"
+      },
+      {
+        "id_posicion": "874644_R20260918",
+        "especie": "BN YANKEES",
+        "nominal": 88.48149165393141,
+        "valor_mercado": 371649.5030889026,
+        "valor_tir": 371649.5030889026,
+        "tasa_compra": 6.94388,
+        "fecha_vencimiento": "2037-09-18"
+      },
+      {
+        "id_posicion": "875235_R20260907",
+        "especie": "BO ORGANIZACION TERPEL",
+        "nominal": 203934105.78654283,
+        "valor_mercado": 180004492.0889373,
+        "valor_tir": 197063765.61801785,
+        "tasa_compra": 6.316858490566024,
+        "fecha_vencimiento": "2028-06-07"
+      },
+      {
+        "id_posicion": "875753_R20260915",
+        "especie": "BUS$ PFZER INC",
+        "nominal": 115.45018849242527,
+        "valor_mercado": 412730.31845171755,
+        "valor_tir": 412730.31845171755,
+        "tasa_compra": 5.45329,
+        "fecha_vencimiento": "2038-09-15"
+      },
+      {
+        "id_posicion": "875767_R20260915",
+        "especie": "BN YANKEES",
+        "nominal": 57.5119631529185,
+        "valor_mercado": 226517.60037841543,
+        "valor_tir": 226517.60037841543,
+        "tasa_compra": 5.52503,
+        "fecha_vencimiento": "2029-03-15"
+      },
+      {
+        "id_posicion": "876478_R20260904",
+        "especie": "BN ESSA",
+        "nominal": 602690693.6718186,
+        "valor_mercado": 391363674.8338455,
+        "valor_tir": 593209061.2215556,
+        "tasa_compra": 6.608037735849059,
+        "fecha_vencimiento": "2036-12-04"
+      },
+      {
+        "id_posicion": "876482_R20260904",
+        "especie": "BN ESSA",
+        "nominal": 294856044.2243184,
+        "valor_mercado": 249038581.70577428,
+        "valor_tir": 293248934.30383414,
+        "tasa_compra": 6.664009433962237,
+        "fecha_vencimiento": "2029-12-04"
+      },
+      {
+        "id_posicion": "877096_R20260902",
+        "especie": "CDT Bco ITAU CORPBANCA",
+        "nominal": 2750149.4850626504,
+        "valor_mercado": 2669268.2212413396,
+        "valor_tir": 2836289.5847292985,
+        "tasa_compra": 6.141141509433945,
+        "fecha_vencimiento": "2027-12-02"
+      },
+      {
+        "id_posicion": "877104_R20260903",
+        "especie": "CDT BCO CAJA SOCIAL B360 R274",
+        "nominal": 268938.4901499847,
+        "valor_mercado": 260892.55514354137,
+        "valor_tir": 260892.55514354137,
+        "tasa_compra": 13.03121,
+        "fecha_vencimiento": "2029-12-03"
+      },
+      {
+        "id_posicion": "877584_R20260911",
+        "especie": "BO  PROMIGAS",
+        "nominal": 26500822.779206164,
+        "valor_mercado": 20914610.462352,
+        "valor_tir": 25060200.156751942,
+        "tasa_compra": 6.52950000000001,
+        "fecha_vencimiento": "2030-03-11"
+      },
+      {
+        "id_posicion": "877917_R20260902",
+        "especie": "CDT Bco ITAU CORPBANCA",
+        "nominal": 3397243.4815479796,
+        "valor_mercado": 3297331.332121654,
+        "valor_tir": 3503651.839959721,
+        "tasa_compra": 6.141141509433945,
+        "fecha_vencimiento": "2027-12-02"
+      },
+      {
+        "id_posicion": "877921_R20260903",
+        "especie": "CDT BCO CAJA SOCIAL B360 R274",
+        "nominal": 19652.346145469102,
+        "valor_mercado": 19064.49652053353,
+        "valor_tir": 19064.49652053353,
+        "tasa_compra": 13.03099,
+        "fecha_vencimiento": "2029-12-03"
+      },
+      {
+        "id_posicion": "877923_R20260903",
+        "especie": "CDT BCO CAJA SOCIAL B360 R274",
+        "nominal": 1108497.9096184936,
+        "valor_mercado": 1075334.5564272315,
+        "valor_tir": 1075334.5564272315,
+        "tasa_compra": 13.03121,
+        "fecha_vencimiento": "2029-12-03"
+      },
+      {
+        "id_posicion": "878125_R20260925",
+        "especie": "Bn ISA ESP",
+        "nominal": 28905288.47348185,
+        "valor_mercado": 23564932.368967578,
+        "valor_tir": 28905321.481258396,
+        "tasa_compra": 6.568952830188679,
+        "fecha_vencimiento": "2030-06-25"
+      },
+      {
+        "id_posicion": "878182_R20260925",
+        "especie": "BN ORDINARIO EEB",
+        "nominal": 57024151.71803156,
+        "valor_mercado": 31628548.964120816,
+        "valor_tir": 48278179.20015443,
+        "tasa_compra": 6.601537735849061,
+        "fecha_vencimiento": "2035-06-25"
+      },
+      {
+        "id_posicion": "878348_R20260916",
+        "especie": "CDT BANCOLOMBIA B360 RES 274",
+        "nominal": 93197696.35218973,
+        "valor_mercado": 75796586.71041895,
+        "valor_tir": 107606031.10687228,
+        "tasa_compra": 6.571283018867913,
+        "fecha_vencimiento": "2034-12-16"
+      },
+      {
+        "id_posicion": "878380_R20260907",
+        "especie": "BO ORGANIZACION TERPEL",
+        "nominal": 13742221.458267912,
+        "valor_mercado": 8572912.804127779,
+        "valor_tir": 11915929.561039142,
+        "tasa_compra": 6.611830188679235,
+        "fecha_vencimiento": "2033-06-07"
+      },
+      {
+        "id_posicion": "878409_R20260901",
+        "especie": "BN ORDINARIO EEB",
+        "nominal": 359788783.88912773,
+        "valor_mercado": 244283376.41446114,
+        "valor_tir": 325080087.2344345,
+        "tasa_compra": 6.497650943396227,
+        "fecha_vencimiento": "2032-03-01"
+      },
+      {
+        "id_posicion": "878669_R20260911",
+        "especie": "BO  PROMIGAS",
+        "nominal": 79502468.3376185,
+        "valor_mercado": 62743831.387056015,
+        "valor_tir": 76065171.17250738,
+        "tasa_compra": 6.52950000000001,
+        "fecha_vencimiento": "2030-03-11"
+      },
+      {
+        "id_posicion": "879257_R20260918",
+        "especie": "BN YANKEES",
+        "nominal": 88.48149165393141,
+        "valor_mercado": 371649.5030889026,
+        "valor_tir": 371649.5030889026,
+        "tasa_compra": 6.94388,
+        "fecha_vencimiento": "2037-09-18"
+      },
+      {
+        "id_posicion": "879433_R20260902",
+        "especie": "CDT Bco ITAU CORPBANCA",
+        "nominal": 7810176.9594148705,
+        "valor_mercado": 7580481.45137918,
+        "valor_tir": 8132229.372067464,
+        "tasa_compra": 6.141141509433945,
+        "fecha_vencimiento": "2027-12-02"
+      },
+      {
+        "id_posicion": "879439_R20260903",
+        "especie": "CDT BCO CAJA SOCIAL B360 R274",
+        "nominal": 118647.92080445506,
+        "valor_mercado": 115098.28587153828,
+        "valor_tir": 115098.28587153828,
+        "tasa_compra": 13.03121,
+        "fecha_vencimiento": "2029-12-03"
+      },
+      {
+        "id_posicion": "879792_R20260903",
+        "especie": "CDT BCO CAJA SOCIAL B360 R274",
+        "nominal": 16979.234171665626,
+        "valor_mercado": 16471.259970842922,
+        "valor_tir": 16471.259970842922,
+        "tasa_compra": 13.03121,
+        "fecha_vencimiento": "2029-12-03"
+      },
+      {
+        "id_posicion": "880277_R20260903",
+        "especie": "CDT BCO CAJA SOCIAL B360 R274",
+        "nominal": 112076.91058343215,
+        "valor_mercado": 108723.8630602816,
+        "valor_tir": 108723.8630602816,
+        "tasa_compra": 13.03121,
+        "fecha_vencimiento": "2029-12-03"
+      },
+      {
+        "id_posicion": "880887_R20260911",
+        "especie": "BO  PROMIGAS",
+        "nominal": 11925370.250642773,
+        "valor_mercado": 9411574.7080584,
+        "valor_tir": 11409775.675876105,
+        "tasa_compra": 6.52950000000001,
+        "fecha_vencimiento": "2030-03-11"
+      },
+      {
+        "id_posicion": "882356_R20260909",
+        "especie": "CDT BBVA BASE 360 RES274",
+        "nominal": 12316289.952695305,
+        "valor_mercado": 12207682.814123146,
+        "valor_tir": 12207682.814123146,
+        "tasa_compra": 12.96751,
+        "fecha_vencimiento": "2027-09-09"
+      },
+      {
+        "id_posicion": "882387_R20260911",
+        "especie": "BONO BID INVESTMENT",
+        "nominal": 252603982.1148454,
+        "valor_mercado": 243792642.4325959,
+        "valor_tir": 243792642.4325959,
+        "tasa_compra": 13.1059,
+        "fecha_vencimiento": "2028-09-11"
+      },
+      {
+        "id_posicion": "882750_R20260903",
+        "especie": "CDT BCO CAJA SOCIAL B360 R274",
+        "nominal": 19238.56988479123,
+        "valor_mercado": 18663.002278891378,
+        "valor_tir": 18663.002278891378,
+        "tasa_compra": 13.03121,
+        "fecha_vencimiento": "2029-12-03"
+      },
+      {
+        "id_posicion": "883367_R20260903",
+        "especie": "CDT BCO CAJA SOCIAL B360 R274",
+        "nominal": 103696.9333481241,
+        "valor_mercado": 100594.5927883136,
+        "valor_tir": 100594.5927883136,
+        "tasa_compra": 13.03121,
+        "fecha_vencimiento": "2029-12-03"
+      },
+      {
+        "id_posicion": "883872_R20260903",
+        "especie": "CDT BCO CAJA SOCIAL B360 R274",
+        "nominal": 1007783.6871131355,
+        "valor_mercado": 977633.4395879707,
+        "valor_tir": 977633.4395879707,
+        "tasa_compra": 13.03121,
+        "fecha_vencimiento": "2029-12-03"
+      },
+      {
+        "id_posicion": "884537_R20260903",
+        "especie": "CDT BCO CAJA SOCIAL B360 R274",
+        "nominal": 38305.097255498506,
+        "valor_mercado": 37159.1091049688,
+        "valor_tir": 37159.1091049688,
+        "tasa_compra": 13.03121,
+        "fecha_vencimiento": "2029-12-03"
+      },
+      {
+        "id_posicion": "885435_R20260903",
+        "especie": "CDT BCO CAJA SOCIAL B360 R274",
+        "nominal": 22537.931422493362,
+        "valor_mercado": 21863.655563712688,
+        "valor_tir": 21863.655563712688,
+        "tasa_compra": 13.03121,
+        "fecha_vencimiento": "2029-12-03"
+      },
+      {
+        "id_posicion": "885890_R20260903",
+        "especie": "CDT BCO CAJA SOCIAL B360 R274",
+        "nominal": 97259.06000563788,
+        "valor_mercado": 94349.80420876283,
+        "valor_tir": 94349.80420876283,
+        "tasa_compra": 13.03099,
+        "fecha_vencimiento": "2029-12-03"
+      },
+      {
+        "id_posicion": "885916_R20260903",
+        "especie": "CDT BCO CAJA SOCIAL B360 R274",
+        "nominal": 2314.6778655434173,
+        "valor_mercado": 2245.4287682623662,
+        "valor_tir": 2245.4287682623662,
+        "tasa_compra": 13.03121,
+        "fecha_vencimiento": "2029-12-03"
+      },
+      {
+        "id_posicion": "885989_R20260901",
+        "especie": "CDT BANCOLOMBIA B360 RES 274",
+        "nominal": 25630348.864094194,
+        "valor_mercado": 25753255.613823112,
+        "valor_tir": 25753255.613823112,
+        "tasa_compra": 12.76325,
+        "fecha_vencimiento": "2027-06-01"
+      },
+      {
+        "id_posicion": "886253_R20260906",
+        "especie": "CDT FINDETER B360",
+        "nominal": 143984825.1918189,
+        "valor_mercado": 136052665.17579532,
+        "valor_tir": 144754187.94735584,
+        "tasa_compra": 6.257028301886791,
+        "fecha_vencimiento": "2027-12-06"
+      },
+      {
+        "id_posicion": "886398_R20260920",
+        "especie": "CDT FINDETER B360",
+        "nominal": 17173806.19096924,
+        "valor_mercado": 17496303.651836045,
+        "valor_tir": 17496303.651836045,
+        "tasa_compra": 12.87305,
+        "fecha_vencimiento": "2027-09-20"
+      },
+      {
+        "id_posicion": "886974_R20260911",
+        "especie": "CDT BBVA BASE 360 RES274",
+        "nominal": 48628249.51968776,
+        "valor_mercado": 48775654.387326814,
+        "valor_tir": 48775654.387326814,
+        "tasa_compra": 12.36719,
+        "fecha_vencimiento": "2026-12-11"
+      },
+      {
+        "id_posicion": "887032_R20260911",
+        "especie": "CDT BBVA BASE 360 RES274",
+        "nominal": 234013.85690164016,
+        "valor_mercado": 234723.21374551184,
+        "valor_tir": 234723.21374551184,
+        "tasa_compra": 12.36719,
+        "fecha_vencimiento": "2026-12-11"
+      },
+      {
+        "id_posicion": "887132_R20260903",
+        "especie": "CDT BCO CAJA SOCIAL B360 R274",
+        "nominal": 78530.48642876174,
+        "valor_mercado": 76181.06002468763,
+        "valor_tir": 76181.06002468763,
+        "tasa_compra": 13.03121,
+        "fecha_vencimiento": "2029-12-03"
+      },
+      {
+        "id_posicion": "887285_R20260903",
+        "especie": "CDT BCO CAJA SOCIAL B360 R274",
+        "nominal": 414854271.67734486,
+        "valor_mercado": 402442918.7869505,
+        "valor_tir": 402442918.7869505,
+        "tasa_compra": 13.03121,
+        "fecha_vencimiento": "2029-12-03"
+      },
+      {
+        "id_posicion": "887294_R20260903",
+        "especie": "CDT BCO CAJA SOCIAL B360 R274",
+        "nominal": 29904.815828387447,
+        "valor_mercado": 29010.142089419565,
+        "valor_tir": 29010.142089419565,
+        "tasa_compra": 13.03121,
+        "fecha_vencimiento": "2029-12-03"
+      },
+      {
+        "id_posicion": "888092_R20260905",
+        "especie": "CDT BCO POPULAR RES 274",
+        "nominal": 64907507.69389524,
+        "valor_mercado": 67611872.51121062,
+        "valor_tir": 67611872.51121062,
+        "tasa_compra": 12.87333,
+        "fecha_vencimiento": "2029-06-05"
+      },
+      {
+        "id_posicion": "889079_R20260903",
+        "especie": "CDT BCO CAJA SOCIAL B360 R274",
+        "nominal": 42730.48392343919,
+        "valor_mercado": 41452.31088690835,
+        "valor_tir": 41452.31088690835,
+        "tasa_compra": 13.03099,
+        "fecha_vencimiento": "2029-12-03"
+      },
+      {
+        "id_posicion": "889080_R20260903",
+        "especie": "CDT BCO CAJA SOCIAL B360 R274",
+        "nominal": 417619825.4880951,
+        "valor_mercado": 405127797.51537204,
+        "valor_tir": 405127797.51537204,
+        "tasa_compra": 13.03099,
+        "fecha_vencimiento": "2029-12-03"
+      }
+    ]
+  },
+  {
+    "mes": 3,
+    "vm_total": 10949584846561.596,
+    "vtir_total": 12772662683844.357,
+    "pnl_mercado_mes": 66822974602.29669,
+    "pnl_tir_mes": 65937310125.34943,
+    "pnl_mercado_acum": -2097980720680.6565,
+    "pnl_tir_acum": -274902883397.8947,
+    "n_titulos": 1766,
+    "n_reinversiones_mes": 133,
+    "cupones_cobrados_mes": 29227981365.04577,
+    "reinversiones": [
+      {
+        "id_posicion": "772987_R20261031",
+        "especie": "BN EPM MEDELLIN ESP",
+        "nominal": 119669134.53434266,
+        "valor_mercado": 69749308.23983382,
+        "valor_tir": 101781335.85456295,
+        "tasa_compra": 7.391103773584895,
+        "fecha_vencimiento": "2034-07-31"
+      },
+      {
+        "id_posicion": "772989_R20261031",
+        "especie": "BN EPM MEDELLIN ESP",
+        "nominal": 29917283.633585665,
+        "valor_mercado": 17437327.059958454,
+        "valor_tir": 25445333.96364074,
+        "tasa_compra": 7.391103773584895,
+        "fecha_vencimiento": "2034-07-31"
+      },
+      {
+        "id_posicion": "772991_R20261031",
+        "especie": "BN EPM MEDELLIN ESP",
+        "nominal": 59834567.26717133,
+        "valor_mercado": 34874654.11991691,
+        "valor_tir": 50890667.92728148,
+        "tasa_compra": 7.391103773584895,
+        "fecha_vencimiento": "2034-07-31"
+      },
+      {
+        "id_posicion": "772993_R20261031",
+        "especie": "BN EPM MEDELLIN ESP",
+        "nominal": 59834567.26717133,
+        "valor_mercado": 34874654.11991691,
+        "valor_tir": 50890667.92728148,
+        "tasa_compra": 7.391103773584895,
+        "fecha_vencimiento": "2034-07-31"
+      },
+      {
+        "id_posicion": "772995_R20261031",
+        "especie": "BN EPM MEDELLIN ESP",
+        "nominal": 149586418.1679283,
+        "valor_mercado": 87186635.29979227,
+        "valor_tir": 127226669.81820366,
+        "tasa_compra": 7.391103773584895,
+        "fecha_vencimiento": "2034-07-31"
+      },
+      {
+        "id_posicion": "772997_R20261031",
+        "especie": "BN EPM MEDELLIN ESP",
+        "nominal": 119669134.53434266,
+        "valor_mercado": 69749308.23983382,
+        "valor_tir": 101781335.85456295,
+        "tasa_compra": 7.391103773584895,
+        "fecha_vencimiento": "2034-07-31"
+      },
+      {
+        "id_posicion": "772999_R20261031",
+        "especie": "BN EPM MEDELLIN ESP",
+        "nominal": 89751850.90075701,
+        "valor_mercado": 52311981.17987538,
+        "valor_tir": 76336001.89092205,
+        "tasa_compra": 7.391103773584895,
+        "fecha_vencimiento": "2034-07-31"
+      },
+      {
+        "id_posicion": "773001_R20261031",
+        "especie": "BN EPM MEDELLIN ESP",
+        "nominal": 119669134.53434266,
+        "valor_mercado": 69749308.23983382,
+        "valor_tir": 101781335.85456295,
+        "tasa_compra": 7.391103773584895,
+        "fecha_vencimiento": "2034-07-31"
+      },
+      {
+        "id_posicion": "773003_R20261031",
+        "especie": "BN EPM MEDELLIN ESP",
+        "nominal": 59834567.26717133,
+        "valor_mercado": 34874654.11991691,
+        "valor_tir": 50890667.92728148,
+        "tasa_compra": 7.391103773584895,
+        "fecha_vencimiento": "2034-07-31"
+      },
+      {
+        "id_posicion": "773076_R20261031",
+        "especie": "BN EPM MEDELLIN ESP",
+        "nominal": 89751850.90075701,
+        "valor_mercado": 52311981.17987538,
+        "valor_tir": 76336001.89092205,
+        "tasa_compra": 7.391103773584895,
+        "fecha_vencimiento": "2034-07-31"
+      },
+      {
+        "id_posicion": "806321_R20260811_R20260911_R20261011",
+        "especie": "BONOS HIP CREDIFAMILIA",
+        "nominal": 0.12103522441263312,
+        "valor_mercado": 45.44823052252364,
+        "valor_tir": 45.44823052252364,
+        "tasa_compra": 7.56247,
+        "fecha_vencimiento": "2030-12-11"
+      },
+      {
+        "id_posicion": "806321_R20260811_R20261011",
+        "especie": "BONOS HIP CREDIFAMILIA",
+        "nominal": 28.090194982786848,
+        "valor_mercado": 10547.75304623703,
+        "valor_tir": 10547.75304623703,
+        "tasa_compra": 7.56247,
+        "fecha_vencimiento": "2030-12-11"
+      },
+      {
+        "id_posicion": "806321_R20260911_R20261011",
+        "especie": "BONOS HIP CREDIFAMILIA",
+        "nominal": 28.039716738653173,
+        "valor_mercado": 10528.798672525636,
+        "valor_tir": 10528.798672525636,
+        "tasa_compra": 7.56247,
+        "fecha_vencimiento": "2030-12-11"
+      },
+      {
+        "id_posicion": "806321_R20261011",
+        "especie": "BONOS HIP CREDIFAMILIA",
+        "nominal": 6507.536250485681,
+        "valor_mercado": 2443553.181158746,
+        "valor_tir": 2443553.181158746,
+        "tasa_compra": 7.56247,
+        "fecha_vencimiento": "2030-12-11"
+      },
+      {
+        "id_posicion": "809636_R20261018",
+        "especie": "Bn ISA ESP",
+        "nominal": 155859064.3278842,
+        "valor_mercado": 66890739.12056882,
+        "valor_tir": 119993865.89961113,
+        "tasa_compra": 6.515839622641484,
+        "fecha_vencimiento": "2042-04-18"
+      },
+      {
+        "id_posicion": "812413_R20261001",
+        "especie": "BO GRUPO AVAL B365",
+        "nominal": 42885048.696068555,
+        "valor_mercado": 18463211.243067592,
+        "valor_tir": 33229746.29830112,
+        "tasa_compra": 6.442424528301882,
+        "fecha_vencimiento": "2042-07-01"
+      },
+      {
+        "id_posicion": "813496_R20261019",
+        "especie": "Bn ISA ESP",
+        "nominal": 53361947.39408139,
+        "valor_mercado": 35455944.66415298,
+        "valor_tir": 47064864.06794803,
+        "tasa_compra": 6.565877358490568,
+        "fecha_vencimiento": "2032-04-19"
+      },
+      {
+        "id_posicion": "814201_R20261026",
+        "especie": "BO OCCIDENTE 365",
+        "nominal": 12376354.256170202,
+        "valor_mercado": 10606396.239788938,
+        "valor_tir": 11860795.80853657,
+        "tasa_compra": 6.308707547169812,
+        "fecha_vencimiento": "2028-10-26"
+      },
+      {
+        "id_posicion": "820214_R20261014",
+        "especie": "BONOS CEMENTOS ARGOS",
+        "nominal": 81524023.7680304,
+        "valor_mercado": 59772813.39466473,
+        "valor_tir": 75476571.68491791,
+        "tasa_compra": 6.607886792452833,
+        "fecha_vencimiento": "2031-04-14"
+      },
+      {
+        "id_posicion": "820216_R20261014",
+        "especie": "BONOS CEMENTOS ARGOS",
+        "nominal": 135873372.94671735,
+        "valor_mercado": 99621355.65777457,
+        "valor_tir": 125794286.14152984,
+        "tasa_compra": 6.607886792452833,
+        "fecha_vencimiento": "2031-04-14"
+      },
+      {
+        "id_posicion": "823993_R20261027",
+        "especie": "Bn ISA ESP",
+        "nominal": 125412292.01689748,
+        "valor_mercado": 52704377.766579956,
+        "valor_tir": 97549048.40916462,
+        "tasa_compra": 6.462716981132077,
+        "fecha_vencimiento": "2043-07-27"
+      },
+      {
+        "id_posicion": "823996_R20261027",
+        "especie": "Bn ISA ESP",
+        "nominal": 31353073.00422437,
+        "valor_mercado": 13176094.441644989,
+        "valor_tir": 24387262.102291156,
+        "tasa_compra": 6.462716981132077,
+        "fecha_vencimiento": "2043-07-27"
+      },
+      {
+        "id_posicion": "831487_R20261025",
+        "especie": "BN ORD EPSA",
+        "nominal": 153637721.18461338,
+        "valor_mercado": 70649098.49425596,
+        "valor_tir": 120234411.54549715,
+        "tasa_compra": 6.766509433962242,
+        "fecha_vencimiento": "2039-04-25"
+      },
+      {
+        "id_posicion": "831488_R20261025",
+        "especie": "BN ORD EPSA",
+        "nominal": 460913163.55384016,
+        "valor_mercado": 211947295.48276788,
+        "valor_tir": 360703234.6364915,
+        "tasa_compra": 6.766509433962242,
+        "fecha_vencimiento": "2039-04-25"
+      },
+      {
+        "id_posicion": "831489_R20261025",
+        "especie": "BN ORD EPSA",
+        "nominal": 614550884.7384535,
+        "valor_mercado": 282596393.97702384,
+        "valor_tir": 480937646.1819886,
+        "tasa_compra": 6.766509433962242,
+        "fecha_vencimiento": "2039-04-25"
+      },
+      {
+        "id_posicion": "835789_R20261024",
+        "especie": "Bono Distrito de Bogot\u00e1",
+        "nominal": 1396904.2844191773,
+        "valor_mercado": 398641979.23740804,
+        "valor_tir": 398641979.23740804,
+        "tasa_compra": 6.99744,
+        "fecha_vencimiento": "2039-10-24"
+      },
+      {
+        "id_posicion": "835899_R20261026",
+        "especie": "Bono Distrito de Bogot\u00e1",
+        "nominal": 3130817.3529302296,
+        "valor_mercado": 792797154.1331985,
+        "valor_tir": 792797154.1331985,
+        "tasa_compra": 6.95177,
+        "fecha_vencimiento": "2048-10-26"
+      },
+      {
+        "id_posicion": "835901_R20261026",
+        "especie": "Bono Distrito de Bogot\u00e1",
+        "nominal": 2068575.7510431872,
+        "valor_mercado": 523812405.40943474,
+        "valor_tir": 523812405.40943474,
+        "tasa_compra": 6.95177,
+        "fecha_vencimiento": "2048-10-26"
+      },
+      {
+        "id_posicion": "835903_R20261026",
+        "especie": "Bono Distrito de Bogot\u00e1",
+        "nominal": 2068575.7510431872,
+        "valor_mercado": 523812405.40943474,
+        "valor_tir": 523812405.40943474,
+        "tasa_compra": 6.95177,
+        "fecha_vencimiento": "2048-10-26"
+      },
+      {
+        "id_posicion": "835905_R20261026",
+        "especie": "Bono Distrito de Bogot\u00e1",
+        "nominal": 3074909.9001993327,
+        "valor_mercado": 778640062.0951058,
+        "valor_tir": 778640062.0951058,
+        "tasa_compra": 6.95177,
+        "fecha_vencimiento": "2048-10-26"
+      },
+      {
+        "id_posicion": "840200_R20261024",
+        "especie": "Bono Distrito de Bogot\u00e1",
+        "nominal": 104403557.9130912,
+        "valor_mercado": 80079206.68451661,
+        "valor_tir": 95460448.28235891,
+        "tasa_compra": 6.437471698113217,
+        "fecha_vencimiento": "2029-10-24"
+      },
+      {
+        "id_posicion": "840229_R20261022",
+        "especie": "BN ORD EPSA",
+        "nominal": 132237701.24733862,
+        "valor_mercado": 108722688.0635181,
+        "valor_tir": 131654545.30717538,
+        "tasa_compra": 6.709103773584912,
+        "fecha_vencimiento": "2030-04-22"
+      },
+      {
+        "id_posicion": "840241_R20261024",
+        "especie": "Bono Distrito de Bogot\u00e1",
+        "nominal": 81202767.2657376,
+        "valor_mercado": 62283827.421290696,
+        "valor_tir": 74247015.3307236,
+        "tasa_compra": 6.437471698113217,
+        "fecha_vencimiento": "2029-10-24"
+      },
+      {
+        "id_posicion": "840335_R20261019",
+        "especie": "Bn ISA ESP",
+        "nominal": 266809736.97040692,
+        "valor_mercado": 177279723.32076484,
+        "valor_tir": 237352460.5470529,
+        "tasa_compra": 6.565877358490568,
+        "fecha_vencimiento": "2032-04-19"
+      },
+      {
+        "id_posicion": "840337_R20261019",
+        "especie": "Bn ISA ESP",
+        "nominal": 213447789.57632557,
+        "valor_mercado": 141823778.65661192,
+        "valor_tir": 189881968.437642,
+        "tasa_compra": 6.565877358490568,
+        "fecha_vencimiento": "2032-04-19"
+      },
+      {
+        "id_posicion": "840940_R20261002",
+        "especie": "CDT CORFICOL B360 R274",
+        "nominal": 390576559.82241493,
+        "valor_mercado": 272460529.1489368,
+        "valor_tir": 360953019.8015989,
+        "tasa_compra": 6.506471698113181,
+        "fecha_vencimiento": "2032-04-02"
+      },
+      {
+        "id_posicion": "840942_R20261002",
+        "especie": "CDT CORFICOL B360 R274",
+        "nominal": 167389954.20960638,
+        "valor_mercado": 116768798.2066872,
+        "valor_tir": 154694151.3435424,
+        "tasa_compra": 6.506471698113181,
+        "fecha_vencimiento": "2032-04-02"
+      },
+      {
+        "id_posicion": "840944_R20261002",
+        "especie": "CDT CORFICOL B360 R274",
+        "nominal": 409468374.7762018,
+        "valor_mercado": 244174390.07541576,
+        "valor_tir": 362773032.22734755,
+        "tasa_compra": 6.605867924528286,
+        "fecha_vencimiento": "2035-04-02"
+      },
+      {
+        "id_posicion": "840946_R20261002",
+        "especie": "CDT CORFICOL B360 R274",
+        "nominal": 175486446.3326579,
+        "valor_mercado": 104646167.17517819,
+        "valor_tir": 155474156.66886324,
+        "tasa_compra": 6.605867924528286,
+        "fecha_vencimiento": "2035-04-02"
+      },
+      {
+        "id_posicion": "840948_R20261002",
+        "especie": "CDT CORFICOL B360 R274",
+        "nominal": 417937833.68372715,
+        "valor_mercado": 213414116.17905873,
+        "valor_tir": 364439053.66898817,
+        "tasa_compra": 6.238735849056587,
+        "fecha_vencimiento": "2040-04-02"
+      },
+      {
+        "id_posicion": "840950_R20261002",
+        "especie": "CDT CORFICOL B360 R274",
+        "nominal": 179116214.43588305,
+        "valor_mercado": 91463192.64816801,
+        "valor_tir": 155283809.80136085,
+        "tasa_compra": 6.238735849056587,
+        "fecha_vencimiento": "2040-04-02"
+      },
+      {
+        "id_posicion": "841486_R20261020",
+        "especie": "BN ORD EPSA",
+        "nominal": 168498956.68504032,
+        "valor_mercado": 162711875.1825987,
+        "valor_tir": 168442037.09791514,
+        "tasa_compra": 5.95719811320754,
+        "fecha_vencimiento": "2027-04-20"
+      },
+      {
+        "id_posicion": "843515_R20261027",
+        "especie": "BO OCCIDENTE 365",
+        "nominal": 122981683.55541821,
+        "valor_mercado": 100670385.87893297,
+        "valor_tir": 115669420.16732763,
+        "tasa_compra": 6.418283018867932,
+        "fecha_vencimiento": "2029-04-27"
+      },
+      {
+        "id_posicion": "844327_R20261026",
+        "especie": "TFIT31261050",
+        "nominal": 1152423177.1661637,
+        "valor_mercado": 726128314.4842998,
+        "valor_tir": 726128314.4842998,
+        "tasa_compra": 12.02162,
+        "fecha_vencimiento": "2050-10-26"
+      },
+      {
+        "id_posicion": "844859_R20261001",
+        "especie": "BONO ORD FDN UVR",
+        "nominal": 2878402.359846365,
+        "valor_mercado": 932510543.5549432,
+        "valor_tir": 932510543.5549432,
+        "tasa_compra": 6.51471,
+        "fecha_vencimiento": "2035-10-01"
+      },
+      {
+        "id_posicion": "845376_R20261029",
+        "especie": "CDT CORFICOLOMBIANA UVR",
+        "nominal": 1630121.0819395264,
+        "valor_mercado": 583987291.3384551,
+        "valor_tir": 583987291.3384551,
+        "tasa_compra": 6.52778,
+        "fecha_vencimiento": "2030-10-29"
+      },
+      {
+        "id_posicion": "845377_R20261029",
+        "especie": "CDT CORFICOLOMBIANA UVR",
+        "nominal": 595621.1645548273,
+        "valor_mercado": 213379971.83520484,
+        "valor_tir": 213379971.83520484,
+        "tasa_compra": 6.52778,
+        "fecha_vencimiento": "2030-10-29"
+      },
+      {
+        "id_posicion": "847920_R20261018",
+        "especie": "Bn ISA ESP",
+        "nominal": 155859064.3278842,
+        "valor_mercado": 66890739.12056882,
+        "valor_tir": 121084705.84617402,
+        "tasa_compra": 6.515839622641484,
+        "fecha_vencimiento": "2042-04-18"
+      },
+      {
+        "id_posicion": "848017_R20261026",
+        "especie": "TFIT31261050",
+        "nominal": 576211588.5830818,
+        "valor_mercado": 363064157.2421499,
+        "valor_tir": 363064157.2421499,
+        "tasa_compra": 12.02162,
+        "fecha_vencimiento": "2050-10-26"
+      },
+      {
+        "id_posicion": "848203_R20261026",
+        "especie": "TFIT31261050",
+        "nominal": 576211588.5830818,
+        "valor_mercado": 363064157.2421499,
+        "valor_tir": 363064157.2421499,
+        "tasa_compra": 12.02162,
+        "fecha_vencimiento": "2050-10-26"
+      },
+      {
+        "id_posicion": "848273_R20261026",
+        "especie": "TFIT31261050",
+        "nominal": 576211588.5830818,
+        "valor_mercado": 363064157.2421499,
+        "valor_tir": 363064157.2421499,
+        "tasa_compra": 12.02162,
+        "fecha_vencimiento": "2050-10-26"
+      },
+      {
+        "id_posicion": "848277_R20261026",
+        "especie": "TFIT31261050",
+        "nominal": 576211588.5830818,
+        "valor_mercado": 363064157.2421499,
+        "valor_tir": 363064157.2421499,
+        "tasa_compra": 12.02162,
+        "fecha_vencimiento": "2050-10-26"
+      },
+      {
+        "id_posicion": "848294_R20261026",
+        "especie": "TFIT31261050",
+        "nominal": 172863476.57492453,
+        "valor_mercado": 108919247.17264496,
+        "valor_tir": 108919247.17264496,
+        "tasa_compra": 12.02162,
+        "fecha_vencimiento": "2050-10-26"
+      },
+      {
+        "id_posicion": "848350_R20261018",
+        "especie": "Bn ISA ESP",
+        "nominal": 311718128.6557684,
+        "valor_mercado": 133781478.24113764,
+        "valor_tir": 242169411.69234803,
+        "tasa_compra": 6.515839622641484,
+        "fecha_vencimiento": "2042-04-18"
+      },
+      {
+        "id_posicion": "848507_R20261026",
+        "especie": "TFIT31261050",
+        "nominal": 230484635.43323272,
+        "valor_mercado": 145225662.89685994,
+        "valor_tir": 145225662.89685994,
+        "tasa_compra": 12.02162,
+        "fecha_vencimiento": "2050-10-26"
+      },
+      {
+        "id_posicion": "848508_R20261026",
+        "especie": "TFIT31261050",
+        "nominal": 230484635.43323272,
+        "valor_mercado": 145225662.89685994,
+        "valor_tir": 145225662.89685994,
+        "tasa_compra": 12.02162,
+        "fecha_vencimiento": "2050-10-26"
+      },
+      {
+        "id_posicion": "849098_R20261026",
+        "especie": "TFIT31261050",
+        "nominal": 576211588.5830818,
+        "valor_mercado": 363064157.2421499,
+        "valor_tir": 363064157.2421499,
+        "tasa_compra": 12.02162,
+        "fecha_vencimiento": "2050-10-26"
+      },
+      {
+        "id_posicion": "849100_R20261026",
+        "especie": "TFIT31261050",
+        "nominal": 576211588.5830818,
+        "valor_mercado": 363064157.2421499,
+        "valor_tir": 363064157.2421499,
+        "tasa_compra": 12.02162,
+        "fecha_vencimiento": "2050-10-26"
+      },
+      {
+        "id_posicion": "849389_R20261026",
+        "especie": "TFIT31261050",
+        "nominal": 115242317.71661636,
+        "valor_mercado": 72612831.44842997,
+        "valor_tir": 72612831.44842997,
+        "tasa_compra": 12.02162,
+        "fecha_vencimiento": "2050-10-26"
+      },
+      {
+        "id_posicion": "850055_R20261027",
+        "especie": "BO OCCIDENTE 365",
+        "nominal": 27319.544726387972,
+        "valor_mercado": 22363.241664380977,
+        "valor_tir": 25695.175138114686,
+        "tasa_compra": 6.418283018867932,
+        "fecha_vencimiento": "2029-04-27"
+      },
+      {
+        "id_posicion": "850433_R20261001",
+        "especie": "BN ORD ITAU CORPBANCA",
+        "nominal": 52224754.15379076,
+        "valor_mercado": 36549950.638881765,
+        "valor_tir": 47031478.12290865,
+        "tasa_compra": 6.552669811320744,
+        "fecha_vencimiento": "2031-07-01"
+      },
+      {
+        "id_posicion": "850436_R20261001",
+        "especie": "BN ORD ITAU CORPBANCA",
+        "nominal": 287236147.8458491,
+        "valor_mercado": 201024728.51384965,
+        "valor_tir": 258673129.6759975,
+        "tasa_compra": 6.552669811320744,
+        "fecha_vencimiento": "2031-07-01"
+      },
+      {
+        "id_posicion": "850788_R20261025",
+        "especie": "Bn ISA ESP",
+        "nominal": 23102390.90743822,
+        "valor_mercado": 21780398.865135428,
+        "valor_tir": 22726183.48806468,
+        "tasa_compra": 5.96228301886792,
+        "fecha_vencimiento": "2027-07-25"
+      },
+      {
+        "id_posicion": "851756_R20261026",
+        "especie": "TFIT31261050",
+        "nominal": 230484635.43323272,
+        "valor_mercado": 145225662.89685994,
+        "valor_tir": 145225662.89685994,
+        "tasa_compra": 12.02162,
+        "fecha_vencimiento": "2050-10-26"
+      },
+      {
+        "id_posicion": "851869_R20261026",
+        "especie": "TFIT31261050",
+        "nominal": 576211588.5830818,
+        "valor_mercado": 363064157.2421499,
+        "valor_tir": 363064157.2421499,
+        "tasa_compra": 12.02162,
+        "fecha_vencimiento": "2050-10-26"
+      },
+      {
+        "id_posicion": "851932_R20261026",
+        "especie": "TFIT31261050",
+        "nominal": 576211588.5830818,
+        "valor_mercado": 363064157.2421499,
+        "valor_tir": 363064157.2421499,
+        "tasa_compra": 12.02162,
+        "fecha_vencimiento": "2050-10-26"
+      },
+      {
+        "id_posicion": "852217_R20261026",
+        "especie": "TFIT31261050",
+        "nominal": 576211588.5830818,
+        "valor_mercado": 363064157.2421499,
+        "valor_tir": 363064157.2421499,
+        "tasa_compra": 12.02162,
+        "fecha_vencimiento": "2050-10-26"
+      },
+      {
+        "id_posicion": "852477_R20261026",
+        "especie": "TFIT31261050",
+        "nominal": 460969270.86646545,
+        "valor_mercado": 290451325.7937199,
+        "valor_tir": 290451325.7937199,
+        "tasa_compra": 12.02162,
+        "fecha_vencimiento": "2050-10-26"
+      },
+      {
+        "id_posicion": "852872_R20261026",
+        "especie": "TFIT31261050",
+        "nominal": 115242317.71661636,
+        "valor_mercado": 72612831.44842997,
+        "valor_tir": 72612831.44842997,
+        "tasa_compra": 12.02162,
+        "fecha_vencimiento": "2050-10-26"
+      },
+      {
+        "id_posicion": "852948_R20261020",
+        "especie": "BN SOCIALES CORFICOL  B365",
+        "nominal": 139959629.58177352,
+        "valor_mercado": 86416913.01993683,
+        "valor_tir": 122864462.96273118,
+        "tasa_compra": 6.662867924528282,
+        "fecha_vencimiento": "2033-10-20"
+      },
+      {
+        "id_posicion": "853021_R20261026",
+        "especie": "TFIT31261050",
+        "nominal": 115242317.71661636,
+        "valor_mercado": 72612831.44842997,
+        "valor_tir": 72612831.44842997,
+        "tasa_compra": 12.02162,
+        "fecha_vencimiento": "2050-10-26"
+      },
+      {
+        "id_posicion": "853063_R20261026",
+        "especie": "TFIT31261050",
+        "nominal": 345726953.14984906,
+        "valor_mercado": 217838494.34528992,
+        "valor_tir": 217838494.34528992,
+        "tasa_compra": 12.02162,
+        "fecha_vencimiento": "2050-10-26"
+      },
+      {
+        "id_posicion": "853188_R20261026",
+        "especie": "TFIT31261050",
+        "nominal": 115242317.71661636,
+        "valor_mercado": 72612831.44842997,
+        "valor_tir": 72612831.44842997,
+        "tasa_compra": 12.02162,
+        "fecha_vencimiento": "2050-10-26"
+      },
+      {
+        "id_posicion": "853662_R20261026",
+        "especie": "TFIT31261050",
+        "nominal": 115242317.71661636,
+        "valor_mercado": 72612831.44842997,
+        "valor_tir": 72612831.44842997,
+        "tasa_compra": 12.02162,
+        "fecha_vencimiento": "2050-10-26"
+      },
+      {
+        "id_posicion": "854839_R20261026",
+        "especie": "TFIT31261050",
+        "nominal": 172863476.57492453,
+        "valor_mercado": 108919247.17264496,
+        "valor_tir": 108919247.17264496,
+        "tasa_compra": 12.02162,
+        "fecha_vencimiento": "2050-10-26"
+      },
+      {
+        "id_posicion": "857341_R20261025",
+        "especie": "BN ORD EPSA",
+        "nominal": 76818860.59230669,
+        "valor_mercado": 35324549.24712798,
+        "valor_tir": 60117205.772748575,
+        "tasa_compra": 6.766509433962242,
+        "fecha_vencimiento": "2039-04-25"
+      },
+      {
+        "id_posicion": "858333_R20261009",
+        "especie": "CDT BANCOLOMBIA B360 RES 274",
+        "nominal": 303623132.67470354,
+        "valor_mercado": 210543441.38299656,
+        "valor_tir": 308200068.04620683,
+        "tasa_compra": 6.637462264150917,
+        "fecha_vencimiento": "2035-07-09"
+      },
+      {
+        "id_posicion": "860735_R20261001",
+        "especie": "BONO FDN 365",
+        "nominal": 123126.09641355491,
+        "valor_mercado": 86074.64795897897,
+        "valor_tir": 107315.66110101582,
+        "tasa_compra": 6.821886792452814,
+        "fecha_vencimiento": "2030-10-01"
+      },
+      {
+        "id_posicion": "860986_R20261026",
+        "especie": "CDT CORFICOL B360 R274",
+        "nominal": 22284442.48074714,
+        "valor_mercado": 20915104.939368244,
+        "valor_tir": 22012227.661155432,
+        "tasa_compra": 6.031235849056604,
+        "fecha_vencimiento": "2027-07-26"
+      },
+      {
+        "id_posicion": "861581_R20261005",
+        "especie": "BO UNE EPM TELCO B365",
+        "nominal": 117576245.17607102,
+        "valor_mercado": 113805321.02858484,
+        "valor_tir": 119935734.69444065,
+        "tasa_compra": 6.811849056603769,
+        "fecha_vencimiento": "2027-10-05"
+      },
+      {
+        "id_posicion": "863524_R20261015",
+        "especie": "BONO General Motors CO",
+        "nominal": 34.335840127619456,
+        "valor_mercado": 140300.93715751535,
+        "valor_tir": 140300.93715751535,
+        "tasa_compra": 5.28847,
+        "fecha_vencimiento": "2032-10-15"
+      },
+      {
+        "id_posicion": "863593_R20261015",
+        "especie": "BONO General Motors CO",
+        "nominal": 34.335840127619456,
+        "valor_mercado": 140300.93715751535,
+        "valor_tir": 140300.93715751535,
+        "tasa_compra": 5.28847,
+        "fecha_vencimiento": "2032-10-15"
+      },
+      {
+        "id_posicion": "863805_R20261015",
+        "especie": "BONO General Motors CO",
+        "nominal": 34.335840127619456,
+        "valor_mercado": 140300.93715751535,
+        "valor_tir": 140300.93715751535,
+        "tasa_compra": 5.28847,
+        "fecha_vencimiento": "2032-10-15"
+      },
+      {
+        "id_posicion": "863827_R20261015",
+        "especie": "BONO General Motors CO",
+        "nominal": 34.335840127619456,
+        "valor_mercado": 140300.93715751535,
+        "valor_tir": 140300.93715751535,
+        "tasa_compra": 5.28847,
+        "fecha_vencimiento": "2032-10-15"
+      },
+      {
+        "id_posicion": "865392_R20261015",
+        "especie": "BONO General Motors CO",
+        "nominal": 20.60150407657167,
+        "valor_mercado": 84180.56229450919,
+        "valor_tir": 84180.56229450919,
+        "tasa_compra": 5.28847,
+        "fecha_vencimiento": "2032-10-15"
+      },
+      {
+        "id_posicion": "865890_R20261012",
+        "especie": "CDT CORFICOL B360 R274",
+        "nominal": 294204058.38208914,
+        "valor_mercado": 200899668.44969124,
+        "valor_tir": 278824916.8859741,
+        "tasa_compra": 6.653830188679244,
+        "fecha_vencimiento": "2033-07-12"
+      },
+      {
+        "id_posicion": "866122_R20261026",
+        "especie": "CDT BANCOLOMBIA B360 RES 274",
+        "nominal": 302385732.65968466,
+        "valor_mercado": 171898644.7057091,
+        "valor_tir": 278826596.7696084,
+        "tasa_compra": 6.571943396226421,
+        "fecha_vencimiento": "2038-07-26"
+      },
+      {
+        "id_posicion": "866124_R20261026",
+        "especie": "CDT BANCOLOMBIA B360 RES 274",
+        "nominal": 302385732.65968466,
+        "valor_mercado": 171898644.7057091,
+        "valor_tir": 278826596.7696084,
+        "tasa_compra": 6.571943396226421,
+        "fecha_vencimiento": "2038-07-26"
+      },
+      {
+        "id_posicion": "866126_R20261026",
+        "especie": "CDT BANCOLOMBIA B360 RES 274",
+        "nominal": 302385732.65968466,
+        "valor_mercado": 171898644.7057091,
+        "valor_tir": 278826596.7696084,
+        "tasa_compra": 6.571943396226421,
+        "fecha_vencimiento": "2038-07-26"
+      },
+      {
+        "id_posicion": "866138_R20261026",
+        "especie": "CDT BANCOLOMBIA B360 RES 274",
+        "nominal": 604771929.2506902,
+        "valor_mercado": 343797323.3313128,
+        "valor_tir": 557653199.1070108,
+        "tasa_compra": 6.571952830188654,
+        "fecha_vencimiento": "2038-07-26"
+      },
+      {
+        "id_posicion": "866140_R20261026",
+        "especie": "CDT BANCOLOMBIA B360 RES 274",
+        "nominal": 302385964.6253451,
+        "valor_mercado": 171898661.6656564,
+        "valor_tir": 278826599.5535054,
+        "tasa_compra": 6.571952830188654,
+        "fecha_vencimiento": "2038-07-26"
+      },
+      {
+        "id_posicion": "866142_R20261026",
+        "especie": "CDT BANCOLOMBIA B360 RES 274",
+        "nominal": 604771929.2506902,
+        "valor_mercado": 343797323.3313128,
+        "valor_tir": 557653199.1070108,
+        "tasa_compra": 6.571952830188654,
+        "fecha_vencimiento": "2038-07-26"
+      },
+      {
+        "id_posicion": "866300_R20261001",
+        "especie": "BONO FDN 365",
+        "nominal": 118008036.91673551,
+        "valor_mercado": 82496729.20532846,
+        "valor_tir": 102854803.86234647,
+        "tasa_compra": 6.821886792452814,
+        "fecha_vencimiento": "2030-10-01"
+      },
+      {
+        "id_posicion": "866309_R20261001",
+        "especie": "BONO FDN 365",
+        "nominal": 2368050.5448416336,
+        "valor_mercado": 1655450.168026869,
+        "valor_tir": 2052464.924346119,
+        "tasa_compra": 6.821886792452814,
+        "fecha_vencimiento": "2030-10-01"
+      },
+      {
+        "id_posicion": "866446_R20261020",
+        "especie": "BN YANKEES",
+        "nominal": 46.25114532867456,
+        "valor_mercado": 200353.17744582138,
+        "valor_tir": 200353.17744582138,
+        "tasa_compra": 6.55763,
+        "fecha_vencimiento": "2033-04-20"
+      },
+      {
+        "id_posicion": "867268_R20261026",
+        "especie": "CDT BANCOLOMBIA B360 RES 274",
+        "nominal": 90715719.7979054,
+        "valor_mercado": 51569593.411712736,
+        "valor_tir": 83647979.03088252,
+        "tasa_compra": 6.571943396226421,
+        "fecha_vencimiento": "2038-07-26"
+      },
+      {
+        "id_posicion": "867662_R20261026",
+        "especie": "CDT BANCOLOMBIA B360 RES 274",
+        "nominal": 60477146.531936936,
+        "valor_mercado": 34379728.94114182,
+        "valor_tir": 55765319.35392168,
+        "tasa_compra": 6.571943396226421,
+        "fecha_vencimiento": "2038-07-26"
+      },
+      {
+        "id_posicion": "867770_R20261004",
+        "especie": "Nota Morgan Stanley  UVR",
+        "nominal": 6337345.087957879,
+        "valor_mercado": 2434614693.768234,
+        "valor_tir": 2434614693.768234,
+        "tasa_compra": 6.46766,
+        "fecha_vencimiento": "2033-10-04"
+      },
+      {
+        "id_posicion": "868050_R20261012",
+        "especie": "Nota Morgan Stanley  UVR",
+        "nominal": 747340.4141674811,
+        "valor_mercado": 303351228.63176966,
+        "valor_tir": 303351228.63176966,
+        "tasa_compra": 6.04048,
+        "fecha_vencimiento": "2028-10-12"
+      },
+      {
+        "id_posicion": "868289_R20261025",
+        "especie": "Nota Morgan Stanley  UVR",
+        "nominal": 6740578.744327861,
+        "valor_mercado": 2554103024.617619,
+        "valor_tir": 2554103024.617619,
+        "tasa_compra": 6.96573,
+        "fecha_vencimiento": "2033-10-25"
+      },
+      {
+        "id_posicion": "870591_R20260807_R20260907_R20261007",
+        "especie": "TIPS N 22 2039 PESOS",
+        "nominal": 615.321747090703,
+        "valor_mercado": 509.95099296980794,
+        "valor_tir": 509.95099296980794,
+        "tasa_compra": 14.18113,
+        "fecha_vencimiento": "2039-03-07"
+      },
+      {
+        "id_posicion": "870591_R20260807_R20261007",
+        "especie": "TIPS N 22 2039 PESOS",
+        "nominal": 58361.37620859431,
+        "valor_mercado": 48367.28409059486,
+        "valor_tir": 48367.28409059486,
+        "tasa_compra": 14.18113,
+        "fecha_vencimiento": "2039-03-07"
+      },
+      {
+        "id_posicion": "870591_R20260907_R20261007",
+        "especie": "TIPS N 22 2039 PESOS",
+        "nominal": 58328.51585996487,
+        "valor_mercado": 48340.050911380655,
+        "valor_tir": 48340.050911380655,
+        "tasa_compra": 14.18113,
+        "fecha_vencimiento": "2039-03-07"
+      },
+      {
+        "id_posicion": "870591_R20261007",
+        "especie": "TIPS N 22 2039 PESOS",
+        "nominal": 5532280.427089432,
+        "valor_mercado": 4584905.231320915,
+        "valor_tir": 4584905.231320915,
+        "tasa_compra": 14.18113,
+        "fecha_vencimiento": "2039-03-07"
+      },
+      {
+        "id_posicion": "871441_R20261026",
+        "especie": "CDT BANCOLOMBIA B360 RES 274",
+        "nominal": 60472672.173321806,
+        "valor_mercado": 44371251.13569611,
+        "valor_tir": 68171016.32884286,
+        "tasa_compra": 6.572886792452826,
+        "fecha_vencimiento": "2037-10-26"
+      },
+      {
+        "id_posicion": "873697_R20260818_R20260918_R20261018",
+        "especie": "TIPS N 23 2039 PESOS",
+        "nominal": 2596.996165478874,
+        "valor_mercado": 2320.7864574484943,
+        "valor_tir": 2320.7864574484943,
+        "tasa_compra": 13.61134,
+        "fecha_vencimiento": "2039-07-18"
+      },
+      {
+        "id_posicion": "873697_R20260818_R20261018",
+        "especie": "TIPS N 23 2039 PESOS",
+        "nominal": 250413.34199452153,
+        "valor_mercado": 223780.03502294022,
+        "valor_tir": 223780.03502294022,
+        "tasa_compra": 13.61134,
+        "fecha_vencimiento": "2039-07-18"
+      },
+      {
+        "id_posicion": "873697_R20260918_R20261018",
+        "especie": "TIPS N 23 2039 PESOS",
+        "nominal": 250333.97557739724,
+        "valor_mercado": 223709.1098100013,
+        "valor_tir": 223709.1098100013,
+        "tasa_compra": 13.61134,
+        "fecha_vencimiento": "2039-07-18"
+      },
+      {
+        "id_posicion": "873697_R20261018",
+        "especie": "TIPS N 23 2039 PESOS",
+        "nominal": 24138259.52937124,
+        "valor_mercado": 21570977.48806728,
+        "valor_tir": 21570977.48806728,
+        "tasa_compra": 13.61134,
+        "fecha_vencimiento": "2039-07-18"
+      },
+      {
+        "id_posicion": "873698_R20260818_R20260918_R20261018",
+        "especie": "TIPS N 23 2039 PESOS",
+        "nominal": 2596.996165478874,
+        "valor_mercado": 2320.7864574484943,
+        "valor_tir": 2320.7864574484943,
+        "tasa_compra": 13.61134,
+        "fecha_vencimiento": "2039-07-18"
+      },
+      {
+        "id_posicion": "873698_R20260818_R20261018",
+        "especie": "TIPS N 23 2039 PESOS",
+        "nominal": 250413.34199452153,
+        "valor_mercado": 223780.03502294022,
+        "valor_tir": 223780.03502294022,
+        "tasa_compra": 13.61134,
+        "fecha_vencimiento": "2039-07-18"
+      },
+      {
+        "id_posicion": "873698_R20260918_R20261018",
+        "especie": "TIPS N 23 2039 PESOS",
+        "nominal": 250333.97557739724,
+        "valor_mercado": 223709.1098100013,
+        "valor_tir": 223709.1098100013,
+        "tasa_compra": 13.61134,
+        "fecha_vencimiento": "2039-07-18"
+      },
+      {
+        "id_posicion": "873698_R20261018",
+        "especie": "TIPS N 23 2039 PESOS",
+        "nominal": 24138259.52937124,
+        "valor_mercado": 21570977.48806728,
+        "valor_tir": 21570977.48806728,
+        "tasa_compra": 13.61134,
+        "fecha_vencimiento": "2039-07-18"
+      },
+      {
+        "id_posicion": "874784_R20261025",
+        "especie": "CDT BBVA BASE 360 RES274",
+        "nominal": 107327226.08318494,
+        "valor_mercado": 107573206.13282822,
+        "valor_tir": 107573206.13282822,
+        "tasa_compra": 12.82088,
+        "fecha_vencimiento": "2029-07-25"
+      },
+      {
+        "id_posicion": "874786_R20261025",
+        "especie": "CDT BBVA BASE 360 RES274",
+        "nominal": 15332460.869026419,
+        "valor_mercado": 15367600.876118314,
+        "valor_tir": 15367600.876118314,
+        "tasa_compra": 12.82088,
+        "fecha_vencimiento": "2029-07-25"
+      },
+      {
+        "id_posicion": "875860_R20261026",
+        "especie": "TFIT31261050",
+        "nominal": 57621158.85830818,
+        "valor_mercado": 36306415.724214986,
+        "valor_tir": 36306415.724214986,
+        "tasa_compra": 12.02162,
+        "fecha_vencimiento": "2050-10-26"
+      },
+      {
+        "id_posicion": "875861_R20261026",
+        "especie": "TFIT31261050",
+        "nominal": 57621158.85830818,
+        "valor_mercado": 36306415.724214986,
+        "valor_tir": 36306415.724214986,
+        "tasa_compra": 12.02162,
+        "fecha_vencimiento": "2050-10-26"
+      },
+      {
+        "id_posicion": "877925_R20261027",
+        "especie": "BO OCCIDENTE 365",
+        "nominal": 2746.574535179865,
+        "valor_mercado": 2248.291861911385,
+        "valor_tir": 2583.2682944809603,
+        "tasa_compra": 6.418283018867932,
+        "fecha_vencimiento": "2029-04-27"
+      },
+      {
+        "id_posicion": "878295_R20261024",
+        "especie": "CDT BANCOLOMBIA B360 RES 274",
+        "nominal": 163955082.81176737,
+        "valor_mercado": 102234193.52682836,
+        "valor_tir": 152676584.6517224,
+        "tasa_compra": 6.641301886792439,
+        "fecha_vencimiento": "2035-07-24"
+      },
+      {
+        "id_posicion": "878318_R20261009",
+        "especie": "CDT BANCOLOMBIA B360 RES 274",
+        "nominal": 121449253.06988142,
+        "valor_mercado": 84217376.55319864,
+        "valor_tir": 123280027.21848275,
+        "tasa_compra": 6.637462264150917,
+        "fecha_vencimiento": "2035-07-09"
+      },
+      {
+        "id_posicion": "878351_R20261026",
+        "especie": "CDT BANCOLOMBIA B360 RES 274",
+        "nominal": 125405255.02758779,
+        "valor_mercado": 101524949.30653898,
+        "valor_tir": 135387006.37755224,
+        "tasa_compra": 6.5604811320754575,
+        "fecha_vencimiento": "2032-10-26"
+      },
+      {
+        "id_posicion": "878385_R20261019",
+        "especie": "Bn ISA ESP",
+        "nominal": 53361947.39408139,
+        "valor_mercado": 35455944.66415298,
+        "valor_tir": 47470492.1094105,
+        "tasa_compra": 6.565877358490568,
+        "fecha_vencimiento": "2032-04-19"
+      },
+      {
+        "id_posicion": "878400_R20261031",
+        "especie": "BO  PROMIGAS",
+        "nominal": 80835889.0800263,
+        "valor_mercado": 50306906.02755127,
+        "valor_tir": 69956384.22474712,
+        "tasa_compra": 6.609933962264147,
+        "fecha_vencimiento": "2033-01-31"
+      },
+      {
+        "id_posicion": "880727_R20261024",
+        "especie": "BN ORD EPSA",
+        "nominal": 11712412.60044149,
+        "valor_mercado": 8221319.075439112,
+        "valor_tir": 10437988.967607735,
+        "tasa_compra": 6.674783018867925,
+        "fecha_vencimiento": "2031-04-24"
+      },
+      {
+        "id_posicion": "885123_R20261016",
+        "especie": "BN ORD ITAU CORPBANCA",
+        "nominal": 3723423.8033533874,
+        "valor_mercado": 2862458.751358266,
+        "valor_tir": 3376980.218561606,
+        "tasa_compra": 6.415820754716961,
+        "fecha_vencimiento": "2029-10-16"
+      },
+      {
+        "id_posicion": "887102_R20261013",
+        "especie": "CDT BCO POPULAR RES 274",
+        "nominal": 82993352.98791659,
+        "valor_mercado": 84870147.24378121,
+        "valor_tir": 84870147.24378121,
+        "tasa_compra": 13.01388,
+        "fecha_vencimiento": "2028-07-13"
+      },
+      {
+        "id_posicion": "887866_R20261008",
+        "especie": "CDT BBVA BASE 360 RES274",
+        "nominal": 48377.93075162649,
+        "valor_mercado": 47687.058584603816,
+        "valor_tir": 47687.058584603816,
+        "tasa_compra": 12.98241,
+        "fecha_vencimiento": "2027-10-08"
+      },
+      {
+        "id_posicion": "888326_R20261030",
+        "especie": "BN ORD GASES DEL CARIBE B365",
+        "nominal": 88121259.4559727,
+        "valor_mercado": 74450266.49556305,
+        "valor_tir": 87383137.28130499,
+        "tasa_compra": 6.617528301886777,
+        "fecha_vencimiento": "2029-10-30"
+      },
+      {
+        "id_posicion": "888505_R20261008",
+        "especie": "CDT BBVA BASE 360 RES274",
+        "nominal": 12809174.79640637,
+        "valor_mercado": 12626250.429616086,
+        "valor_tir": 12626250.429616086,
+        "tasa_compra": 12.98241,
+        "fecha_vencimiento": "2027-10-08"
+      },
+      {
+        "id_posicion": "888684_R20261016",
+        "especie": "BN ORD ITAU CORPBANCA",
+        "nominal": 115634279.60724802,
+        "valor_mercado": 88896234.51423183,
+        "valor_tir": 104875162.06713058,
+        "tasa_compra": 6.415820754716961,
+        "fecha_vencimiento": "2029-10-16"
+      },
+      {
+        "id_posicion": "888866_R20261027",
+        "especie": "BO OCCIDENTE 365",
+        "nominal": 13375487.903487282,
+        "valor_mercado": 10948911.168192746,
+        "valor_tir": 12580206.13739855,
+        "tasa_compra": 6.418283018867932,
+        "fecha_vencimiento": "2029-04-27"
+      },
+      {
+        "id_posicion": "888867_R20261027",
+        "especie": "BO OCCIDENTE 365",
+        "nominal": 35787119.399418436,
+        "valor_mercado": 29294631.64985415,
+        "valor_tir": 33659283.486099906,
+        "tasa_compra": 6.418283018867932,
+        "fecha_vencimiento": "2029-04-27"
+      },
+      {
+        "id_posicion": "888952_R20261020",
+        "especie": "BN SOCIALES CORFICOL  B365",
+        "nominal": 139959629.58177352,
+        "valor_mercado": 86416913.01993683,
+        "valor_tir": 121779436.33681206,
+        "tasa_compra": 6.662867924528282,
+        "fecha_vencimiento": "2033-10-20"
+      }
+    ]
+  }
+]
